@@ -1,0 +1,9 @@
+# images and tiles are large and re-downloadable
+*.jpg
+*.jpeg
+*.png
+tiles_*/
+lines_*/
+hl_*/
+*.mlmodel
+__pycache__/
