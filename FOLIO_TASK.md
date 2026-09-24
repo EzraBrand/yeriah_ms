@@ -8,12 +8,16 @@ Genesis 2–3 rivers of Eden, Jacob/Esau/Samael, biblical lemmas from the Yeri'a
 Repo: `C:\Users\ezrab\Downloads\yeriah_ms\`. Folio id is like `077b`.
 
 Inputs for folio NNN:
-- `htr/NNN_italian_logical.txt` — kraken draft, one numbered line per row, ~85% correct. Its line numbering
-  matches the crops exactly (kraken output lines 1..k = Main_01..Main_k; margin lines follow after).
+- `htr/NNN_italian_logical.txt` — kraken draft, one numbered line per row, ~85% correct. Its numbering usually
+  matches the crops (kraken line N = Main_NN) but can be offset by 1–2 when kraken emitted interlinear words or
+  blank rows first. Align on content in the first batch and state the offset in the file header. Number the
+  transcription by the crop (Main_NN), not by kraken.
 - `al_NNN/Main_NN_R.png` and `Main_NN_L.png` — right and left halves of each main line, deskewed, 2x.
   A short line may be a single `Main_NN_F.png`. Ignore `Margin_*` files (out of focus, not needed now).
-- `al_NNN/lines.tsv` — line list; last column `red` = a red underline sits under/near the line = a lemma
-  quoted from the Yeri'ah (usually a biblical phrase or the Yeri'ah's own words).
+- `al_NNN/lines.tsv` — line list; last column `red` = red rubric ink near the line. The red bar marks a lemma
+  quoted from the Yeri'ah (a biblical phrase or the Yeri'ah's own words). Its position varies by page: it may
+  sit in the interline space ABOVE the first words of the lemma, or below them. Decide from the crops, not from
+  the flag; the flag can be off by one line.
 - `transcription/076b.md` and `077a.md` — finished examples of the output format and this scribe's habits.
 
 Procedure:
@@ -25,7 +29,8 @@ Procedure:
    Keep scribal abbreviations as written (פי' , ואמ' , הנז' , פח' , חס' , ז"ל , אע"פ).
 4. At the end add a short `## Notes` with the biblical sources of the lemmas and the sefirotic identifications.
 5. Commit: `git add transcription/NNN.md && git -c user.name="Ezra Brandt" -c user.email="ezra.b@optimaxeyewear.com" commit -m "NNN corrected"`.
-6. Report in 5 lines: lines done, count of `[?]`, lemmas found, anything odd.
+6. Also read the last two lines of the previous folio's transcription (if it exists) so line 1 joins correctly.
+7. Report in 5 lines: lines done, count of `[?]`, lemmas found, anything odd.
 
 Scribe habits seen so far: א often looks like a small ג-ל pair; final ך and ן are long; the abbreviation
 stroke ' follows פי, ואמ, נק, לומ, כדא; ﭏ ligature for אל; "הפח'" = הפחד (Gevurah), "החס'" = החסד, "מה'" = מלכות/מדה;
