@@ -18,7 +18,7 @@ def find_block(gray):
     ink = (a < 120) & (bg > 140)
     def longest_run(v, frac, k=31):
         s = np.convolve(v.astype(float), np.ones(k) / k, mode="same")
-        m = s > s.max() * frac
+        m = s > np.percentile(s, 97) * frac
         best, cur, start = (0, 0, 0), 0, 0
         for i, f in enumerate(m):
             if f:

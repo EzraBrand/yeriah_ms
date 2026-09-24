@@ -12,7 +12,7 @@ while pending and idle < 120:
     done_any = False
     for fol in sorted(pending):
         img = f"hires_{fol}.jpg"; out = f"htr/{fol}_italian.txt"
-        if os.path.exists(out):
+        if os.path.exists(out) and os.path.exists(f"al_{fol}/lines.tsv"):
             pending.discard(fol); continue
         if not os.path.exists(img):
             continue
@@ -33,8 +33,11 @@ while pending and idle < 120:
         if not ok:
             print(r.stderr[-800:], flush=True)
         pending.discard(fol); done_any = True
-        # also cut line crops for the reading pass
-        subprocess.run(["py", "-3.13", "make_lines.py", img, f"hl_{fol}", "--scale", "2"], capture_output=True)
+        # segmentation ALTO + deskewed line crops for the reading pass
+        seg = f"htr/{fol}_seg.xml"
+        subprocess.run([K, "-a", "-i", img, seg, "segment", "-bl", "-i", "models/SoferMahirCleanFL06Eb_83_tl.mlmodel"],
+                       env=env, capture_output=True)
+        subprocess.run(["py", "-3.13", "alto_lines.py", img, seg, f"al_{fol}", "--scale", "2"], capture_output=True)
     if not done_any:
         idle += 1; time.sleep(30)
     else:

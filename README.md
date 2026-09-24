@@ -25,3 +25,12 @@ C:\Users\ezrab\kraken-venv\Scripts\kraken.exe -i hires_077a.jpg htr\077a.txt seg
 2. Send at most 8 line images per model call; transcribe immediately into `transcription/NNNx.md`.
 3. Mark uncertain words `[?]`, bold the lemmas, and add `(k)` where kraken supports the reading.
 4. Second pass only on `[?]` words, with Busi's base text open for the lemmas.
+
+## Preferred line source: kraken ALTO (added 25-Sep-2026)
+`make_lines.py` (projection bands) fails on skewed pages and on red-underline rows. Use instead:
+```
+kraken -a -i hires_077a.jpg htr\077a_seg.xml segment -bl -i models\SoferMahirCleanFL06Eb_83_tl.mlmodel
+py -3.13 alto_lines.py hires_077a.jpg htr\077a_seg.xml al_077a --scale 2
+```
+This gives deskewed per-line crops (`Main_NN_R/L.png`, `Margin_NN_F.png`) whose numbering matches the
+kraken text output line-for-line. Margin text in the gutter is out of focus in the NLI photographs.
