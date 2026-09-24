@@ -15,9 +15,9 @@ Inputs for folio NNN:
 - `al_NNN/Main_NN_R.png` and `Main_NN_L.png` — right and left halves of each main line, deskewed, 2x.
   A short line may be a single `Main_NN_F.png`. Ignore `Margin_*` files (out of focus, not needed now).
 - `al_NNN/lines.tsv` — line list; last column `red` = red rubric ink near the line. The red bar marks a lemma
-  quoted from the Yeri'ah (a biblical phrase or the Yeri'ah's own words). Its position varies by page: it may
-  sit in the interline space ABOVE the first words of the lemma, or below them. Decide from the crops, not from
-  the flag; the flag can be off by one line.
+  quoted from the Yeri'ah (a biblical phrase or the Yeri'ah's own words). The bar sits in the interline space directly ABOVE the
+  lemma, usually over its first word and its last word only (sometimes wavy). Bold the whole phrase between them.
+  Trust the crops over the flag.
 - `transcription/076b.md` and `077a.md` — finished examples of the output format and this scribe's habits.
 
 Procedure:
@@ -34,5 +34,5 @@ Procedure:
 
 Scribe habits seen so far: א often looks like a small ג-ל pair; final ך and ן are long; the abbreviation
 stroke ' follows פי, ואמ, נק, לומ, כדא; ﭏ ligature for אל; "הפח'" = הפחד (Gevurah), "החס'" = החסד, "מה'" = מלכות/מדה;
-"קו האמצעי" = Tiferet; "כדא'" = כדאיתא. Red underlines mark lemmas. Skew is already corrected in the crops.
+"קו האמצעי" = Tiferet; "כדא'" = כדאיתא. Red bars above words mark lemmas. Skew is already corrected in the crops.
 Work in Simplified Technical English; answer in English.

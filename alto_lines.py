@@ -65,7 +65,9 @@ def main():
             cy = (l["by"] - box[1])
             top = int(max(0, cy - 0.85 * h)); bot = int(min(crop.height, cy + 0.45 * h))
             crop = crop.crop((0, top, crop.width, bot))
-        has_red = bool(red[box[1]:box[3] + 25, box[0]:box[2]].sum() > 40)
+        # red rubric bars sit in the interline space just ABOVE the lemma words: look 0.9*h..0.15*h above baseline
+        by = int(l["by"]); ra, rb = max(0, int(by - 0.95 * h)), max(0, int(by - 0.15 * h))
+        has_red = bool(red[ra:rb, box[0]:box[2]].sum() > 40)
         W = crop.width; mid = W // 2
         if W <= 1400:
             c = crop.resize((crop.width * a.scale, crop.height * a.scale), Image.LANCZOS)
