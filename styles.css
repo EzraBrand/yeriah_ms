@@ -73,6 +73,32 @@ body {
 
 .repo-link:hover { background: rgb(255 255 255 / 10%); }
 
+.project-nav {
+  width: min(1100px, calc(100% - 2rem));
+  margin: 1.5rem auto 0;
+  padding: .85rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem;
+  background: #fffaf1;
+  border: 1px solid #d4c2ad;
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  font: .84rem/1.4 system-ui, sans-serif;
+}
+
+.project-nav strong { margin-right: .2rem; color: #493e34; }
+.project-nav a {
+  padding: .28rem .58rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 6px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.project-nav a:hover { filter: brightness(.96); }
+
 .reader-tools {
   width: min(1100px, calc(100% - 2rem));
   margin: 1.5rem auto;
