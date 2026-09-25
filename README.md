@@ -19,23 +19,23 @@ Each translated folio places the Hebrew transcription and English translation si
 
 The following contents table follows the “Breakdown by Section of Interpretation of Biblical Texts or Topics” in my [2019 Seforim Blog essay](https://seforimblog.com/2019/07/ha-yeriah-ha-gedolah/). Its topical descriptions and printed page references derive from that table. The JTS folio and line ranges identify the corresponding portions of the commentary; links are supplied for transcriptions and translations currently available in this repository.
 
-| Section | Biblical texts or topics | Busi pages | JTS MS 2367 | Project text |
-|---:|---|---:|---|---|
-| 1 | Eden; Adam and Eve; Tree of Knowledge; curse of the serpent; Golden Calf; Moses’ staff; Balaam; Phinehas/Elijah; serpent | 119–124 | 76b:1–79a:43 | Transcriptions: [76b:1–50](transcription/076b.md), [77a:1–42](transcription/077a.md), [77b:3–46](transcription/077b.md), [78a:1–41](transcription/078a.md), [78b:1–47](transcription/078b.md), [79a:1–43](transcription/079a.md). Translations: [76b:1–50](https://ezrabrand.github.io/yeriah_ms/translation_76b.html), [77a:1–42](https://ezrabrand.github.io/yeriah_ms/translation_77a.html), [77b:3–46](https://ezrabrand.github.io/yeriah_ms/translation_77b.html), [78a:1–41](https://ezrabrand.github.io/yeriah_ms/translation_78a.html), [78b:1–47](https://ezrabrand.github.io/yeriah_ms/translation_78b.html). |
-| 2 | Flood; Moses in Egypt; Flood continued; Sacrifice of Isaac | 125–131 | 79b:1–82a:44 | Transcriptions: [79b:1–45](transcription/079b.md), [80a:1–42](transcription/080a.md), [80b:1–55](transcription/080b.md), [81a:1–46](transcription/081a.md), [81b:1–52](transcription/081b.md), [82a:1–44](transcription/082a.md). |
-| 3 | Yom Kippur service; circumcision and *orlah* (foreskin/tree) | 131–135 | 82b:1–83a, final line | Transcription: [82b:1–45](transcription/082b.md); remainder forthcoming. |
-| 4 | Hagar and Ishmael | 135–138 | 83b:1–84b, final line | Transcription and exact terminal line forthcoming. |
-| 5 | No topic identified in the 2019 outline | 139 | 84b–85a, exact lines pending | Transcription forthcoming. |
-| 6 | High Priest’s frontlet; phylacteries; dove; frontlet continued | 140–141 | 85a–86a, exact lines pending | Transcription forthcoming. |
-| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 86a–88a, exact lines pending | Transcription forthcoming. |
-| 8 | Abraham and the Covenant between the Pieces; Ruth; Keter; Messiah; Covenant continued | 148–154 | 88b–90a, exact lines pending | Transcription forthcoming. |
-| 9 | Netzach | 155–157 | 90a–90b, exact lines pending | Transcription forthcoming. |
-| 10 | Transmigration and levirate marriage; Deuteronomy 25:6–10; Song of Songs 4; Ruth and Boaz | 158–163 | 90b–91b, exact lines pending | Transcription forthcoming. |
-| 11 | Zechariah’s lampstand; Ezekiel and the lampstand; Tabernacle lampstand; Ezekiel’s chariot; scapegoat | 164–170 | 91b–93a, exact lines pending | Transcription forthcoming. |
-| 12 | Manna | 170–173 | 93a–93b, exact lines pending | Transcription forthcoming. |
-| 13 | Prayer; prohibition of *sha‘atnez* | 173–177 | 93b–95a, exact lines pending | Transcription forthcoming. |
-| 14 | Sotah (Numbers 5) | 177–181 | 95b–96a, exact lines pending | Transcription forthcoming. |
-| 15 | Red Heifer (Numbers 19) | 182–188 | 96b–97b, exact lines pending | Transcription forthcoming. |
+| Section | Biblical texts or topics | Busi pages | JTS MS 2367 | Transcriptions | Translations |
+|---:|---|---:|---|---|---|
+| 1 | Eden; Adam and Eve; Tree of Knowledge; curse of the serpent; Golden Calf; Moses’ staff; Balaam; Phinehas/Elijah; serpent | 119–124 | 76b:1–79a:43 | [76b:1–50](transcription/076b.md), [77a:1–42](transcription/077a.md), [77b:3–46](transcription/077b.md), [78a:1–41](transcription/078a.md), [78b:1–47](transcription/078b.md), [79a:1–43](transcription/079a.md) | [76b:1–50](https://ezrabrand.github.io/yeriah_ms/translation_76b.html), [77a:1–42](https://ezrabrand.github.io/yeriah_ms/translation_77a.html), [77b:3–46](https://ezrabrand.github.io/yeriah_ms/translation_77b.html), [78a:1–41](https://ezrabrand.github.io/yeriah_ms/translation_78a.html), [78b:1–47](https://ezrabrand.github.io/yeriah_ms/translation_78b.html), [79a:1–43](https://ezrabrand.github.io/yeriah_ms/translation_79a.html) |
+| 2 | Flood; Moses in Egypt; Flood continued; Sacrifice of Isaac | 125–131 | 79b:1–82a:44 | [79b:1–45](transcription/079b.md), [80a:1–42](transcription/080a.md), [80b:1–55](transcription/080b.md), [81a:1–46](transcription/081a.md), [81b:1–52](transcription/081b.md), [82a:1–44](transcription/082a.md) | Forthcoming |
+| 3 | Yom Kippur service; circumcision and *orlah* (foreskin/tree) | 131–135 | 82b:1–83a, final line | [82b:1–45](transcription/082b.md); remainder forthcoming | Forthcoming |
+| 4 | Hagar and Ishmael | 135–138 | 83b:1–84b, final line | In progress; exact terminal line forthcoming | Forthcoming |
+| 5 | No topic identified in the 2019 outline | 139 | 84b–85a, exact lines pending | Forthcoming | Forthcoming |
+| 6 | High Priest’s frontlet; phylacteries; dove; frontlet continued | 140–141 | 85a–86a, exact lines pending | Forthcoming | Forthcoming |
+| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 86a–88a, exact lines pending | Forthcoming | Forthcoming |
+| 8 | Abraham and the Covenant between the Pieces; Ruth; Keter; Messiah; Covenant continued | 148–154 | 88b–90a, exact lines pending | Forthcoming | Forthcoming |
+| 9 | Netzach | 155–157 | 90a–90b, exact lines pending | Forthcoming | Forthcoming |
+| 10 | Transmigration and levirate marriage; Deuteronomy 25:6–10; Song of Songs 4; Ruth and Boaz | 158–163 | 90b–91b, exact lines pending | Forthcoming | Forthcoming |
+| 11 | Zechariah’s lampstand; Ezekiel and the lampstand; Tabernacle lampstand; Ezekiel’s chariot; scapegoat | 164–170 | 91b–93a, exact lines pending | Forthcoming | Forthcoming |
+| 12 | Manna | 170–173 | 93a–93b, exact lines pending | Forthcoming | Forthcoming |
+| 13 | Prayer; prohibition of *sha‘atnez* | 173–177 | 93b–95a, exact lines pending | Forthcoming | Forthcoming |
+| 14 | Sotah (Numbers 5) | 177–181 | 95b–96a, exact lines pending | Forthcoming | Forthcoming |
+| 15 | Red Heifer (Numbers 19) | 182–188 | 96b–97b, exact lines pending | Forthcoming | Forthcoming |
 
 ## Manuscript credit and use
 

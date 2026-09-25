@@ -4,6 +4,14 @@
 
 This repository is an experimental scholarly transcription, translation, and presentation of Reuven Tzarfati’s *Perush ha-Yeri‘ah ha-Gedolah* from JTS MS 2367. Work in this repository should remain suitable for expert review: preserve manuscript evidence, distinguish witnesses, expose uncertainty, and avoid silently repairing difficult text.
 
+## Active workspace and concurrent work
+
+- The active shared clone is `C:\Users\ezrab\Ezra Brandt\Claude\yeriah_ms`.
+- The former clone at `C:\Users\ezrab\Downloads\yeriah_ms` is reference-only. Do not make new edits or commits there.
+- Claude may be downloading manuscript tiles or correcting transcriptions in this clone. Before editing, building, pulling, merging, rebasing, or committing, inspect `git status`, recent file modification times, and any active download/transcription logs or processes.
+- Preserve all concurrent uncommitted work. Do not clean generated folders, remove logs, restart downloads, or modify a transcription folio another process is actively writing.
+- Before publishing, fetch the remote and reconcile any divergent commits only after the active downloader or transcription job has finished. Never rewrite another agent’s commit.
+
 ## Source hierarchy and witness discipline
 
 - The JTS 2367 transcription is the source text translated in the folio HTML editions.

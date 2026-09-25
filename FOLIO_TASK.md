@@ -5,7 +5,10 @@ R. Reuven Tzarfati's commentary on Ha-Yeri'ah ha-Gedolah (JTS 2367). Kabbalistic
 (כתר/מחשבה, חכמה, בינה, חסד/גדולה, פחד/גבורה, קו האמצעי/תפארת/ישראל, נצח, הוד, יסוד, מלכות/שכינה/עטרה),
 Genesis 2–3 rivers of Eden, Jacob/Esau/Samael, biblical lemmas from the Yeri'ah.
 
-Repo: `C:\Users\ezrab\Downloads\yeriah_ms\`. Folio id is like `077b`.
+Repo: `C:\Users\ezrab\Ezra Brandt\Claude\yeriah_ms\`. Folio id is like `077b`.
+
+This Claude-root clone is the active shared working copy. The former clone at
+`C:\Users\ezrab\Downloads\yeriah_ms\` is retained only as a reference and must not receive new edits.
 
 Inputs for folio NNN:
 - `htr/NNN_italian_logical.txt` — kraken draft, one numbered line per row, ~85% correct. Its numbering usually
