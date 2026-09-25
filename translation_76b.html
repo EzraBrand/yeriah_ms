@@ -1,0 +1,466 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Parallel Hebrew-English edition of JTS MS 2367, folio 76b, Perush Ha-Yeriah Ha-Gedolah.">
+  <title>JTS 2367, fol. 76b — Hebrew–English Edition</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #27211c;
+      --muted: #6d6258;
+      --paper: #fffdf8;
+      --ground: #ede8de;
+      --accent: #7c332d;
+      --accent-dark: #54231f;
+      --rule: #d8cec0;
+      --soft: #f5efe6;
+      --note: #fff8dc;
+      --shadow: 0 12px 36px rgb(55 40 25 / 10%);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 1rem; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--ground);
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.65;
+    }
+    a { color: var(--accent); }
+    .masthead {
+      color: #fffaf0;
+      background: linear-gradient(135deg, #3d2823, #73352e 72%, #944d3e);
+      border-bottom: 4px solid #c69b68;
+    }
+    .masthead-inner {
+      width: min(1240px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 2.6rem 0 2.25rem;
+    }
+    .eyebrow {
+      margin: 0 0 .3rem;
+      color: #e2c8a6;
+      font: 700 .78rem/1.2 system-ui, sans-serif;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+    }
+    h1 { margin: 0; font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.08; }
+    .subtitle { margin: .7rem 0 0; color: #eadfd4; font-size: 1.12rem; }
+    .edition-note {
+      width: min(1240px, calc(100% - 2rem));
+      margin: 1.35rem auto;
+      padding: 1rem 1.15rem;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+      font-size: .96rem;
+    }
+    .edition-note p { margin: .3rem 0; }
+    .key { color: var(--muted); font-family: system-ui, sans-serif; font-size: .85rem; }
+    .ilanot-source {
+      width: min(1240px, calc(100% - 2rem));
+      margin: 0 auto 1.5rem;
+      padding: clamp(1.1rem, 3vw, 1.7rem);
+      background: #f3f7f2;
+      border: 1px solid #b8cbb7;
+      border-radius: 11px;
+      box-shadow: var(--shadow);
+    }
+    .ilanot-source h2 { margin: 0 0 .45rem; color: #355b32; }
+    .ilanot-source .source-intro { margin: 0 0 1rem; color: var(--muted); }
+    .ilanot-excerpt {
+      margin: .85rem 0 0;
+      padding: 1rem 1.15rem;
+      background: #fff;
+      border: 1px solid #d3dfd1;
+      border-right: 4px solid #668663;
+      border-radius: 8px;
+    }
+    .ilanot-excerpt h3 { margin: 0 0 .55rem; color: #355b32; font: 700 .92rem/1.4 system-ui, sans-serif; }
+    .ilanot-excerpt p[lang="he"] {
+      margin: 0;
+      direction: rtl;
+      text-align: right;
+      font-family: "Noto Serif Hebrew", "Times New Roman", serif;
+      font-size: 1.08rem;
+      line-height: 1.9;
+    }
+    .ilanot-link { font: 700 .82rem/1.4 system-ui, sans-serif; }
+    main { width: min(1240px, calc(100% - 2rem)); margin: 0 auto 3rem; }
+    .section {
+      margin: 0 0 1.5rem;
+      overflow: hidden;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 11px;
+      box-shadow: var(--shadow);
+    }
+    .section h2 {
+      margin: 0;
+      padding: .85rem 1rem;
+      color: var(--accent-dark);
+      background: var(--soft);
+      border-bottom: 1px solid var(--rule);
+      font-size: 1.18rem;
+      line-height: 1.35;
+    }
+    .parallel-header, .line {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 3.2rem minmax(0, 1fr);
+    }
+    .parallel-header {
+      color: var(--muted);
+      background: #fbf8f2;
+      border-bottom: 1px solid var(--rule);
+      font: 700 .73rem/1.2 system-ui, sans-serif;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .parallel-header span { padding: .65rem 1rem; }
+    .parallel-header span:last-child { text-align: right; }
+    .line { border-bottom: 1px solid rgb(216 206 192 / 65%); }
+    .line:last-child { border-bottom: 0; }
+    .translation, .source { padding: .68rem 1rem; }
+    .translation { direction: ltr; }
+    .source {
+      direction: rtl;
+      text-align: right;
+      border-left: 1px solid rgb(216 206 192 / 65%);
+      font-family: "Noto Serif Hebrew", "Times New Roman", serif;
+      font-size: 1.08rem;
+      line-height: 1.85;
+    }
+    .number {
+      display: grid;
+      place-items: start center;
+      padding-top: .82rem;
+      color: #8a7d70;
+      background: #faf6ee;
+      font: 700 .75rem/1 system-ui, sans-serif;
+    }
+    .lemma { color: var(--accent-dark); font-weight: 700; }
+    .uncertain { text-decoration: underline dotted #9d6a55 1px; text-underline-offset: 3px; }
+    sup a { padding: 0 .08rem; font: 700 .72rem/1 system-ui, sans-serif; text-decoration: none; }
+    sup a:hover { text-decoration: underline; }
+    .footnotes {
+      margin-top: 1.7rem;
+      padding: clamp(1.2rem, 3vw, 2rem);
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 11px;
+      box-shadow: var(--shadow);
+    }
+    .apparatus {
+      margin-top: 1.7rem;
+      padding: clamp(1.2rem, 3vw, 2rem);
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 11px;
+      box-shadow: var(--shadow);
+    }
+    .apparatus h2 { margin: 0 0 .4rem; color: var(--accent-dark); }
+    .apparatus h3 { margin: 2rem 0 .65rem; color: #493e34; }
+    .apparatus-intro { margin-top: 0; color: var(--muted); }
+    .diagram {
+      margin: 1rem 0 1.8rem;
+      padding: clamp(1rem, 3vw, 1.6rem);
+      overflow-x: auto;
+      background: linear-gradient(180deg, #fbf5eb, #f3ece1);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+    }
+    .diagram-flow {
+      min-width: 690px;
+      display: grid;
+      justify-items: center;
+      gap: .55rem;
+    }
+    .node {
+      min-width: 210px;
+      max-width: 310px;
+      padding: .75rem 1rem;
+      text-align: center;
+      background: #fffdf8;
+      border: 2px solid #a66f59;
+      border-radius: 9px;
+      box-shadow: 0 4px 14px rgb(77 50 32 / 8%);
+    }
+    .node strong { display: block; color: var(--accent-dark); }
+    .node span { display: block; color: var(--muted); font: .82rem/1.4 system-ui, sans-serif; }
+    .node.provisional { border-style: dashed; }
+    .arrow { color: #98634d; font: 700 1.5rem/1 system-ui, sans-serif; }
+    .branches {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(145px, 1fr));
+      gap: .65rem;
+      position: relative;
+    }
+    .branches::before {
+      content: "";
+      position: absolute;
+      top: -.55rem;
+      left: 12.5%;
+      right: 12.5%;
+      border-top: 2px solid #b98b73;
+    }
+    .branches .node { min-width: 0; padding: .65rem; }
+    figcaption { margin-top: .8rem; color: var(--muted); font: .82rem/1.45 system-ui, sans-serif; }
+    .table-wrap { overflow-x: auto; border: 1px solid var(--rule); border-radius: 8px; }
+    table { width: 100%; border-collapse: collapse; background: #fff; }
+    th, td { padding: .72rem .8rem; vertical-align: top; border-bottom: 1px solid var(--rule); text-align: left; }
+    th {
+      color: #4d4035;
+      background: var(--soft);
+      font: 700 .76rem/1.3 system-ui, sans-serif;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    tr:last-child td { border-bottom: 0; }
+    td:first-child { font-weight: 700; }
+    .status {
+      display: inline-block;
+      padding: .12rem .4rem;
+      border-radius: 999px;
+      background: #eee5d8;
+      color: #5f5145;
+      font: 700 .68rem/1.4 system-ui, sans-serif;
+      white-space: nowrap;
+    }
+    .status.explicit { background: #e2efdf; color: #355b32; }
+    .status.provisional { background: #fff0ce; color: #755313; }
+    .footnotes h2 { margin-top: 0; color: var(--accent-dark); }
+    .footnotes ol { padding-left: 1.5rem; }
+    .footnotes li { margin: 0 0 .75rem; padding-left: .25rem; }
+    .source-note { color: var(--muted); font: italic .82rem/1.4 system-ui, sans-serif; }
+    .backref { margin-left: .25rem; font-family: system-ui, sans-serif; text-decoration: none; }
+    footer {
+      width: min(1240px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 0 0 3rem;
+      color: var(--muted);
+      text-align: center;
+      font: .82rem/1.5 system-ui, sans-serif;
+    }
+    @media (max-width: 760px) {
+      .parallel-header { display: none; }
+      .line { grid-template-columns: 2.5rem minmax(0, 1fr); }
+      .number { grid-row: 1 / span 2; }
+      .source, .translation { grid-column: 2; }
+      .source { grid-row: 1; border-left: 0; border-bottom: 1px dashed var(--rule); }
+      .translation { grid-row: 2; }
+      .source::before, .translation::before {
+        display: block;
+        margin-bottom: .25rem;
+        color: var(--muted);
+        font: 700 .66rem/1.2 system-ui, sans-serif;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+      }
+      .source::before { content: "Hebrew"; text-align: left; direction: ltr; }
+      .translation::before { content: "Translation"; }
+      .apparatus { padding: 1rem; }
+    }
+    @media print {
+      body { background: #fff; }
+      .masthead { color: #000; background: #fff; border-bottom: 2px solid #000; }
+      .section, .edition-note, .footnotes { box-shadow: none; }
+      .section { break-inside: avoid; }
+      a { color: inherit; text-decoration: none; }
+    }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <p class="eyebrow">Parallel Hebrew–English working edition</p>
+      <h1>JTS MS 2367, fol. 76b</h1>
+      <p class="subtitle" dir="auto">פרוש היריעה הגדולה — Perush Ha-Yeri‘ah Ha-Gedolah</p>
+    </div>
+  </header>
+
+  <aside class="edition-note">
+    <p><strong>Editorial statement.</strong> This is a provisional academic translation of the current draft transcription. It follows the manuscript lineation and does not silently emend uncertain or corrupt readings. Technical names are transliterated; “hypostasis” translates <span lang="he" dir="rtl">הויה</span> where the author appears to mean an emanated divine grade.</p>
+    <p class="key"><span class="uncertain">Dotted underline</span> marks an uncertain source reading or translation; bold maroon type marks a manuscript lemma. Lines 51–52 remain unread in the source transcription.</p>
+  </aside>
+
+  <section class="ilanot-source" id="ilanot-source-text">
+    <h2>Comparative source: Oxford Great Parchment</h2>
+    <p class="source-intro">The following Hebrew is the text attached to the corresponding highlighted regions of Oxford, Bodleian Library MS Hunt. Add. E in the Ilanot Portal. It is supplied as comparative evidence, not silently substituted for the JTS commentary’s lemmata. The links open the exact regions on the parchment.</p>
+
+    <article class="ilanot-excerpt">
+      <h3>Opening verses and subject heading · <a class="ilanot-link" href="https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm&amp;shape=shape_region_77bf3926-1065-4024-ff7c-2378df36662a#5.000/-33.400/148.282">View highlighted region in the Ilanot Portal</a></h3>
+      <p lang="he" dir="rtl">מגדל עוז שם ייי' בו ירוץ צדיק ונשגב. יהי לבי תמים בחקיך למען לא אבוש. ביאור על אברהם שילד ישמעאל וגם שאל במה אדע.</p>
+    </article>
+
+    <article class="ilanot-excerpt">
+      <h3>Keter, the four rivers, and the chain of emanation · <a class="ilanot-link" href="https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm&amp;shape=shape_region_83d6ca06-9ea5-4060-e9bb-1675f00ff093#5.000/-33.400/148.282">View highlighted region in the Ilanot Portal</a></h3>
+      <p lang="he" dir="rtl"><strong>כת״ר</strong> הבריכה העליונה אל מסילת שדה כובס ויוצא מעדן להשקות שדה הגן ונהר אחד ומשם יפרד והיה השלשת לד' ראשים חכמ״ה בינ״ה גדול״ה גבור״ה פישו״ן אשר שם הזהב הטוב והבדולח ואבן השהם ולא כמעשה לבנת הספיר. חדק״ל ב' ההולך קדמת אשור. אשרי תמימי דרך ההולכים הולך תמים ופועל צדק. גיחו״ן ג' הסובב את כל ארץ כוש וכוש ילד את נמרוד הוא החל להיות גבור בארץ גבורה. ופר״ת הנהר הרביעי פרים ורבים כבני אדם אלה תולדות עשו ועץ החיים בתוך הגן ישראל ומיכאל ועץ הדעת כת יעקב הנלחם עם סמאל עד עלות השחר והוא הנחש ונעלם דרך נחש עלי צור אחר התרדמה כי ממנו יצא המתנגד אותו ולא יתבוששו כי בצלם אלהים ברא אותו זכר ונקבה ברא אותם כי השלש[[ל]]ת היתה כפולה הצלמו ותחסרהו מעט והירך נשמט ממקומו ותאכל ותתן לאישה. חגור חרבך על ירך גבור״ה הו״ד. מצות עשה והדרך נצח מצות לא תעשה. רכב יסו״ד מיד ויתפרו עלה תאנה העולם התחתון ולא מן הפרי כי הוא למעלה ונוצר תאנה יאכל פריה. ותהי איבה בין האריה והדוב ועל זה הדרך חטאו דור המבול עד שבא נצח תמים בדורותיו וחס״ד למעלה ממנו והנחש האריך זנבו עד שנגע בראובן ובלבל יצועי אביו ולא חטא ונקצצו רגלי הנחש ובאו בעגל הזהב על ידי יוסף הצדיק והציצו ו[נפ]געו כי הזהב הטוב בא מנהר פישון והנה שמו אותו באש ההפך ויוסף הצדיק היה שור ונעשה עגל כי בשש משה מ'טטרון ש'ר ה'פנים כי זה משה האיש מיכאל שר הגדול וזה עלה למרום ומטה משה בקע ים סוף זה אלי ואנוהו ומטה משה השני הכה את הסלע והוא האתון שאמרה כי הכיתני זה שלש רגלים והיא אם החמור בני אתונות ותלחץ אל הקיר. ומלאך ה' חרבו שלופה בידו. בלעם הרג ואותה החיה ועל כן מנצח והיא מצות לא תעשה השלש[[ל]]ת פשוטה על שאמר ויחל העם לזנות ואמר המלאך הדובר ב[[נו]] הוקע אותם לייי' נגד השמש וישוב חרון אף ייי' מישראל ובא פנחס זה אליהו ויקח הוד וידקור את הנחש וחוה ועל כן נתן לו ברית שלום. חנוך אמר הנה מלאכי ילך לפניך כי במצרים השלשלת כפולה על יסו״ד מק״ו האמצעי תפאר״ת ומצות עשה תולדות השמים בה' בראם.</p>
+    </article>
+  </section>
+
+  <main>
+    <section class="section" id="preface">
+      <h2>Preface · Lines 1–5</h2>
+      <div class="parallel-header"><span>Translation</span><span>Line</span><span>Hebrew transcription</span></div>
+      <div class="line"><div class="translation">Know that the author’s intention in this <span class="uncertain">treatise [?]</span>, in certain places, comprises two matters: the one</div><div class="number">1</div><div class="source" lang="he">דע לך כי כוונת המחבר האיגרת[?] הזאת בקצת המקומות · יש בו שני עניינים אחד</div></div>
+      <div class="line"><div class="translation">is by way of rational investigation and permutation, and the other by way of true received tradition. Moreover, in many places</div><div class="number">2</div><div class="source" lang="he">על צד החקירה והצירוף · ואחד על צד הקבלה האמיתית · ועוד כי במקומות רבים</div></div>
+      <div class="line"><div class="translation">he lengthened the account and particularized it to the utmost <span class="uncertain">degree [?]</span>, and afterward summarized it at the end of his account. I,</div><div class="number">3</div><div class="source" lang="he">האריך הסיפור ופרט אותו בתכלית ההפרטה[?] ואחר כך כלל אותו בסוף ספורו ואני</div></div>
+      <div class="line"><div class="translation">in certain places, shall explain the entire account to you in a general manner, so as to ease the reader;</div><div class="number">4</div><div class="source" lang="he">בקצת מקומות אבאר לך הסיפור כלו על דרך כללית כדי להקל המעיין :</div></div>
+      <div class="line"><div class="translation">and afterward I shall explain each and every account in detail, on its own, through the end of the account. <span class="lemma">A tower—</span></div><div class="number">5</div><div class="source" lang="he">ואחר כך אבאר כל ספור וספור בפרט בפני עצמו עד סוף הספור : <strong class="lemma">מגדל</strong></div></div>
+    </section>
+
+    <section class="section" id="lemma-1">
+      <h2>Lemma 1 · The two opening verses · Lines 6–17</h2>
+      <div class="parallel-header"><span>Translation</span><span>Line</span><span>Hebrew transcription</span></div>
+      <div class="line"><div class="translation"><span class="lemma">[of strength], at your <span class="uncertain">coming [?]</span>.</span> The author’s intention in writing two verses at the head of the account—namely, “A tower</div><div class="number">6</div><div class="source" lang="he"><strong class="lemma">[עוז] לביאתך[?]</strong> : כוונת המחבר שכתב שני פסוקים בראש הספור והם מגדל</div></div>
+      <div class="line"><div class="translation">of strength,” etc., and “May my heart be blameless,” etc.—is that the initial letters of the two verses are <em>mem-yod</em>, numerically fifty, to indicate that<sup id="ref-1"><a href="#fn-1">1</a></sup></div><div class="number">7</div><div class="source" lang="he">עוז וגו' · יהי לבי תמים וגו' ראשי תיבות מן שני פסוקים הם מ"י לרמוז כי את[?]</div></div>
+      <div class="line"><div class="translation">the first hypostasis is the locus of the fifty gates of <em>Binah</em>. Together with this, the import of the verses points</div><div class="number">8</div><div class="source" lang="he">ההויה הראשונה היא מקום חמשים שערי בינה · עם הוראת הפסוקים מורים</div></div>
+      <div class="line"><div class="translation">to the first hypostasis. He said that “A tower of strength is the name of YHWH”; and the <span class="uncertain">Book of Creation [?]</span> has already said: wherever<sup id="ref-2"><a href="#fn-2">2</a></sup></div><div class="number">9</div><div class="source" lang="he">אל[?] ההויה הראשונה · ואמ' שמגדל עוז הוא שם יי וכבר אמ' ספר יצי'[?] כל מקו(ם)</div></div>
+      <div class="line"><div class="translation">the four-letter Name is written, it alludes to Thought and to the middle line. And it says of it: “into it the righteous man runs”—</div><div class="number">10</div><div class="source" lang="he">שכתו' השם בן ד' אותיות רמז הוא למחשבה ולקו האמצעי · ואמ' בו ירוץ צדיק</div></div>
+      <div class="line"><div class="translation">that is, a person is obliged to fasten his end in his beginning; then, “I shall raise him on high, for he knows My name.” The second verse<sup id="ref-3"><a href="#fn-3">3</a></sup></div><div class="number">11</div><div class="source" lang="he">כלומ' שחייב אדם לנעוץ סופו בתחלתו ואז אשגבהו כי ידע שמי · והפסוק השני</div></div>
+      <div class="line"><div class="translation">is joined to this when it says, “May my heart be blameless in Your statute,” because the end of the act is sometimes called <em>ḥoq</em></div><div class="number">12</div><div class="source" lang="he">מצורף לזה באמרו יהי לבי תמים בחוקך · כי סוף המעשה פעם נקראה חוק</div></div>
+      <div class="line"><div class="translation">and sometimes <em>ḥuqqah</em>. Thus it said, “May my heart be blameless” in that attribute, and [that one should] fasten one’s end in one’s beginning, “so that</div><div class="number">13</div><div class="source" lang="he">ולפעמ' חוקה ועל כן אמ' יהי לבי תמים באותה המדה ולנעוץ סופו בתחלתו למען</div></div>
+      <div class="line"><div class="translation">I not be ashamed”—unlike the first Adam. At first “they were not ashamed,” but when they adhered to the Tree of Knowledge,</div><div class="number">14</div><div class="source" lang="he">לא אבוש כמו אדם הראשון כי מתחלה לא יתבוששו ובהתדבק בעץ הדעת</div></div>
+      <div class="line"><div class="translation">they became ashamed. <span class="uncertain">And [?]</span> the matter of seeing and understanding is <span class="uncertain">especially associated with Mah [?]</span>, while shame is bound<sup id="ref-4"><a href="#fn-4">4</a></sup></div><div class="number">15</div><div class="source" lang="he">יתבוששו וא'[?] ועניין הראיה וההבנה מליות[?] מיוחדת אל מה[?] והבושה דבוקה</div></div>
+      <div class="line"><div class="translation">to sight. Explanation: know that the entire account written above concerning Wisdom comes to explain</div><div class="number">16</div><div class="source" lang="he">אל הראייה · פי' דע לך כי כל הסיפור הנכת' למעלה מן החכמה בא לבאר</div></div>
+      <div class="line"><div class="translation">to us the rationale of those who demolish, together with those who annul the demolition, and the secret of arousal.<sup id="ref-5"><a href="#fn-5">5</a></sup></div><div class="number">17</div><div class="source" lang="he">לנו טעם ההורסים עם מבטלי ההריסה · וסוד ההתעוררות</div></div>
+    </section>
+
+    <section class="section" id="lemma-2">
+      <h2>Lemma 2 · The upper pool, path, and field · Lines 18–34</h2>
+      <div class="parallel-header"><span>Translation</span><span>Line</span><span>Hebrew transcription</span></div>
+      <div class="line"><div class="translation">He wrote: <span class="lemma">“The upper pool; toward a path; a field; a star.”</span> Explanation: the first <em>sefirah</em></div><div class="number">18</div><div class="source" lang="he">כתב <strong class="lemma">הבריכה העליונה אל מסילה שדה כוכב</strong> · פי' כי הספירה הראשונה</div></div>
+      <div class="line"><div class="translation">is the source and the spring that never ceases, for it is emanated from <span class="uncertain">the Mother [?]</span>. He therefore employed the language of a “pool,”</div><div class="number">19</div><div class="source" lang="he">הוא המקור והמעיין שאינו פוסק כי הוא נאצל מאם[?] לכן נקט לשון בריכה</div></div>
+      <div class="line"><div class="translation">because the water found in a pool is drawn from another place, <span class="uncertain">emanated [?]</span>. <span class="lemma">Toward the path of</span></div><div class="number">20</div><div class="source" lang="he">כי המים הנמצאים בבריכה נמשכות הם ממקום אחר נאצל[?] <strong class="lemma">אל מסילת</strong></div></div>
+      <div class="line"><div class="translation"><span class="lemma">the field; a star.</span> Explanation: [from] the first <em>sefirah</em>—that is, a single thread extends from the pool</div><div class="number">21</div><div class="source" lang="he"><strong class="lemma">שדה כוכב</strong> · פי' כי הספירה הראשונה כלומ' כי חוט אחד נמשך מן הבריכה</div></div>
+      <div class="line"><div class="translation">to the field, namely the field in which Abel was killed. It employs the language of a “path” because that thread is not</div><div class="number">22</div><div class="source" lang="he">אל השדה והוא השדה שנהרג בו הבל ונקט לשון מסילה כי אינו דבר</div></div>
+      <div class="line"><div class="translation">entirely manifest, on account of sin. Nevertheless, the <span class="uncertain">fourth [?]</span> thread cleanses and removes<sup id="ref-6"><a href="#fn-6">6</a></sup></div><div class="number">23</div><div class="source" lang="he">מפורסם אותו החוט לגמרי בסבת החטא · אמנם החוט ד'[?] הוא מכבס ומסלק</div></div>
+      <div class="line"><div class="translation">that pollution from the aforementioned serpent. <span class="lemma">“A single river issues from Eden to water the field of the garden,</span></div><div class="number">24</div><div class="source" lang="he">הזוהמא ההיא מן הנחש הנזכר · <strong class="lemma">ויוצא מעדן להשקות שדה הגן נהר אחד</strong></div></div>
+      <div class="line"><div class="translation"><span class="lemma">and from there it divides.”</span> Explanation: the aforementioned Eden is supernal Thought, while the aforementioned river is<sup id="ref-7"><a href="#fn-7">7</a></sup></div><div class="number">25</div><div class="source" lang="he"><strong class="lemma">ומשם יפרד</strong> · פי' העדן הנז' הנה הוא המחשבה העליונה · והנהר הנזכר הוא</div></div>
+      <div class="line"><div class="translation">supernal <em>Chokhmah</em>. When it mentioned Eden, which is the pool, it mentioned a path in connection with the field;</div><div class="number">26</div><div class="source" lang="he">החכמה העליונה · וכשהזכיר העדן שהוא הבריכה הזכיר מסילה אצל שדה</div></div>
+      <div class="line"><div class="translation">and when it mentioned the river, it mentioned watering in connection with the field, since the course of water that waters</div><div class="number">27</div><div class="source" lang="he">וכשהזכיר הנהר הזכיר השקאה אצל שדה כי מקום מרוצת המים להשקות</div></div>
+      <div class="line"><div class="translation">is more manifest and recognizable than the path. It therefore mentioned watering in connection with the river, which is supernal</div><div class="number">28</div><div class="source" lang="he">יותר דבר מפורסם וניכר מן המסילה לכך הזכיר אצל הנהר שהוא החכמה</div></div>
+      <div class="line"><div class="translation"><em>Chokhmah</em>, because from there everything expands—<span class="uncertain">as it says in Kings [?], “he stretched out his hand,” etc.</span> “And from there</div><div class="number">29</div><div class="source" lang="he">העליונה השקאה כי משם התפשטות הכל · כדא' במלכים[?] שלח ידו · וכו' ומשם</div></div>
+      <div class="line"><div class="translation">it divides”: for he calls [that place] the pool, and from the pool four rivers were emanated. It should not be difficult</div><div class="number">30</div><div class="source" lang="he">יפרד · כי הבריכה קורא שם ומן הבריכה נאצלו ארבע נהרות · ואל יקשה</div></div>
+      <div class="line"><div class="translation">for you to say: since the rivers symbolize the first, supernal hypostases, as the</div><div class="number">31</div><div class="source" lang="he">לך לומ' מאחר שהנהרות הם רמז להויות ראשונות עליונות כאשר אמר</div></div>
+      <div class="line"><div class="translation">author stated, why did he employ the language of “divides,” since they have no separation? One may say that, just as <span class="uncertain">after the writing [?] and</span></div><div class="number">32</div><div class="source" lang="he">המחבר איך נקט לשון יפרד כי אין להם פירוד יש לומ' כי כדרך אחרי הכת[?] ו</div></div>
+      <div class="line"><div class="translation"><span class="uncertain">the souls [?]</span> of whiteness, so did he make it, and the chain became four heads. Explanation: that thread</div><div class="number">33</div><div class="source" lang="he">נשמות[?] הלובן עשה כן והיה השלשלת לארבעה ראשים · פי' כי אותו החוט</div></div>
+      <div class="line"><div class="translation">extends from the pool; it is the secret of whiteness, the secret of the white radiance that expands into four colors.<sup id="ref-8"><a href="#fn-8">8</a></sup></div><div class="number">34</div><div class="source" lang="he">נמשך מן הבריכה והוא סוד הלובן אותו סוד הזוהר הלבן המתפשט לארבע גוונים</div></div>
+    </section>
+
+    <section class="section" id="lemma-3">
+      <h2>Lemma 3 · The rivers, Pishon, and the good gold · Lines 35–44</h2>
+      <div class="parallel-header"><span>Translation</span><span>Line</span><span>Hebrew transcription</span></div>
+      <div class="line"><div class="translation">These are the aforementioned rivers and heads, namely <span class="uncertain">Ḥ-B-G-P [?]</span>. <span class="lemma">“And Pishon, where there is the gold—</span><sup id="ref-9"><a href="#fn-9">9</a></sup></div><div class="number">35</div><div class="source" lang="he">והם הנהרות הנזכרות והראשים והם ח'ב'ג' פ'[?] · <strong class="lemma">ופישון אשר שם הזהב</strong></div></div>
+      <div class="line"><div class="translation"><span class="lemma">the good [gold], the bdellium, and the onyx stone; but not like the pavement of sapphire.”</span> Explanation: he associated Pishon with the</div><div class="number">36</div><div class="source" lang="he"><strong class="lemma">הטוב הבדולח ואבן השהם ולא כמעשה לבנת הספיר</strong> · פי' יחס פישון אל הנהר</div></div>
+      <div class="line"><div class="translation">first river, which is supernal <em>Chokhmah</em>, because the Targum of “be fruitful” is “increase”; from there the human</div><div class="number">37</div><div class="source" lang="he">הראשון שהוא חכמה עליונה כי תרגו' פרו פושו ומשם פרה ורבה השכל</div></div>
+      <div class="line"><div class="translation">intellect is fruitful and multiplies, and receives an increase of <span class="uncertain">this [?]</span>—that is, radiance and an <span class="uncertain">unbounded [?]</span> efflux—by virtue of its unfolding through the plenitude</div><div class="number">38</div><div class="source" lang="he">האנושי ומקבל תוספת זו[?] פי' זוהר ושפע בלתי[?] בסיבת השתלשלותו בשלמות</div></div>
+      <div class="line"><div class="translation">of the hypostases. When he said “where there is the good gold”: you already know that gold is assigned to Judgment. Yet</div><div class="number">39</div><div class="source" lang="he">ההויות · ואמ' אשר שם הזהב הטוב כבר ידעת כי הזהב מיוחד לדין[?] אמנם</div></div>
+      <div class="line"><div class="translation">one Judgment is harsher than another. Supernal <em>Chokhmah</em> is a good Judgment, for by means of that Judgment a person can overcome</div><div class="number">40</div><div class="source" lang="he">יש דין יותר קשה מחבירו והחכמה העליונה הוא דין טוב כי באותו הדין ינצח</div></div>
+      <div class="line"><div class="translation">the other Judgment, which issues from <em>Pachad</em>. He attributed whiteness to it by saying “the bdellium and the onyx stone,”</div><div class="number">41</div><div class="source" lang="he">האדם הדין האחר הנמשך מן הפחד ויחס לו הלובן באומרו הבדולח ואבן השוהם</div></div>
+      <div class="line"><div class="translation">because this river includes Eden, which is true whiteness. When he said, “but not like the pavement of</div><div class="number">42</div><div class="source" lang="he">כי זה הנהר הוא כלול מן העדן שהוא הלובן האמתי · ובאמרו ולא כמעשה לבנת</div></div>
+      <div class="line"><div class="translation">sapphire”: the last hypostasis is called “the pavement of sapphire.” Although it is Judgment, because a <span class="uncertain">serpent [?]</span></div><div class="number">43</div><div class="source" lang="he">הספיר · כי ההויה אחרונה נק' לבנת הספיר אע"פ שהיא דין מפני שנחש[?]</div></div>
+      <div class="line"><div class="translation">is drawn toward it, he comes to reveal a general principle to us: just as one Judgment is greater than another, so too is one Mercy<sup id="ref-10"><a href="#fn-10">10</a></sup></div><div class="number">44</div><div class="source" lang="he">נמשך אליה ובא לגלות לנו כלל שכמו שיש דין יותר גדול מחבירו כן יש רחמים</div></div>
+    </section>
+
+    <section class="section" id="lemma-4">
+      <h2>Lemma 4 · Tigris, Asshur, and the path of integrity · Lines 45–50</h2>
+      <div class="parallel-header"><span>Translation</span><span>Line</span><span>Hebrew transcription</span></div>
+      <div class="line"><div class="translation">greater than another. <span class="lemma">“The Tigris goes east of Asshur”; “Happy are those whose way is blameless, who walk—”</span></div><div class="number">45</div><div class="source" lang="he">יותר גדול מחבירו · <strong class="lemma">חדקל הולך קדמת אשור אשרי תמימי דרך ההולכים</strong></div></div>
+      <div class="line"><div class="translation"><span class="lemma">“He who walks blamelessly and does what is righteous.”</span> Explanation: he associated the Tigris with <em>Binah</em>, and said that it “goes east of</div><div class="number">46</div><div class="source" lang="he"><strong class="lemma">הולך תמים ופועל צדק</strong> פי' יחס חדקל אל הבינה ואמ' הולך קדמת</div></div>
+      <div class="line"><div class="translation">Asshur,” because Water—which is <em>Chesed</em>, and which preceded the supernal world—was emanated from Spirit, which is</div><div class="number">47</div><div class="source" lang="he">אשור כי מים שהוא חסד[?] והוא קדם לעולם העליון נאצל מן הרוח שהוא</div></div>
+      <div class="line"><div class="translation"><em>Binah</em>. He called <em>Chesed</em> “Asshur” because it is the head of the six extremities. Therefore he said, “Happy are<sup id="ref-11"><a href="#fn-11">11</a></sup></div><div class="number">48</div><div class="source" lang="he">הבינה וקרא לחסד[?] אשור כי הוא ראש לו' קצוות · ולכך אמ' אשרי</div></div>
+      <div class="line"><div class="translation">those whose way is blameless,” for blamelessness issues from <em>Chesed</em>, which is the head of the supernal world. This is joined</div><div class="number">49</div><div class="source" lang="he">תמימי דרך כי התמימות נמשך מחסד שהוא ראש לעולם העליון · מצורף</div></div>
+      <div class="line"><div class="translation">to the sages’ dictum: “All the turns that you make should be only to the right.” And by saying, “He who walks—”<sup id="ref-12"><a href="#fn-12">12</a></sup></div><div class="number">50</div><div class="source" lang="he">אל מאמרם ז"ל כל פינות שאתה פונה לא יהו אלא לימין · ובאומרו הולך</div></div>
+      <div class="line"><div class="translation"><em>[Not yet read.]</em></div><div class="number">51–52</div><div class="source" lang="he">[טרם נקרא]</div></div>
+    </section>
+
+    <section class="apparatus" id="visual-apparatus">
+      <h2>Visual and comparative apparatus</h2>
+      <p class="apparatus-intro">The aids below summarize the associations made on this folio. Dashed borders and “provisional” labels identify editorial reconstructions rather than explicit identifications in the surviving text.</p>
+
+      <h3>1. Emanative movement described in lines 18–44</h3>
+      <figure class="diagram" aria-labelledby="emanation-caption">
+        <div class="diagram-flow" role="img" aria-label="Diagram showing the upper pool or Eden flowing through a river identified as Chokhmah, then dividing into four heads or colors">
+          <div class="node"><strong>Upper Pool · Eden</strong><span>Supernal Thought · lines 18–26</span></div>
+          <div class="arrow" aria-hidden="true">↓</div>
+          <div class="node"><strong>River · Pishon</strong><span>Supernal Chokhmah · lines 25–42</span></div>
+          <div class="arrow" aria-hidden="true">↓</div>
+          <div class="node"><strong>One thread / hidden path</strong><span>Whiteness flowing toward the field · lines 21–34</span></div>
+          <div class="arrow" aria-hidden="true">↓</div>
+          <div class="branches">
+            <div class="node provisional"><strong>Chokhmah</strong><span>Ḥ · provisional expansion</span></div>
+            <div class="node provisional"><strong>Binah</strong><span>B · Tigris in lines 45–48</span></div>
+            <div class="node provisional"><strong>Gedulah / Chesed</strong><span>G · whiteness / Asshur</span></div>
+            <div class="node provisional"><strong>Pachad / Gevurah</strong><span>P · the harsher Judgment</span></div>
+          </div>
+        </div>
+        <figcaption id="emanation-caption">Figure 1. A reading of the folio’s “pool → river → thread → four heads” sequence. The fourfold expansion follows the likely, but not certain, expansion of <span lang="he" dir="rtl">ח׳ב׳ג׳פ׳</span> in line 35. The diagram represents procession without implying separation, precisely the difficulty addressed in lines 30–34.</figcaption>
+      </figure>
+
+      <h3>2. Symbolic correspondences on folio 76b</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Textual image</th><th>Interpreted grade</th><th>Function on this folio</th><th>Lines</th><th>Status</th></tr></thead>
+          <tbody>
+            <tr><td>Upper pool / Eden</td><td>Supernal Thought, apparently Keter</td><td>Unceasing source from which the river proceeds</td><td>18–26</td><td><span class="status explicit">Explicit</span></td></tr>
+            <tr><td>River / Pishon</td><td>Supernal Chokhmah</td><td>Channel of expansion; source of intellectual increase and “good Judgment”</td><td>25–42</td><td><span class="status explicit">Explicit</span></td></tr>
+            <tr><td>Thread / path</td><td>Emanative link</td><td>Hidden current carrying whiteness from the pool to the field</td><td>21–34</td><td><span class="status explicit">Explicit</span></td></tr>
+            <tr><td>Field where Abel died</td><td>Malkhut</td><td>Lower destination obscured through sin</td><td>21–24</td><td><span class="status provisional">Notes / provisional</span></td></tr>
+            <tr><td>Bdellium and onyx</td><td>Whiteness / mercy within the river</td><td>Qualifies Chokhmah’s Judgment as “good” rather than harsh</td><td>35–42</td><td><span class="status explicit">Explicit</span></td></tr>
+            <tr><td>Pavement of sapphire</td><td>Last hypostasis, apparently Malkhut</td><td>Judgment toward which the serpent is drawn</td><td>36, 42–44</td><td><span class="status explicit">Explicit</span></td></tr>
+            <tr><td>Tigris</td><td>Binah</td><td>Source identified with Spirit</td><td>45–48</td><td><span class="status explicit">Explicit</span></td></tr>
+            <tr><td>Asshur / Water</td><td>Chesed</td><td>First or “head” of the six lower extremities; associated with the right</td><td>45–50</td><td><span class="status explicit">Explicit</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>3. Citation map</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Source</th><th>Phrase used or interpreted</th><th>Role in the exposition</th><th>Lines</th></tr></thead>
+          <tbody>
+            <tr><td>Psalm 61:4</td><td>“A tower of strength”</td><td>Its initial <em>mem</em>, paired with Ps. 119:80, yields the numerical value fifty.</td><td>5–9</td></tr>
+            <tr><td>Psalm 119:80</td><td>“May my heart be blameless in Your statute”</td><td>Connects blamelessness, the final attribute, and joining end to beginning.</td><td>7, 12–14</td></tr>
+            <tr><td>Proverbs 18:10</td><td>“A tower of strength is the name of YHWH; into it the righteous runs”</td><td>Links the divine Name with Thought and the middle line.</td><td>9–11</td></tr>
+            <tr><td>Psalm 91:14</td><td>“I shall raise him on high, for he knows My name”</td><td>Completes the interpretation of attachment to the divine Name.</td><td>11</td></tr>
+            <tr><td>Genesis 2:10</td><td>The river issuing from Eden and dividing</td><td>Provides the central image for undivided emanation into four heads.</td><td>24–34</td></tr>
+            <tr><td>Genesis 2:11–12</td><td>Pishon, good gold, bdellium, and onyx</td><td>Maps Pishon to Chokhmah and distinguishes degrees of Judgment and Mercy.</td><td>35–42</td></tr>
+            <tr><td>Exodus 24:10</td><td>“Pavement of sapphire”</td><td>Represents the last hypostasis in contrast to the river’s whiteness.</td><td>36, 42–44</td></tr>
+            <tr><td>Genesis 2:14</td><td>Tigris east of Asshur</td><td>Maps Tigris to Binah and Asshur to Chesed.</td><td>45–48</td></tr>
+            <tr><td>Psalms 119:1; 15:2</td><td>The blameless way and one who walks blamelessly</td><td>Associates integrity with Chesed and the right side.</td><td>45–50</td></tr>
+            <tr><td>Babylonian Talmud, Yoma 15b</td><td>“All the turns that you make should be only to the right”</td><td>Supports the identification of Chesed with rightward orientation.</td><td>49–50</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="footnotes" id="notes">
+      <h2>Notes</h2>
+      <ol>
+        <li id="fn-1">The lemmata combine Ps. 61:4, <span lang="he" dir="rtl">מגדל עוז</span> (“a tower of strength”), and Ps. 119:80, <span lang="he" dir="rtl">יהי לבי תמים</span> (“may my heart be blameless”). Their initial letters, <span lang="he" dir="rtl">מ״י</span>, have the numerical value fifty, here linked to the fifty gates of <em>Binah</em>. <span class="source-note">Adapted from the transcription notes.</span><a class="backref" href="#ref-1" aria-label="Back to line 7">↩</a></li>
+        <li id="fn-2">“A tower of strength is the name of YHWH” quotes Prov. 18:10. The reading <span lang="he" dir="rtl">ספר יצי׳</span> probably abbreviates <em>Sefer Yetzirah</em>, but the attribution and exact reference require verification. <span class="source-note">Source identification inherited; qualification added.</span><a class="backref" href="#ref-2" aria-label="Back to line 9">↩</a></li>
+        <li id="fn-3">Prov. 18:10 continues, “into it the righteous man runs”; Ps. 91:14 supplies “I shall raise him on high, for he knows My name.” “Fasten their end in their beginning” echoes <em>Sefer Yetzirah</em> 1:7 in common enumerations. <span class="source-note">Biblical references inherited; Sefer Yetzirah parallel added.</span><a class="backref" href="#ref-3" aria-label="Back to line 11">↩</a></li>
+        <li id="fn-4">Gen. 2:25 reads, “the two of them were naked … and were not ashamed.” The damaged clause in line 15 may connect sight, shame, and the final divine grade (<em>Mah</em>, apparently <em>Malkhut</em>), but the underlying transcription is too uncertain to normalize. <span class="source-note">Biblical reference inherited; caution added.</span><a class="backref" href="#ref-4" aria-label="Back to line 15">↩</a></li>
+        <li id="fn-5">The paired expressions “those who demolish” and “those who annul the demolition” are retained literally. They may describe destructive cosmic or human action and its reversal, but the passage does not yet warrant a more interpretive translation. <span class="source-note">Translator’s note.</span><a class="backref" href="#ref-5" aria-label="Back to line 17">↩</a></li>
+        <li id="fn-6">The “field in which Abel was killed” is identified in the working notes with <em>Malkhut</em>; the “thread” (<span lang="he" dir="rtl">חוט</span>) connecting the pool and field is the hidden path (<span lang="he" dir="rtl">מסילה</span>). The reading <span lang="he" dir="rtl">ד׳</span> may be a numeral or an abbreviation and remains unresolved. <span class="source-note">Adapted from the transcription notes.</span><a class="backref" href="#ref-6" aria-label="Back to line 23">↩</a></li>
+        <li id="fn-7">The lemma adapts Gen. 2:10: “A river issues from Eden to water the garden, and from there it divides.” The commentary maps Eden to supernal Thought (usually <em>Keter</em>) and the river to <em>Chokhmah</em>. The manuscript’s “field of the garden” is preserved in the translation. <span class="source-note">Adapted from the transcription notes.</span><a class="backref" href="#ref-7" aria-label="Back to line 25">↩</a></li>
+        <li id="fn-8">The four rivers become a model for an undivided emanative source unfolding into four “heads” or colors. Lines 32–33 are textually unstable; the translation deliberately leaves their obscurity visible rather than supplying a conjectural reconstruction. <span class="source-note">Translator’s note.</span><a class="backref" href="#ref-8" aria-label="Back to line 34">↩</a></li>
+        <li id="fn-9">The abbreviation <span lang="he" dir="rtl">ח׳ב׳ג׳פ׳</span> likely designates <em>Chokhmah</em>, <em>Binah</em>, <em>Gedulah</em>, and <em>Pachad</em>, the four supernal grades represented by the rivers, but this expansion is provisional. The lemmata draw on Gen. 2:11–12 and Exod. 24:10. <span class="source-note">Source references inherited; abbreviation expansion added provisionally.</span><a class="backref" href="#ref-9" aria-label="Back to line 35">↩</a></li>
+        <li id="fn-10">The commentary associates Pishon with <em>Chokhmah</em> through an Aramaic wordplay: Targum Onkelos renders “be fruitful” (<span lang="he" dir="rtl">פרו</span>) at Gen. 1:28 as <span lang="he" dir="rtl">פושו</span>. Bdellium and onyx signify the river’s whiteness; the “pavement of sapphire” signifies the last hypostasis, <em>Malkhut</em>, here treated as Judgment. <span class="source-note">Adapted from the transcription notes.</span><a class="backref" href="#ref-10" aria-label="Back to line 44">↩</a></li>
+        <li id="fn-11">The lemma combines Gen. 2:14 (“the Tigris … east of Asshur”), Ps. 119:1 (“Happy are those whose way is blameless”), and Ps. 15:2 (“He who walks blamelessly and does what is righteous”). <em>Binah</em> is linked to Tigris, while Asshur is interpreted as <em>Chesed</em>, the first of the six lower extremities. <span class="source-note">Adapted from the transcription notes.</span><a class="backref" href="#ref-11" aria-label="Back to line 48">↩</a></li>
+        <li id="fn-12">“All the turns that you make should be only to the right” appears in b. Yoma 15b and parallels. The exposition continues on the next manuscript lines, which have not yet been transcribed. <span class="source-note">Reference inherited.</span><a class="backref" href="#ref-12" aria-label="Back to line 50">↩</a></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer>
+    <p>Provisional translation for scholarly review</p>
+  </footer>
+</body>
+</html>
