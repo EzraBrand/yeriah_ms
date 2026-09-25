@@ -113,6 +113,7 @@ def build() -> None:
     <a href="translation_76b.html">Folio 76b</a>
     <a href="translation_77a.html">Folio 77a</a>
     <a href="translation_77b.html">Folio 77b</a>
+    <a href="translation_78a.html">Folio 78a</a>
     <a href="https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md">Research survey</a>
     <a href="https://github.com/EzraBrand/yeriah_ms#reading-reuven-tzarfatis-commentary-on-the-great-parchment">About the project</a>
   </nav>

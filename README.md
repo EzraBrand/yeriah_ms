@@ -10,9 +10,32 @@ The manuscript is challenging in several ways. Its script is difficult, its pros
 - [Folio 76b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_76b.html)
 - [Folio 77a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_77a.html)
 - [Folio 77b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_77b.html)
+- [Folio 78a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_78a.html)
 - [State-of-research and bibliography](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md)
 
 Each translated folio places the Hebrew transcription and English translation side by side. Comparative excerpts from Oxford, Bodleian Library MS Hunt. Add. E—the Great Parchment presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm)—are inserted beside the corresponding lemmata. Notes distinguish secure readings, conjectures, source identifications, and differences between witnesses.
+
+## Outline of the work
+
+The following contents table follows the “Breakdown by Section of Interpretation of Biblical Texts or Topics” in Ezra Brand’s [2019 Seforim Blog essay](https://seforimblog.com/2019/07/ha-yeriah-ha-gedolah/). Its topical descriptions and printed page references derive from that table. The JTS folio ranges identify the corresponding portions of the commentary; links are supplied for transcriptions and translations currently available in this repository.
+
+| Section | Biblical texts or topics | Busi pages | JTS MS 2367 | Project text |
+|---:|---|---:|---|---|
+| 1 | Eden; Adam and Eve; Tree of Knowledge; curse of the serpent; Golden Calf; Moses’ staff; Balaam; Phinehas/Elijah; serpent | 119–124 | 76b–79a | Transcriptions: [76b](transcription/076b.md), [77a](transcription/077a.md), [77b](transcription/077b.md), [78a](transcription/078a.md), [78b](transcription/078b.md), [79a](transcription/079a.md). Translations: [76b](https://ezrabrand.github.io/yeriah_ms/translation_76b.html), [77a](https://ezrabrand.github.io/yeriah_ms/translation_77a.html), [77b](https://ezrabrand.github.io/yeriah_ms/translation_77b.html), [78a](https://ezrabrand.github.io/yeriah_ms/translation_78a.html). |
+| 2 | Flood; Moses in Egypt; Flood continued; Sacrifice of Isaac | 125–131 | 79b–82a | Transcriptions: [79b](transcription/079b.md), [80a](transcription/080a.md), [80b](transcription/080b.md), [81a](transcription/081a.md), [81b](transcription/081b.md), [82a](transcription/082a.md). |
+| 3 | Yom Kippur service; circumcision and *orlah* (foreskin/tree) | 131–135 | 82b–83a | Transcription: [82b](transcription/082b.md); remainder forthcoming. |
+| 4 | Hagar and Ishmael | 135–138 | 83b–84b | Transcription forthcoming. |
+| 5 | No topic identified in the 2019 outline | 139 | 84b–85a | Transcription forthcoming. |
+| 6 | High Priest’s frontlet; phylacteries; dove; frontlet continued | 140–141 | 85a–86a | Transcription forthcoming. |
+| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 86a–88a | Transcription forthcoming. |
+| 8 | Abraham and the Covenant between the Pieces; Ruth; Keter; Messiah; Covenant continued | 148–154 | 88b–90a | Transcription forthcoming. |
+| 9 | Netzach | 155–157 | 90a–90b | Transcription forthcoming. |
+| 10 | Transmigration and levirate marriage; Deuteronomy 25:6–10; Song of Songs 4; Ruth and Boaz | 158–163 | 90b–91b | Transcription forthcoming. |
+| 11 | Zechariah’s lampstand; Ezekiel and the lampstand; Tabernacle lampstand; Ezekiel’s chariot; scapegoat | 164–170 | 91b–93a | Transcription forthcoming. |
+| 12 | Manna | 170–173 | 93a–93b | Transcription forthcoming. |
+| 13 | Prayer; prohibition of *sha‘atnez* | 173–177 | 93b–95a | Transcription forthcoming. |
+| 14 | Sotah (Numbers 5) | 177–181 | 95b–96a | Transcription forthcoming. |
+| 15 | Red Heifer (Numbers 19) | 182–188 | 96b–97b | Transcription forthcoming. |
 
 ## An experiment with AI and the humanities
 
@@ -32,7 +55,7 @@ Reuven Tzarfati’s *Commentary on the Great Parchment* belongs to the world of 
 
 The underlying work is not a treatise in ordinary discursive prose. It strings together biblical clauses, verbal echoes, names, images, and abbreviated sefirotic terms. Rivers, trees, animals, patriarchs, adversaries, bodily parts, commandments, and episodes from Genesis or Exodus are made to occupy positions within the divine structure. Tzarfati’s commentary supplies a reading protocol for that compressed iconotext: it identifies the sefirotic referents, explains the biblical associations, and often tells the reader how one figure or narrative event corresponds to another. Apparent jumps in the argument may therefore reflect movement across a diagram rather than simple discontinuity in the prose.
 
-The opening folios illustrate this method especially well. The upper pool and the four rivers of Eden are coordinated with the upper sefirot; the Trees of Life and Knowledge are interpreted through Israel, Jacob, Esau, Michael, and Samael; Adam and Eve, Jacob’s thigh, the serpent, the Golden Calf, and the positive and negative commandments become parts of a single relational map. The commentary repeatedly organizes this material through paired structures: right and left, mercy and judgment, masculine and feminine, upper and lower, holy power and its opposing counterpart.
+The opening folios illustrate this method. The upper pool and the four rivers of Eden are coordinated with the upper sefirot; the Trees of Life and Knowledge are interpreted through Israel, Jacob, Esau, Michael, and Samael; Adam and Eve, Jacob’s thigh, the serpent, the Golden Calf, and the positive and negative commandments become parts of a single relational map. The commentary repeatedly organizes this material through paired structures: right and left, mercy and judgment, masculine and feminine, upper and lower, holy power and its opposing counterpart.
 
 The manuscript’s vocabulary uses older kabbalistic nomenclature. *Pachad* (“Fear”), often abbreviated in the manuscript as `הפח׳`, is a name for the sefirah more commonly called *Gevurah* (“Power” or “Severity”); *Gedulah* (“Greatness”) similarly names *Chesed* (“Mercy” or “Lovingkindness”). Other sefirotic names appear in abbreviated or punctuated forms, including `חכמ״ה`, `בינ״ה`, `גבור״ה`, `תפאר״ת`, `נצ״ח`, `הו״ד`, and `יסו״ד`. The word `הויה` denotes a hypostasis or emanated divine grade, not “being” in the abstract.
 
