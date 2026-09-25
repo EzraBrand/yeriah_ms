@@ -10,23 +10,21 @@ The manuscript is challenging in several ways. Its script is difficult, its pros
 - [Folio 76b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_76b.html)
 - [Folio 77a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_77a.html)
 - [Folio 77b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_77b.html)
-- [State-of-research and bibliography](research_state_of_the_field.md)
+- [State-of-research and bibliography](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md)
 
 Each translated folio places the Hebrew transcription and English translation side by side. Comparative excerpts from Oxford, Bodleian Library MS Hunt. Add. E—the Great Parchment presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm)—are inserted beside the corresponding lemmata. Notes distinguish secure readings, conjectures, source identifications, and differences between witnesses.
 
 ## An experiment with AI and the humanities
 
-This is explicitly an experiment in using generative AI for manuscript research. It was inspired in part by Benjamin Breen’s Res Obscura essay [“AI makes the humanities more important, but also a lot weirder”](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important), especially its argument that AI can extend paleography, translation, classification, and tool-building while making humanistic judgment—not merely automated output—more important.
+This is explicitly an experiment in using generative AI for manuscript research. It was inspired in part by Benjamin Breen’s Res Obscura essay [“AI makes the humanities more important, but also a lot weirder”](https://resobscura.substack.com/p/ai-makes-the-humanities-more-important), especially its argument that AI can extend paleography, translation, classification, and tool-building while making humanistic judgment—not merely automated output—more important. Other examples of this emerging experimental approach include the [Hacker News discussion of using LLMs to trace alchemical knowledge and decode seventeenth-century letters](https://news.ycombinator.com/item?id=49835531) and [Source Library](https://sourcelibrary.org/).
 
 Claude Fable performed the initial technical work: assembling the image and OCR pipeline, segmenting manuscript pages, and establishing the first transcription workflow. Codex GPT-5.6-Sol subsequently developed the academic translations, annotations, comparative apparatus, visualizations, HTML reading editions, research survey, and public site.
-
-The results should not be mistaken for a finished critical edition. AI-assisted readings can silently normalize difficult language, invent coherence, or overlook paleographic detail. For that reason, the project keeps uncertain readings visible, links claims to manuscript or bibliographic evidence, compares witnesses rather than conflating them, and publishes its working materials for review. The aim is augmentation and scholarly transparency, not replacement of expert judgment.
 
 ## What the project may contribute
 
 The working translations already suggest that the commentary reads its “parchment” spatially: rivers, trees, limbs, directions, and biblical figures become coordinates in a sefirotic diagram. Comparison with the Oxford Great Parchment can clarify corrupt or abbreviated lemmata, but it also reveals meaningful differences. Recent work by J. H. Chajes cautions that the text published by Giulio Busi as *The Great Parchment* may be distinct from the parchment on which Tzarfati commented. The project therefore treats every proposed alignment as evidence to be tested, not as a settled identity.
 
-See [research_state_of_the_field.md](research_state_of_the_field.md) for the bibliography, RAMBI search results, manuscript map, and current research questions.
+See the [state-of-research report](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md) for the bibliography, RAMBI search results, manuscript map, and current research questions.
 
 ## Technical workflow
 

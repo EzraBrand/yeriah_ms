@@ -88,7 +88,12 @@ body {
   font: .84rem/1.4 system-ui, sans-serif;
 }
 
-.project-nav strong { margin-right: .2rem; color: #493e34; }
+.project-nav .translation-heading {
+  flex-basis: 100%;
+  margin: 0 0 .15rem;
+  color: var(--accent);
+  font: 800 clamp(1.05rem, 2.2vw, 1.35rem)/1.25 Georgia, "Times New Roman", serif;
+}
 .project-nav a {
   padding: .28rem .58rem;
   color: var(--accent);
