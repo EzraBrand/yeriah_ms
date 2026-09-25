@@ -6,5 +6,7 @@ tiles_*/
 lines_*/
 hl_*/
 *.mlmodel
+models/
 __pycache__/
 al_*/
+tmp_zoom/
