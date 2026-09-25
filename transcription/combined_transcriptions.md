@@ -421,96 +421,103 @@ often one line early. Status: main block 1–46 corrected.
 
 Image: `hires_079a.jpg`. Line numbers = crop lines (`al_079a/Main_NN`, 43 lines). Kraken numbering
 (`htr/079a_italian_logical.txt`, 01–43) matches the crops with no offset.
-Base: kraken Italian_01, corrected against deskewed line crops.
-`[?]` uncertain · `<..>` illegible · **bold** = lemma (red underline). Status: main block 1–43 corrected. Margin crops not read.
-No transcription of 78b exists yet; line 1 continues a sentence about Jacob's thigh (Gen 32:26) begun on 78b.
+Base: kraken Italian_01, corrected against deskewed line crops. Second pass 25-Sep-2026: every line re-read against the
+crops; corrections at 4, 9–11, 15, 17–18, 20–23, 26–27, 30, 32–33, 42–43 (see Notes).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar above the words). Status: main block 1–43 corrected. Margin crops not read.
+Join: 78b:46–47 ends `... כאשר היא הירך כפולה מן הירך השמאלי לא היה`; line 1 here continues `מזהירו על לא תעשה`.
 
 ## Continuation from 78b: the thigh of Jacob, positive and negative commandments (1–4)
 1. היה מזהירו על לא תעשה אבל היה מזהירו בעשה כאשר הזהיר בירך
 2. הימין ובסבת הסתלקות השלשלת האחת הזהירו בלא תעשה כי במעט
-3. התעוררות השפלי' יסלק מכל וכל ויהיה הירך נשמט ואז סו' העגלה[?]
-4. קלה[?] · נראה[?] לזה על שאול[?] נחל[?] הכנב[?] לאמר[?] ז"ל אחרי פעולות הנחש
+3. התעוררות השפליי יסלק מכל וכל ויהיה הירך נשמט ואז סו' העגלה[?]
+4. קשה[?] · וראיה לזה על שאמ' ויחל העם לזנות ר"ל אחרי פעולות הנחש
 
 ## Lemma: ואמר המלאך הדובר בי הוקענום לנגד השמש (5–10)
-5. מכוחות הנחש היונק מן הירך השמאל · **ואמ' המלאך הדובר בי[?] הוקם[?]**
+5. מכוחות הנחש (interlinear `ה` below `הנחש`) היונק מן הירך השמאלי · **ואמ' המלאך הדובר בי הוקם**
 6. **הוקענום לנגד השמש וישוב חרון אף ייי מישראל** · פי' כבר ידעת
 7. כבר ידעת כי השמש רמז למה' קשה ובש'[?] ובפשעיהם נתגברה
-8. מה'[?] ונסתלק מר'[?] ואמ' המלאך שהוא מיכﭏ הוקענום כי בענין זה
-9. תתרצה מה' ועולתה קפצה פיה ולא תחריב את הכל כי מ'א'[?] אינו
-10. מבחין בין טוב לרע ומאז[?] וישב חרון אף ה' מישראל : **ובא פינחס**
+8. מה' ונסתלק מר'[?] ואמ' המלאך שהוא מיכאל הוקענום כי בענין זה
+9. תתרצה מה' ועולתה קפצה פיה ולא תחריב את הכל כי מ"ה[?] אינו
+10. מבחין בין טוב לרע ומיד[?] וישב חרון אף ה' מישראל : **ובא פינחס**
 
-## Lemma: ובא פינחס זה אליהו ויקח רמח בידו וידקור הנחש וחוה (10–14)
-11. **זה אליהו**[?] · **ויקח רמח בידו**[?] · פי' הזמין[?] עצמו לעורר השפע ﭏהי[?] אל מדת
-12. הוד כי משם יניקת הנחש' **וידקור הנחש וחוה** · פי' נסתלק זוהמת
+## Lemma: ובא פינחס זה אליהו ויקח הוד וידקור הנחש וחוה (10–14)
+11. **זה אליהו** · **ויקח הוד** · פי' הזמין עצמו לעורר השפע אלהי אל מדת
+12. הוד כי משם יניקת הנחש · **וידקור הנחש וחוה** · פי' נסתלק זוהמת
 13. הנחש ואז היתה חוה עליונה רפה ולא קשה · **ועל כן נתן לו ברית**
-14. **שלום** שהוא השר הידוע הנק' חנוך **ואמ' הנה מלאכי ילך לפניך** ואם[?] :
+14. **שלום** שהוא השר הידוע הנק' חנוך **ואמ' הנה מלאכי ילך לפניך** ואמ'
 
-## Question: why Egypt was not judged harshly (15–23)
-15. ישאל השואל והלא במצרים זנו אחרי השם[?] יותר משתה[?] בזמן פנחס
+## Question: why Egypt was not judged harshly (15–18)
+15. ישאל השואל והלא במצרים זנו אחרי הש"ם[?] יותר משטה[?] בזמן פנחס
 16. למה לא נידונו בקשה · והמחבר יבאר לך באומרו כי במצרים
-17. היתה השלשלת כפולה על ש' מקו' האמצעי שהוא תת' וכל זה
-18. בזכות יוסף הצדיק · **ומצות**[?] **עשה תולדות השמים בהבראם**
+17. היתה השלשלת כפולה על יס"ו[?] מקו האמצעי שהוא ת"ת וכל זה
 
-## Lemma: ומצות עשה תולדות השמים בהבראם (18–21)
-19. פי' מצות עשה שהוא רמז אל התאוה והיא רמז אל הש' היא נאצלה
-20. מן השמים שהוא רמז לקו' האמצעי שהוא תת' ומה'ת'[?] תוכיח[?] לזה
-21. שם מתגלת התאוה שנ'[?] בה' שהוא רמז לש' בראם · **אני** ה'[?] מה'[?]
+## Lemma: ומצות עשה תולדות השמים בה' בראם (18–21)
+18. בזכות יוסף הצדיק · **ומצות עשה תולדות השמים בה' בראם**
+19. פי' מצות עשה שהוא רמז אל התאוה והיא רמז אל הש' היא נאצלת
+20. מן השמים שהוא רמז לקו האמצעי שהוא ת"ת ומה"ת[?] תוכיח[?] לזה
 
 ## Lemma: אני / אין — beginning of thought is end of action (21–23)
-22. אין פי' אני בכל מקום רמז למה' ואע"פ שהיא מה' היא אין כ'[?] <..>
-23. אני[?] הם[?] אין וזה בא לרמז כי תחלת המחשבה הוא סוף המעשה ·
+21. שנשם מתגלה התאוה שנ' בה' שהוא רמז לש' בראם · **אני** ה' מה'
+22. **אין** פי' אני בכל מקום רמז למה' ואע"פ שהיא מה' היא אין כי אני
+23. אותיות הם אין וזה בא לרמוז כי תחלת המחשבה הוא סוף המעשה ·
 
 ## Lemma: ועל זה הקיף אליהו הנביא המזבח מים (24–28)
-24. **ועל זה הקיף ﭏיהו הנביא המזבח מים להמית אש העגל** פי' המזב'
-25. הנז' רמז[?] לע' והקיף אותו מים הרומזים לחס' ● לסלק הזוהמא ההיא
-26. שגרמו יש' בש<..>'[?] בעון העגל · **ובזכות הזה נתעלה למעלה**
-27. **שאין עין יכולה לשלוט בו** : פי'[?] כי[?] הוא אור הגנוז ואז תחלת המחשבה
+24. **ועל זה הקיף אליהו הנביא המזבח מים להמית אש העגל** פי' המזב'
+25. הנז' רמז לע' והקיף אותו מים הרומזים לחס' (red dot) לסלק הזוהמא ההיא
+26. שגרמו יש' בשבט[?] בעון העגל · **ובזכות הזה נתעלה למעלה**
+27. **שאין עין יכולה לשלוט בו** : שבוא אור הגנוז ואז תחלת המחשבה
 28. הוא סוף | המעשה ואז נק' סוף המעשה אין ואז **מאין יבוא עזרי**
 
-## Lemma: וחכמה תמצא כי נאבדה · ונקם קץ (29–33)
-29. **וחכמה תמצא · כי נאבדה** · פי' מן התחתונים | והפגם עלה במקום
-30. אשר הנק' חכמה : **ונקם קץ** פרות[?] ישט'[?] כי[?] מלת נקם ומלת קץ
-31. שוים בגימטריא[?] והיא נקראת חרב נקמת ונק' קץ כי היא סוף
-32. המעשה והיה עת הזעם[?] ופרק ישראל היה על יד ﭏיהו הנביא כילם[?]
-33. כי בסיבתו נסתלקה הזוהמא ועל כן אותיות[?] ﭏיהו הנביא הם נבי'א[?]
+## Lemma: וחכמה תמצא כי נאבדה · ונקם קץ פדות ישראל (29–34)
+29. **וחכמה תמצא כי נאבדה** · פי' מן התחתונים | והפגם עלה במקום
+30. אשר הנק' חכמה : **ונקם קץ פדות ישר'** ופי'[?] מלת נקם ומלת קץ
+31. שוים בגימטריא והיא נקראת חרב נקמת ונק' קץ כי היא סוף
+32. המעשה והיה עת הזעם ופדות ישראל היה על יד אליהו הנביא כולם
+33. כי בסיבתו נסתלקה הזוהמא ונעלם **מוניק[?]** אליהו הנביא הם נביא
 
-## Lemma: הנה אלהיכם נקם יבוא · הנה אנכי שולח לכם את אליהו · אתה תשופנו ראש (34–43)
-34. אל יהוה · **ואמ' הנה ﭏהיכם נקם יבוא** פי' כי שמו כשם רבו **ואמ'**
-35. **הנה אנכי שולח לכם את ﭏיהו הנביא** · **אתה תשופנו ראש**[?]
-36. **בשלשלת** · פי' כשהצדיק כמו ﭏיהו הנביא ושאר בני עלייה מייחדים
-37. ההויות ומדביקים מחשבתם אל הראש' בייחוד הכל אזי **אם פגע**
+## Lemma: הנה אלהיכם נקם יבוא · הנה אנכי שולח לכם את אליהו · אתה תשופנו ראש בשלשלת (34–43)
+34. אל יהוה · **ואמ' הנה אלהיכם נקם יבוא** פי' כי שמו כשם רבו **ואמ'**
+35. **הנה אנכי שולח לכם את אליהו הנביא** · **אתה תשופנו ראש**
+36. **בשלשלת** · פי' כשהצדיק כמו אליהו הנביא ושאר בני עלייה מייחדים
+37. ההויות ומדביקים מחשבתם אל הראש בייחוד הכל אזי **אם פגע**
 38. **בך נחש אינו יכול להזיק לך** · **ונצבת בנקרת הצור** · פי' כבר ידעת
 39. כי הצור רמז למה' אמנם · אע"פ שהיא טוב לקיום העולם
-40. לא תתמיד מחשבתך בהתמדה מוחלטת אל הכח ההוא ומשם[?]
-41. נמשך הכח החמרי ﭏא כדרך המצב שהוא מקרה ואינו תמידי
-42. ואפי' בעת המצב עם הנער הידוע **בצל שדי יתלונן** שהוא רמז
-43. לצדיק יסוד עולם ואזי **טוב שבנחשים** שהם כוחות החיצו'[?] יוד[?] **רצץ**
+40. לא תתמיד מחשבתך בהתמדה מוחלטת אל הכח ההוא ומשם
+41. נמשך הכח החמרי אלא כדרך המצב שהוא מקרה ואינו תמידי
+42. ואפי' בעת המצב עם השר הידוע **בצל שדי יתלונן** שהוא רמז
+43. לצדיק יסוד עולם ואזי **טוב שבנחשים** שהם כוחות החיצוניות **רצץ**
 
 ## Notes
 
-- Kraken numbering = crop numbering (no offset). Red bars on this page sit in the interline space ABOVE the first
-  words of a lemma (checked at 5–6, 11–12, 18, 24, 29, 34–35, 38, 42); they mark single key words, not the whole phrase,
-  so bold extents are reconstructed from context. `lines.tsv` flags 32 and 39–40 but no red is visible in those crops.
-- 1–4: continuation from 78b on Jacob's thigh (Gen 32:26, 32:33): the right thigh warned through positive commandments,
-  the left (Pachad side) through prohibitions; "השלשלת" = the chain of emanation. 3–4 העגלה[?] קלה[?] is unresolved.
-- 5–10: Yeri'ah lemma built on Num 25:4 (והוקע אותם ... נגד השמש וישב חרון אף ה' מישראל); the angel "who speaks in me"
-  (Zech 1:9) is identified as Michael (8). השמש = a harsh measure (מה' = מדה or מלכות). ועולתה קפצה פיה ← Job 5:16.
-  מ'א'[?] (9) is an abbreviation I could not resolve (מלאך המות? המשחית, cf. Bava Kamma 60a "אינו מבחין בין טוב לרע").
-- 10–14: ובא פינחס זה אליהו (Pinchas = Elijah, cf. Pirkei de-R. Eliezer 47 / Targum Ps-Jonathan Num 25:12); ויקח רמח בידו
-  ← Num 25:7; the serpent and Eve = Zimri and Cozbi; the serpent suckles from Hod (12); ברית שלום ← Num 25:12; the
-  "known prince called Enoch" = Metatron; הנה מלאכי ילך לפניך ← Ex 23:23 / 32:34.
-- 15–18: objection: Egypt sinned more than Israel at Shittim, why no harsh judgment? Answer: in Egypt the chain was
-  "doubled" upon the Shekhinah from the middle line (Tiferet) through the merit of Joseph.
-- 18–23: תולדות השמים בהבראם ← Gen 2:4; the ה of בהבראם (Menachot 29b) = the Shekhinah; אני = Malkhut, אין = Keter
-  (the letters of אני are אין); "the beginning of thought is the end of action" (Sefer Yetzirah 1:7 idiom).
-- 24–28: Elijah's water around the altar ← 1 Kgs 18:32–35; water = Chesed washing away the filth of the calf; Elijah's
-  ascent (2 Kgs 2:11) = the hidden light (אור הגנוז); מאין יבוא עזרי ← Ps 121:1. Vertical strokes after סוף (28) and
-  התחתונים (29) look like scribal separators, not letters.
-- 29–33: וחכמה מאין תמצא ← Job 28:12; נקם = קץ = 190 in gematria; חרב נקמת ← Lev 26:25; Elijah's name = אל יהוה.
-- 34–43: הנה אלהיכם נקם יבוא ← Isa 35:4; שמו כשם רבו ← Sanhedrin 38b (of Metatron, here applied to Elijah);
-  הנה אנכי שולח לכם את אליה הנביא ← Mal 3:23; אתה תשופנו ראש ← Gen 3:15 (reworked); ונצבת בנקרת הצור ← Ex 33:22
-  (הצור = Malkhut); בצל שדי יתלונן ← Ps 91:1; הנער הידוע = Metatron; צדיק יסוד עולם ← Prov 10:25 (Yesod);
-  טוב שבנחשים רצוץ [את מוחו] ← Yerushalmi Kiddushin 4:11 / Sofrim 15; continues on 79b.
+- Kraken numbering = crop numbering (no offset). Red bars sit in the interline space ABOVE the lemma, usually over its first
+  and last words; bold extents are reconstructed from context.
+- Second-pass corrections (against the first draft of this file): 4 `וראיה לזה על שאמ' ויחל העם לזנות ר"ל` (Num 25:1; Oxford region 2.2 has `על שאמר ויחל העם לזנות`; was
+  `נראה ... נחל הכנב לאמר`); 9 `מ"ה[?]` (was `מ'א'`); 10 `ומיד[?]` (was `ומאז`); 11 **`ויקח הוד`** (was `ויקח רמח בידו`; Oxford
+  also reads `ויקח הוד`); 15 `הש"ם[?] ... משטה[?]` (Shittim); 17 **`על יס"ו[?]`** (was `על ש'`; Oxford reads `על יסו"ד`);
+  18 lemma `בה' בראם` as two words, as in Oxford; 21–23 `שנשם מתגלה` / `כי אני אותיות הם אין` (the letters of אני are אין);
+  26 `בשבט[?]`; 27 `שבוא[?] אור הגנוז`; 30 **`ונקם קץ פדות ישר'`** (was `פרות ישט'`); 32 `ופדות ישראל` (was `ופרק`);
+  33 `ונעלם מוניק[?]` (was `ועל כן אותיות`); 42 **`עם השר הידוע`** (was `הנער`); 43 `החיצוניות`.
+- 1–4: continuation from 78b on Jacob's thigh (Gen 32:26, 32:33): the right thigh is warned through positive commandments,
+  the left through prohibitions; `השלשלת` = the chain of emanation. 3–4 `העגלה[?] קשה[?]` unresolved; the proof is
+  Num 25:1 `ויחל העם לזנות`, which Oxford includes in the parchment text (no red bar visible in JTS).
+- 5–10: Yeri'ah lemma built on Num 25:4 (`הוקע אותם לה' נגד השמש וישב חרון אף ה' מישראל`); the angel "who speaks in me"
+  (Zech 1:9) is identified as Michael (8). The sun = a harsh measure (`מה'` = מדה or מלכות). `ועולתה קפצה פיה` ← Job 5:16.
+  `מ"ה[?]` (9): the agent that "does not distinguish between good and evil" (cf. B. Bava Kamma 60a, of the destroyer).
+- 10–14: `ובא פינחס זה אליהו` (Pinchas = Elijah, Pirkei de-R. Eliezer 47; Targum Ps.-Jonathan Num 25:12); Num 25:7
+  `ויקח רמח בידו` is rewritten `ויקח הוד` — the spear is the sefirah Hod, from which the serpent feeds (12). The serpent and
+  Eve = Zimri and Cozbi; `ברית שלום` ← Num 25:12; "the known prince called Enoch" = Metatron; Ex 23:23 / 32:34.
+- 15–18: objection: Egypt sinned more than Israel at Shittim; why no harsh judgment? Answer: in Egypt the chain was
+  doubled upon Yesod from the middle line (Tiferet), through the merit of Joseph (= Yesod).
+- 18–23: Gen 2:4 `בהבראם` read `בה' בראם` (B. Menahot 29b); `ה'` = the Shekhinah; `אני` = Malkhut, `אין` = Keter
+  (anagram); "the beginning of thought is the end of action" (Sefer Yetzirah 1:7 idiom).
+- 24–28: 1 Kgs 18:32–35; water = Chesed washing away the filth of the calf; Elijah's ascent (2 Kgs 2:11) = the hidden
+  light; Ps 121:1 `מאין יבוא עזרי`. Vertical strokes after `סוף` (28) and `התחתונים` (29) are scribal separators.
+- 29–34: Job 28:12 (`והחכמה מאין תמצא`); lemma `ונקם קץ פדות ישראל`; `נקם` = `קץ` = 190; Lev 26:25 `חרב נקמת נקם ברית`;
+  Elijah's name = `אל יהוה`. Line 33 `מוניק[?]` unresolved.
+- 34–43: Isa 35:4; `שמו כשם רבו` ← B. Sanhedrin 38b (of Metatron, here applied to Elijah); Mal 3:23; Gen 3:15 (reworked:
+  `אתה תשופנו ראש בשלשלת`); `אם פגע בך נחש אינו יכול להזיק לך`; Ex 33:22 (`הצור` = Malkhut); Ps 91:1 `בצל שדי יתלונן`
+  with "the known prince" (Metatron); Prov 10:25 (Yesod); `טוב שבנחשים רצץ [את מוחו]` ← Mekhilta Beshallah 1 /
+  Y. Kiddushin 4:11 / Soferim 15:10; continues on 79b.
 
 ---
 
