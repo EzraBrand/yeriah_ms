@@ -23,11 +23,11 @@ The following contents table follows the “Breakdown by Section of Interpretati
 |---:|---|---:|---|---|---|
 | 1 | Eden; Adam and Eve; Tree of Knowledge; curse of the serpent; Golden Calf; Moses’ staff; Balaam; Phinehas/Elijah; serpent | 119–124 | 76b:1–79a:43 | [76b:1–50](transcription/076b.md), [77a:1–42](transcription/077a.md), [77b:3–46](transcription/077b.md), [78a:1–41](transcription/078a.md), [78b:1–47](transcription/078b.md), [79a:1–43](transcription/079a.md) | [76b:1–50](https://ezrabrand.github.io/yeriah_ms/translation_76b.html), [77a:1–42](https://ezrabrand.github.io/yeriah_ms/translation_77a.html), [77b:3–46](https://ezrabrand.github.io/yeriah_ms/translation_77b.html), [78a:1–41](https://ezrabrand.github.io/yeriah_ms/translation_78a.html), [78b:1–47](https://ezrabrand.github.io/yeriah_ms/translation_78b.html), [79a:1–43](https://ezrabrand.github.io/yeriah_ms/translation_79a.html) |
 | 2 | Flood; Moses in Egypt; Flood continued; Sacrifice of Isaac | 125–131 | 79b:1–82a:44 | [79b:1–45](transcription/079b.md), [80a:1–42](transcription/080a.md), [80b:1–55](transcription/080b.md), [81a:1–46](transcription/081a.md), [81b:1–52](transcription/081b.md), [82a:1–44](transcription/082a.md) | Forthcoming |
-| 3 | Yom Kippur service; circumcision and *orlah* (foreskin/tree) | 131–135 | 82b:1–83a, final line | [82b:1–45](transcription/082b.md); remainder forthcoming | Forthcoming |
-| 4 | Hagar and Ishmael | 135–138 | 83b:1–84b, final line | In progress; exact terminal line forthcoming | Forthcoming |
-| 5 | No topic identified in the 2019 outline | 139 | 84b–85a, exact lines pending | Forthcoming | Forthcoming |
-| 6 | High Priest’s frontlet; phylacteries; dove; frontlet continued | 140–141 | 85a–86a, exact lines pending | Forthcoming | Forthcoming |
-| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 86a–88a, exact lines pending | Forthcoming | Forthcoming |
+| 3 | Yom Kippur service; circumcision and *orlah* (foreskin/tree) | 131–135 | 82b:1–83a:24 | [82b:1–45](transcription/082b.md), [83a:1–24](transcription/083a.md) | Forthcoming |
+| 4 | Hagar and Ishmael | 135–138 | 83a:25–84a:36 | [83a:25–42](transcription/083a.md), [83b:1–43](transcription/083b.md), [84a:1–36](transcription/084a.md) | Forthcoming |
+| 5 | No topic identified in the 2019 outline (the JTS rubric names it `והקטרת`: incense; the Binding of Isaac; the beheaded heifer) | 139 | 84a:38–85a:19 | [84a:38–43](transcription/084a.md), [84b:1–41](transcription/084b.md), [85a:2–19](transcription/085a.md) | Forthcoming |
+| 6 | High Priest’s frontlet; phylacteries; dove; frontlet continued | 140–141 | 85a:20–85b:30 | [85a:20–45](transcription/085a.md), [85b:1–30](transcription/085b.md) | Forthcoming |
+| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 85b:31–88a, exact end pending | [85b:31–43](transcription/085b.md); remainder forthcoming | Forthcoming |
 | 8 | Abraham and the Covenant between the Pieces; Ruth; Keter; Messiah; Covenant continued | 148–154 | 88b–90a, exact lines pending | Forthcoming | Forthcoming |
 | 9 | Netzach | 155–157 | 90a–90b, exact lines pending | Forthcoming | Forthcoming |
 | 10 | Transmigration and levirate marriage; Deuteronomy 25:6–10; Song of Songs 4; Ruth and Boaz | 158–163 | 90b–91b, exact lines pending | Forthcoming | Forthcoming |
@@ -76,6 +76,8 @@ The remainder of this README documents the reproducible transcription and site-b
   `https://iiif.nli.org.il/IIIFv21/DOCID/PNX_MANUSCRIPTS990001050100205171-1/manifest`).
 - `iiif_tiles.py FLxxxx out.jpg` — full-resolution download by 333px tiles (server caps single requests at 526px).
 - `download_all.py` — runs the above for every folio → `hires_NNNx.jpg` (~4000x5400 px, 2x the PDF export).
+- `download_from.py 083a [--workers 6]` — the same download from a given folio onward, with parallel tile requests (about 45 s per folio). If NLI returns HTTP 429, pause and rerun with `--workers 2`.
+- `combine_transcriptions.py` — rebuilds `transcription/combined_transcriptions.md` from the per-folio files; then run `build_site.py` to regenerate `index.html`.
 - `make_lines.py hires_076b.jpg hl_076b --scale 2` — detects the text block and line bands, writes one image per
   line split right/left (`lNN_R.png`, `lNN_L.png`), `bands.json` with red-underline flags, and `overview.png`.
 - `models/` — kraken models (gitignored): `BiblIA_01` (general medieval Hebrew), `Italian_01`, layout models
