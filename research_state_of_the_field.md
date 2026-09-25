@@ -4,7 +4,7 @@
 
 ## Executive findings
 
-1. **The field now requires a basic distinction that was not made in my earlier pieces.** Reuven Tzarfati’s *Perush ha-Yeri‘ah ha-Gedolah* (the work transcribed in this repository) and the anonymous *Iggeret Sippurim* edited by Giulio Busi under the title *The Great Parchment* may not be commentary and base text after all. J. H. Chajes states in a 2021 article that the work published by Busi under that name is “an entirely different work” from Tzarfati’s *Great Parchment*. This needs to be tested systematically against the commentary’s lemmata, but it means that the Busi text should not currently be treated as the commentary’s established base text.
+1. **The evidence supports treating *Iggeret Sippurim* as the work commented on by Reuven Tzarfati.** The translated folios already show sustained verbal correspondence between lemmata in JTS MS 2367 and the text on the Oxford Great Parchment. J. H. Chajes likewise identifies the parchment’s text as *Iggeret Sippurim* and describes the Munich copyist as combining an *ilan* containing the Epistle with a separate manuscript of Tzarfati’s commentary. A phrase in Chajes’s 2021 article about “an entirely different work” was misread in an earlier version of this report: it refers to another item in the preceding discussion, not to a supposed difference between Busi’s *Great Parchment* and the work expounded by Tzarfati.
 
 2. **Busi’s 2004 edition remains the only printed critical edition of the work it publishes.** It contains the Hebrew text, Flavius Mithridates’ Latin translation, and an English rendering of the Latin. I found a Google Books record with limited preview/search, library records, and a publisher/foundation notice that the early volumes in the series are being reprinted, but I did **not** find a lawful, stable, open-access scan or transcription of the complete book. The introduction circulates separately; the Hebrew edition on pp. 119–191 does not appear to be freely available in full.
 
@@ -16,7 +16,7 @@
 
 ## 1. What exactly are the works under discussion?
 
-Three objects should be kept separate:
+Three documentary layers should be distinguished without treating them as unrelated works:
 
 | Object | Description | Present status |
 |---|---|---|
@@ -24,16 +24,9 @@ Three objects should be kept separate:
 | **Anonymous *Iggeret Sippurim*** | An allusive sefirotic composition transmitted on an *ilan* and in text-only copies. Busi’s edition publishes this work under the title *The Great Parchment*. | Critically edited in 2004; also represented visually in Oxford MS Hunt. Add. E on the Ilanot Portal. |
 | **The physical/visual “Great Parchment” tradition** | Large diagrammatic parchment artifacts or copies whose arrangement is integral to their meaning. The Oxford manuscript is a seventeenth-century copy of an older parchment formerly associated with Egidio da Viterbo, Catherine de’ Medici, and Isaac Casaubon. | Newly contextualized and partially reconstructed through the Ilanot Project. |
 
-My 2019 Seforim Blog essay treated Busi’s *Iggeret Sippurim* as the underlying text of Tzarfati’s commentary. That was a reasonable inference from Busi’s introduction and title, and the essay itself already noted that the relationship required further study. Chajes’s later formulation now makes the identity question unavoidable. In [“The Kabbalistic Tree as Material Text”](https://www.torrossa.com/en/resources/an/5189764), p. 175 n. 48–49, he distinguishes Tzarfati’s works entitled *Commentary on the Great Parchment* and *Commentary on the Small Parchment* from the “entirely different work” published by Busi.
+My 2019 Seforim Blog essay treated Busi’s *Iggeret Sippurim* as the underlying text of Tzarfati’s commentary. The manuscript comparison undertaken for this project supports that identification: the Oxford parchment repeatedly supplies the very clauses that JTS MS 2367 marks and expounds as lemmata. Chajes’s recent reconstruction points in the same direction. His [2025 Palermo presentation](https://prezi.com/p/ma1gjlwxbguh/palermo-2025/) calls the Epistle the narrative text of Oxford MS Hunt. Add. E and reports that the scribe of Munich, BSB Cod. hebr. 58 used both an *ilan* “for the Epistle” and a separate manuscript containing Tzarfati’s commentary to make an integrated version.
 
-This is the most consequential bibliographic finding for the present project. Before importing Busi’s Hebrew into the translation as lemma text, the commentary must be checked for sustained verbal correspondences. The possibilities include:
-
-- Busi’s text and Tzarfati’s commented parchment are genuinely unrelated works that shared a generic title;
-- they belong to the same broad *ilan* tradition but represent different compositions;
-- only some sections or diagrams overlap;
-- a title or cataloguing tradition has conflated two different “great parchments.”
-
-At present, the first possibility has the clearest explicit support in the recent scholarship, but a primary-text comparison is still needed.
+The contrary claim in an earlier version of this report resulted from misreading pp. 175 n. 48–49 of Chajes’s [“The Kabbalistic Tree as Material Text”](https://www.torrossa.com/en/resources/an/5189764). The words “an entirely different work” occur in note 48 and refer back to a different item in the preceding discussion. Note 49 then adduces Tzarfati’s *Commentary on the Great Parchment* and *Commentary on the Small Parchment* as evidence for the use of *yeri‘ah* in titles; it does not sever Tzarfati’s commentary from *Iggeret Sippurim*. Chajes’s later, more explicit account confirms the connection. The remaining editorial question is therefore not whether these are unrelated compositions, but how the several textual and visual witnesses differ and how closely each preserves the parchment that Tzarfati saw.
 
 ## 2. Baseline scholarship
 
@@ -56,7 +49,7 @@ The volume is indispensable for the work it edits and for Busi’s discussion of
 - Ezra Brand, [“Towards Decoding Ha-Yeriah Ha-Gedolah (The Great Parchment), A Cryptic 14th Century Italian Kabbalistic Text”](https://seforimblog.com/2019/07/ha-yeriah-ha-gedolah/), *The Seforim Blog*, 7 July 2019. This mapped the composition’s sections and motifs, emphasized its allusive style and unusually strong interest in evil, and raised questions about its relation to Tzarfati.
 - Ezra Brand, [“The Yeriah Gedolah: An Allusive Rendering of the Sefirot”](https://yeshiva.academia.edu/EzraBrand/Medieval%20Kabbalah), Academia.edu. This developed the description of the work and identified the relationship between text, commentary, and related works as an open problem.
 
-Both pieces remain useful descriptions of the Busi text. Their identification of that text as the object of Tzarfati’s commentary should now be presented as a hypothesis rather than a settled fact.
+Both pieces remain useful descriptions of the Busi text. Their identification of that text as the object of Tzarfati’s commentary is supported by the lemma correspondences now visible in the JTS and Oxford witnesses, although the exact recension and layout available to Tzarfati still require reconstruction.
 
 ### Joseph Dan (2020)
 
@@ -72,7 +65,7 @@ Dan treats the anonymous composition as an exceptionally difficult fourteenth-ce
 
 J. H. Chajes, [“The Kabbalistic Tree as Material Text”](https://www.torrossa.com/en/resources/an/5189764), *Henoch* 43, no. 1 (2021): 162–196.
 
-This is the most important article for reassessing the project. Chajes argues that *ilanot* are not merely texts accompanied by diagrams: their parchment-roll medium, scale, scrolling, spatial organization, and arboreal schema jointly produce meaning. The term *yeri‘ah* itself could function metonymically for such an artifact. At p. 175 and nn. 48–49 he distinguishes Busi’s edited work from the parchments on which Tzarfati commented. This is both a methodological intervention and a direct correction to the assumed textual genealogy.
+This is the most important article for reassessing the project. Chajes argues that *ilanot* are not merely texts accompanied by diagrams: their parchment-roll medium, scale, scrolling, spatial organization, and arboreal schema jointly produce meaning. The term *yeri‘ah* itself could function metonymically for such an artifact. Pages 175 n. 48–49 must be read carefully: the phrase “an entirely different work” in note 48 belongs to the preceding comparison, while note 49 cites Tzarfati’s two commentary titles as evidence for parchment terminology. The notes do not claim that Busi edited a work different from the one Tzarfati commented upon. The article’s enduring contribution here is material and methodological, not a severing of the textual genealogy.
 
 #### J. H. Chajes, *The Kabbalistic Tree* (2022)
 
@@ -178,14 +171,14 @@ The research history can be summarized as follows:
 2. **Author/context phase:** Gottlieb and later Idel placed Tzarfati within Italian Kabbalah.
 3. **Edition phase:** Busi, Bondoni, and Campanini published *Iggeret Sippurim*, Mithridates’ Latin, and an English rendering under the title *The Great Parchment*.
 4. **Interpretive phase:** Brand and Dan described the anonymous work’s literary and theological features, still working largely from the printed linear text.
-5. **Material-visual phase:** Chajes reclassified the relevant artifacts as *ilanot*, recovered visual witnesses and transmission history, and separated Tzarfati’s titled commentaries from Busi’s edited text.
+5. **Material-visual phase:** Chajes reclassified the relevant artifacts as *ilanot*, recovered visual witnesses and transmission history, and clarified how *Iggeret Sippurim* and Tzarfati’s separately transmitted commentary could be recombined in an integrated copy.
 
 The field’s chief lacuna is no longer merely “this text is obscure.” It is a more precise set of unanswered questions:
 
-- What *exact* parchment or composition did Tzarfati comment on?
-- Can its lemmata be aligned with any surviving *ilan* witness?
+- Which recension and visual arrangement of the Great Parchment did Tzarfati comment on?
+- How completely can its lemmata be aligned with the surviving *ilan* witnesses?
 - How did copyists transform a spatial commentary into a linear codex text?
-- What is the relationship, if any, between that commented parchment and *Iggeret Sippurim*?
+- Which differences among Oxford, Busi’s edited witnesses, and the commentary’s lemmata reflect recension, copying, or layout?
 - Which readings in the commentary make sense only when restored to a diagrammatic position?
 - How do the JTS, London, Munich, and Parma witnesses differ in their retention or suppression of spatial cues?
 
@@ -195,7 +188,7 @@ The current project is unusually well placed to answer the most important open q
 
 Recommended next stages:
 
-1. **Do not silently supply Busi’s text as the base text of Tzarfati’s commentary.** Label any proposed correspondence as provisional.
+1. **Use *Iggeret Sippurim* as the underlying commented text without conflating its witnesses.** Preserve the JTS manuscript’s quoted lemmata and report consequential Oxford or Busi variants rather than silently normalizing them.
 2. **Extract every apparent lemma or citation marker** in the JTS commentary and build a concordance against Busi pp. 119–191.
 3. **Acquire or borrow a physical/scan copy of the Busi volume** for controlled comparison, since the Google Books preview is inadequate for scholarly collation.
 4. **Export or transcribe the Ilanot Portal’s encoded Hebrew** and compare it independently with both Busi and the commentary.
