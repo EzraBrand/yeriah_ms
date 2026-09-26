@@ -18,6 +18,14 @@ The manuscript is challenging in several ways. Its script is difficult, its pros
 
 Each translated folio places the Hebrew transcription and English translation side by side. Comparative excerpts from Oxford, Bodleian Library MS Hunt. Add. E—the Great Parchment presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm)—are inserted beside the corresponding lemmata. Notes distinguish secure readings, conjectures, source identifications, and differences between witnesses.
 
+## Current transcription status
+
+The high-resolution manuscript downloads and line crops are complete through folio 97b. Corrected transcriptions are complete through 90b; folio 91a is a clearly labelled partial transcription covering lines 1–16 of 49. The remaining work begins at 91a:17 and continues through 97b.
+
+The newly transcribed sequence establishes several useful boundaries. The seventh narrative ends at 87b:22; the eighth begins at 87b:23; the embedded Covenant between the Pieces runs from 88b:39 through 89a:5; the ninth narrative begins at 89a:6 and ends at 90a:28; and the tenth begins at 90a:29. The extended discussion of transmigration and levirate marriage begins at 89b:11 and continues through the present partial 91a. Folios 88a:32–33 and 88b:39 explicitly say that material is “drawn there in the *Iggeret*,” evidence relevant to the commentary’s relationship to the Great Parchment.
+
+Before translation, 89b:26–47 should be checked closely because of its dense use of kashrut terminology, and the faint readings at 90a:1–4 and 15–27 should be rechecked against the images. Lemma limits and gematria claims that do not presently calculate remain flagged in the notes rather than silently corrected.
+
 ## Outline of the work
 
 The following contents table follows the “Breakdown by Section of Interpretation of Biblical Texts or Topics” in my [2019 Seforim Blog essay](https://seforimblog.com/2019/07/ha-yeriah-ha-gedolah/). Its topical descriptions and printed page references derive from that table. The JTS folio and line ranges identify the corresponding portions of the commentary; links are supplied for transcriptions and translations currently available in this repository.
@@ -30,10 +38,10 @@ The following contents table follows the “Breakdown by Section of Interpretati
 | 4 | Hagar and Ishmael | 135–138 | 83a:25–84a:36 | [83a:25–42](transcription/083a.md), [83b:1–43](transcription/083b.md), [84a:1–36](transcription/084a.md) | Forthcoming |
 | 5 | No topic identified in the 2019 outline (the JTS rubric names it `והקטרת`: incense; the Binding of Isaac; the beheaded heifer) | 139 | 84a:38–85a:19 | [84a:38–43](transcription/084a.md), [84b:1–41](transcription/084b.md), [85a:2–19](transcription/085a.md) | Forthcoming |
 | 6 | High Priest’s frontlet; phylacteries; dove; frontlet continued | 140–141 | 85a:20–85b:30 | [85a:20–45](transcription/085a.md), [85b:1–30](transcription/085b.md) | Forthcoming |
-| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 85b:31–88a, exact end pending | [85b:31–43](transcription/085b.md); remainder forthcoming | Forthcoming |
-| 8 | Abraham and the Covenant between the Pieces; Ruth; Keter; Messiah; Covenant continued | 148–154 | 88b–90a, exact lines pending | Forthcoming | Forthcoming |
-| 9 | Netzach | 155–157 | 90a–90b, exact lines pending | Forthcoming | Forthcoming |
-| 10 | Transmigration and levirate marriage; Deuteronomy 25:6–10; Song of Songs 4; Ruth and Boaz | 158–163 | 90b–91b, exact lines pending | Forthcoming | Forthcoming |
+| 7 | Death of Jacob; World-to-Come; Jacob’s struggle with the angel; Tiferet; Foundation Stone; Korah; Moses striking the rock | 142–148 | 85b:31–87b:22 | [85b:31–43](transcription/085b.md), [86a:1–46](transcription/086a.md), [86b:1–47](transcription/086b.md), [87a:1–44](transcription/087a.md), [87b:1–22](transcription/087b.md) | Forthcoming |
+| 8 | Abraham and the Covenant between the Pieces; Ruth; Keter; Messiah; Covenant continued | 148–154 | 87b:23–89a:5 | [87b:23–45](transcription/087b.md), [88a:1–47](transcription/088a.md), [88b:1–45](transcription/088b.md), [89a:1–5](transcription/089a.md) | Forthcoming |
+| 9 | Netzach | 155–157 | 89a:6–89b:10 | [89a:6–44](transcription/089a.md), [89b:1–10](transcription/089b.md) | Forthcoming |
+| 10 | Transmigration and levirate marriage; Deuteronomy 25:6–10; Song of Songs 4; Ruth and Boaz | 158–163 | 89b:11–91a:16 (continues; 91a partial) | [89b:11–47](transcription/089b.md), [90a:1–49](transcription/090a.md), [90b:1–51](transcription/090b.md), [91a:1–16, partial](transcription/091a.md) | Forthcoming |
 | 11 | Zechariah’s lampstand; Ezekiel and the lampstand; Tabernacle lampstand; Ezekiel’s chariot; scapegoat | 164–170 | 91b–93a, exact lines pending | Forthcoming | Forthcoming |
 | 12 | Manna | 170–173 | 93a–93b, exact lines pending | Forthcoming | Forthcoming |
 | 13 | Prayer; prohibition of *sha‘atnez* | 173–177 | 93b–95a, exact lines pending | Forthcoming | Forthcoming |
