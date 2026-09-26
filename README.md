@@ -11,6 +11,9 @@ The manuscript is challenging in several ways. Its script is difficult, its pros
 - [Folio 77a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_77a.html)
 - [Folio 77b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_77b.html)
 - [Folio 78a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_78a.html)
+- [Folio 78b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_78b.html)
+- [Folio 79a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_79a.html)
+- [Folio 79b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_79b.html)
 - [State-of-research and bibliography](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md)
 
 Each translated folio places the Hebrew transcription and English translation side by side. Comparative excerpts from Oxford, Bodleian Library MS Hunt. Add. E—the Great Parchment presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm)—are inserted beside the corresponding lemmata. Notes distinguish secure readings, conjectures, source identifications, and differences between witnesses.
@@ -22,7 +25,7 @@ The following contents table follows the “Breakdown by Section of Interpretati
 | Section | Biblical texts or topics | Busi pages | JTS MS 2367 | Transcriptions | Translations |
 |---:|---|---:|---|---|---|
 | 1 | Eden; Adam and Eve; Tree of Knowledge; curse of the serpent; Golden Calf; Moses’ staff; Balaam; Phinehas/Elijah; serpent | 119–124 | 76b:1–79a:43 | [76b:1–50](transcription/076b.md), [77a:1–42](transcription/077a.md), [77b:3–46](transcription/077b.md), [78a:1–41](transcription/078a.md), [78b:1–47](transcription/078b.md), [79a:1–43](transcription/079a.md) | [76b:1–50](https://ezrabrand.github.io/yeriah_ms/translation_76b.html), [77a:1–42](https://ezrabrand.github.io/yeriah_ms/translation_77a.html), [77b:3–46](https://ezrabrand.github.io/yeriah_ms/translation_77b.html), [78a:1–41](https://ezrabrand.github.io/yeriah_ms/translation_78a.html), [78b:1–47](https://ezrabrand.github.io/yeriah_ms/translation_78b.html), [79a:1–43](https://ezrabrand.github.io/yeriah_ms/translation_79a.html) |
-| 2 | Flood; Moses in Egypt; Flood continued; Sacrifice of Isaac | 125–131 | 79b:1–82a:44 | [79b:1–45](transcription/079b.md), [80a:1–42](transcription/080a.md), [80b:1–55](transcription/080b.md), [81a:1–46](transcription/081a.md), [81b:1–52](transcription/081b.md), [82a:1–44](transcription/082a.md) | Forthcoming |
+| 2 | Flood; Moses in Egypt; Flood continued; Sacrifice of Isaac | 125–131 | 79b:1–82a:44 | [79b:1–45](transcription/079b.md), [80a:1–42](transcription/080a.md), [80b:1–55](transcription/080b.md), [81a:1–46](transcription/081a.md), [81b:1–52](transcription/081b.md), [82a:1–44](transcription/082a.md) | [79b:1–45](https://ezrabrand.github.io/yeriah_ms/translation_79b.html) |
 | 3 | Yom Kippur service; circumcision and *orlah* (foreskin/tree) | 131–135 | 82b:1–83a:24 | [82b:1–45](transcription/082b.md), [83a:1–24](transcription/083a.md) | Forthcoming |
 | 4 | Hagar and Ishmael | 135–138 | 83a:25–84a:36 | [83a:25–42](transcription/083a.md), [83b:1–43](transcription/083b.md), [84a:1–36](transcription/084a.md) | Forthcoming |
 | 5 | No topic identified in the 2019 outline (the JTS rubric names it `והקטרת`: incense; the Binding of Isaac; the beheaded heifer) | 139 | 84a:38–85a:19 | [84a:38–43](transcription/084a.md), [84b:1–41](transcription/084b.md), [85a:2–19](transcription/085a.md) | Forthcoming |
@@ -78,6 +81,9 @@ The remainder of this README documents the reproducible transcription and site-b
 - `download_all.py` — runs the above for every folio → `hires_NNNx.jpg` (~4000x5400 px, 2x the PDF export).
 - `download_from.py 083a [--workers 6]` — the same download from a given folio onward, with parallel tile requests (about 45 s per folio). If NLI returns HTTP 429, pause and rerun with `--workers 2`.
 - `combine_transcriptions.py` — rebuilds `transcription/combined_transcriptions.md` from the per-folio files; then run `build_site.py` to regenerate `index.html`.
+- `build_translation.py` — initializes, builds, validates, and publishes staged translation pages. It always imports the Hebrew directly from the corrected per-folio transcription.
+- `translation_manifest.json` — ordered draft/published registry used for translation navigation and the reader index.
+- `translations/Nx.md` (for example, `translations/80a.md`) — reviewable English translation source, notes, apparatus, and optional Oxford parallels. See [`translations/README.md`](translations/README.md) for the format and staged commands.
 - `make_lines.py hires_076b.jpg hl_076b --scale 2` — detects the text block and line bands, writes one image per
   line split right/left (`lNN_R.png`, `lNN_L.png`), `bands.json` with red-underline flags, and `overview.png`.
 - `models/` — kraken models (gitignored): `BiblIA_01` (general medieval Hebrew), `Italian_01`, layout models
@@ -89,6 +95,11 @@ The remainder of this README documents the reproducible transcription and site-b
 ```
 py -3.13 download_all.py
 py -3.13 make_lines.py hires_077a.jpg hl_077a --scale 2
+py -3.13 build_translation.py 080a --init
+py -3.13 build_translation.py 080a --through 16
+py -3.13 build_translation.py 080a --final
+py -3.13 build_translation.py 080a --publish
+py -3.13 build_translation.py --check
 set PYTHONUTF8=1
 C:\Users\ezrab\kraken-venv\Scripts\kraken.exe -i hires_077a.jpg htr\077a.txt segment -bl -i models\SoferMahirCleanFL06Eb_83_tl.mlmodel ocr -m models\Italian_01.mlmodel
 ```

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+import json
 import re
 from pathlib import Path
 
@@ -13,6 +14,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "transcription" / "combined_transcriptions.md"
 OUTPUT = ROOT / "index.html"
+TRANSLATION_MANIFEST = ROOT / "translation_manifest.json"
 
 
 def slug_for(title: str) -> str:
@@ -53,6 +55,22 @@ def collapse_notes(soup: BeautifulSoup) -> None:
         sibling = following
 
 
+def build_translation_navigation(data: dict | None = None) -> str:
+    """Render only manifest entries explicitly marked as published."""
+    if data is None:
+        data = json.loads(TRANSLATION_MANIFEST.read_text(encoding="utf-8"))
+    links: list[str] = []
+    for entry in data["folios"]:
+        if entry["status"] != "published":
+            continue
+        folio = str(entry["folio"])
+        page = str(entry.get("page", f"translation_{folio}.html"))
+        if not (ROOT / page).exists():
+            raise FileNotFoundError(f"published translation page is missing: {page}")
+        links.append(f'    <a href="{html.escape(page)}">Folio {html.escape(folio)}</a>')
+    return "\n".join(links)
+
+
 def build() -> None:
     source = SOURCE.read_text(encoding="utf-8-sig")
     chunks = [chunk.strip() for chunk in re.split(r"(?m)^---\s*$", source) if chunk.strip()]
@@ -84,6 +102,7 @@ def build() -> None:
     nav_html = "\n".join(
         f'<a href="#{section_id}">{html.escape(label)}</a>' for section_id, label in navigation
     )
+    translation_nav = build_translation_navigation()
     sections_html = "\n".join(sections)
     OUTPUT.write_text(
         f"""<!doctype html>
@@ -110,13 +129,7 @@ def build() -> None:
 
   <nav class="project-nav" aria-label="Project pages">
     <strong class="translation-heading">Read the annotated translation:</strong>
-    <a href="translation_76b.html">Folio 76b</a>
-    <a href="translation_77a.html">Folio 77a</a>
-    <a href="translation_77b.html">Folio 77b</a>
-    <a href="translation_78a.html">Folio 78a</a>
-    <a href="translation_78b.html">Folio 78b</a>
-    <a href="translation_79a.html">Folio 79a</a>
-    <a href="translation_79b.html">Folio 79b</a>
+{translation_nav}
     <a href="https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md">Research survey</a>
     <a href="https://github.com/EzraBrand/yeriah_ms#reading-reuven-tzarfatis-commentary-on-the-great-parchment">About the project</a>
   </nav>

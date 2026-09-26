@@ -1,0 +1,39 @@
+{
+  "folios": [
+    {
+      "folio": "76b",
+      "page": "translation_76b.html",
+      "status": "published"
+    },
+    {
+      "folio": "77a",
+      "page": "translation_77a.html",
+      "status": "published"
+    },
+    {
+      "folio": "77b",
+      "page": "translation_77b.html",
+      "status": "published"
+    },
+    {
+      "folio": "78a",
+      "page": "translation_78a.html",
+      "status": "published"
+    },
+    {
+      "folio": "78b",
+      "page": "translation_78b.html",
+      "status": "published"
+    },
+    {
+      "folio": "79a",
+      "page": "translation_79a.html",
+      "status": "published"
+    },
+    {
+      "folio": "79b",
+      "page": "translation_79b.html",
+      "status": "published"
+    }
+  ]
+}
