@@ -44,6 +44,11 @@
       "folio": "80b",
       "page": "translation_80b.html",
       "status": "published"
+    },
+    {
+      "folio": "81a",
+      "page": "translation_81a.html",
+      "status": "draft"
     }
   ]
 }
