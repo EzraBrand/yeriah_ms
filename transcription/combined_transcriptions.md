@@ -3338,3 +3338,88 @@ line 1 here continues `תכבה` (Isa. 66:24). Margin notes (4 regions) not read
   (Deut. 22:11); she = the serpent, mixing good and evil; `כלאים` recombined as `מיכל`[?] (Oxford lacks this); 52–53 Deut. 22:11
   `לא תלבש שעטנז צמר ופשתים יחדו`. Continues on 94a.
 - 48 has a blotted word (`[blot]`) and `ומנגב דר הכית`[?] is uncertain; 41 `אין עולם[?] שהם תמשך[?]` is uncertain.
+
+---
+
+# JTS 2367 fol. 94a — פרוש היריעה הגדולה — draft
+
+Image: `hires_094a.jpg`. Line numbers = crop numbers (`al_094a/Main_NN`, 43 main crops).
+Base: kraken Italian_01 (`htr/094a_italian_logical.txt`), corrected against deskewed line crops; lemmata compared with Oxford
+Zone 2.18 (`oxford/oxford_zones.md`) during the first pass.
+Kraken numbering offset: kraken N = Main_(N−1) (kraken row 1 is a fragment).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word). Join: 93b:53 ends `כי שעטנז אשה עזה`; line 1 here
+continues `ופרוצה`.
+
+## Lines 1–4
+1. ופרוצה וראשה עגולה והכרסה גדולה וצועקת הב הב לעלוקה שתי בנות
+2. צמר ופשתים עירוביא · **ואיש מלחמה כמראה נחושת קלל** · תבין העניין הזה
+3. כי הוא קשה הרי לך שהמחבר שם מיכאל לצד מערב וגבריאל לצד מזרח כי גבורה
+4. סודו אריה אריה שאג מי לא יירא אם כן איש מלחמה הוא גבריאל · ונקרא איש
+
+## Lines 5–8
+5. על שם שמקבל שפע מן הת"ת הנק' ה' איש מלחמה מן הע' הנק' מלחמה ·
+6. **כמראה נחושת** מורה שגם גבריאל הוא אחד מד' מחנות שכינה הנרמזת
+7. במלת נחושת היא מדה רכה · אבל גבריאל כלול מן הפועלים וראייה לדבר **ופתיל**
+8. **פשתים בידו** כי ופתיל רמז לע' ופשתים רמז לת"ת שהוא בד ולא צמר · כלומ'
+
+## Lines 9–12
+9. בלא עירוביא · **הה"ד והנה איש אחד לבוש הבדים** · על שיונק מן הכ"ד[?] שהוא
+10. **תת'[?] · וזרועותיו ומרגלותיו** · הוא משל על הפעולות שהתהוות מהם אין הנביא
+11. יכול ליחס פעולות למלאכים שאינם גוף אלא ביחס הכלים הגופניים ואמ' שאילו
+12. הפעולות הנמשכות מן גבריאל הם באים אליו מן הע' הנק' נחושת וקנה ··
+
+## Lines 13–16
+13. המדה שהוא החוט והזוהר הנמשך מן הת"ת בידו וזה המלאך עומד בשער
+14. שהוא הע' · ובתוך האיש שהוא גבריאל שיש לו קנה המדה אותו קנה המדה
+15. שהוא החוט והזוהר שש אמות ר"ל הקנה האמצעי הכלול משש קצוות ולכן
+16. נקרא בד · **בקודש הקדשים והכהן לא היה נכנס בעירוביה** · שהוא צמר
+
+## Lines 17–20
+17. ופשתים אלא בד לבד ועל זה אסרה תורה **לא תחרוש בשור ובחמור**
+18. **יחדיו** · עם אזהרה כהן שלא יכנס לעשות העבודה בקודש הקדשים בצמר
+19. ופשתים שאם היו נזקקין זה לזה הפחד שהוא שור עם עשו שהוא חמור
+20. היו מחריבין כל העולם ומאצילות שניהם נאצל כח אחר הנק' שעטנז
+
+## Lines 21–24
+21. והוא חוץ למרכבה סביב הר הבית · **והוא ינגח החמור** · פי' השור ···
+22. שהוא פחד · ינגח החמור שהוא סמאל[?] שלעשו שהוא אשה רכיל[?] אשת שלעטן[?]
+23. **והיא אוכלת כל האישים** · כי **במשמרה ראשונה חמור נוער** · הוא החמר
+24. הגופני הנק' בשפן והוא הנפש המתאווה והוא מגביר את עצמו
+
+## Lines 25–29
+25. במשמרה ראשונה הנרמזת לחסד שהוא הכרובים והם הצורות העליונות
+26. ומשם קבלתם[?] החומר **וימשש אז כאשר ימשש העור** כי החומר אין לו כח
+27. (crop `Main_27_F`, left half of the row) **במשמרה**
+28. (crop `Main_28_F`, right half of the row) **השיגו** · (the lemma continues: `וימשש העור ... לא השיגו`[?])
+29. להשיג בזוהר שמשיג את הצורה השכלית כי **משמרה שניה כלבים צועקים** שהוא הפחד והוא הקטורת המורה אל הרוח העולה
+
+## Lines 30–33
+30. למעלה והכלבים שהם הכחות החומריות כמו הכח המדמה והמרגיש ושאר
+31. הכחות שיש להם קצת שתוף לזה ולזה הוא קצת רוחני וקצת גופני · ובאותה
+32. המשמרה צועקים ומרגישים מעט יותר מן החומר ועל כן צועקים · כדא'
+33. **דברי חכמים בנחת נשמעים** · **ומשמרה שלישית אשה מספרת עם**
+
+## Lines 34–37
+34. **בעלה** · כלומ' כשהע' עם הת"ת מתייחדים אז החומר והצורה ואז **תינוק** שהוא
+35. הכח השכלי · **יונק משדי אמו** שהוא השכל הפועל **הה"ד מפי עוללים ויונקים**
+36. שהם הכחות השכליות בסיבת התעוררות **יסדת עוז** שהוא מלכות
+37. המתעלה למעלה · בעוללים הנקראים יונקים והכרובים הנקראים עוללים
+
+## Lines 38–40
+38. והם כלם בעולם הקטן כאשר עיניך רואות · **ושום אדם שילבש שעטנז** ·
+39. **לא יוכל ליכנס לציון** שהוא עולם הבא עד · **מאי תקנתיה גדילים**
+40. **תעשה לך על ארבע כנפות** ד' צורות שהם **תחת השמים והם מעשה**
+
+## Lines 41–43
+41. **עבות** · כלומ' מי שלא השגיח בפעולות הנמשכות מן הצורה והם זכות
+42. ולבנות כמו הפשתן הפשתים · עם בפעולות הנמשכות מן החומר והם
+43. מדורגות[?] אל הצמר שהוא מתגדל בכח חמרי · אמנם הפשתים בכח
+
+## Notes
+- Lemmata compared with Oxford Zone 2.18 during the first pass; the page follows it in order.
+- 1–2: the woman `שעטנז` (93b:49–53) continued: brazen, round-headed, big-bellied, crying `הב הב` (Prov. 30:15 `לעלוקה שתי בנות הב הב`), daughters of wool-and-linen mixture (`עירוביא`). 2: Ezek. 40:3 `והנה איש מראהו כמראה נחשת` with Ezek. 1:7 `כעין נחשת קלל` (Oxford `ואיש מלחמה כמראה נחשת קלל`); Exod. 15:3 `ה' איש מלחמה`.
+- 3–15: a difficulty the commentator raises himself: the author puts Michael in the west and Gabriel in the east (92b:41–46), yet Gabriel is *Gevurah* (Amos 3:8 `אריה שאג מי לא יירא`), so he is the "man of war". Ezek. 40:3 `ופתיל פשתים בידו וקנה המדה` — the linen cord = *Malkhut*, linen = *Tiferet*, "linen and not wool"; Dan. 10:5–6 `והנה איש אחד לבוש בדים ... וזרעתיו ומרגלתיו כעין נחשת קלל`; the prophet ascribes bodily acts to angels only by analogy. 13–15: Ezek. 40:5 six cubits = the middle line with six extremities, hence `בד`.
+- 16–22: the High Priest does not enter the Holy of Holies in *sha'atnez* (only linen, Lev. 16:4); Deut. 22:10 `לא תחרש בשור ובחמר יחדו` — *Pachad* (ox) with Esau/Samael (ass) would destroy the world; from both a third power, `שעטנז`, emanated outside the Chariot around the Temple Mount (Oxford `והוא ינגח החמור`). 22: `אשה רכיל[?] אשת שלעטן[?]` unclear; recheck.
+- 23–37: B. Berakhot 3a (the three watches: `חמור נוער`, `כלבים צועקים`, `אשה מספרת עם בעלה ותינוק יונק משדי אמו`); Oxford 2.18 has the same sequence. First watch = *Chesed*/cherubim, the ass = bodily matter; second = *Pachad*, incense, the dogs = the imaginative and sensitive faculties; third = union of *Malkhut* and *Tiferet*, the infant = the intellect nursing from the active intellect. 26: Deut. 28:29 `ממשש ... כאשר ימשש העור` (Oxford `כאשר ימשש העור כי לא השיג`). 33: Eccl. 9:17 `דברי חכמים בנחת נשמעים`. 35–36: Ps. 8:3 `מפי עוללים ויונקים יסדת עוז`.
+- 38–43: whoever wears *sha'atnez* cannot enter Zion = the world to come (Oxford `ושום אדם שילבש שעטנז לא יוכל להכנס לציון`); remedy (`מאי תקנתיה`): Deut. 22:12 `גדלים תעשה לך על ארבע כנפות כסותך`; the four forms under heaven; `מעשה עבות` (Exod. 28:14); wool = growth by material power, linen by ... (continues on 94b).
+- Crops `Main_27_F` and `Main_28_F` split one physical row (left `במשמרה`, right `השיגו`); the lemma between 26 and 29 needs a recheck in the image.
