@@ -16,13 +16,14 @@ The manuscript is challenging in several ways. Its script is difficult, its pros
 - [Folio 79b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_79b.html)
 - [Folio 80a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_80a.html)
 - [Folio 80b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_80b.html)
+- [Folio 81a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_81a.html)
 - [State-of-research and bibliography](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md)
 
 Each translated folio places the Hebrew transcription and English translation side by side. Comparative excerpts from Oxford, Bodleian Library MS Hunt. Add. E—the Great Parchment presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm)—are inserted beside the corresponding lemmata. Notes distinguish secure readings, conjectures, source identifications, and differences between witnesses. A dotted underline marks every reading that is uncertain in the manuscript or in the translation.
 
 ## Current status
 
-**Translation.** Folios 76b–80b are translated, annotated, and published (section 1 and the first part of section 2). Folio 81a is in progress as a draft and is not yet in the public navigation.
+**Translation.** Folios 76b–81a are translated, annotated, and published (section 1 and most of section 2). Translation continues with 81b.
 
 **Transcription.** Corrected draft transcriptions are complete for 76b–92a. The remaining work begins at 92b:1 and continues through 97b. Folios 91a–92a carry a higher share of `[?]` readings than earlier folios and need a second pass against the images before translation. Before translation, 89b:26–47 should also be checked closely because of its dense use of kashrut terminology, and the faint readings at 90a:1–4 and 15–27 should be rechecked.
 

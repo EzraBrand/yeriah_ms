@@ -8,7 +8,9 @@ This repository is an experimental scholarly transcription, translation, and pre
 
 - The active shared clone is `C:\Users\ezrab\Ezra Brandt\Claude\yeriah_ms`.
 - The former clone at `C:\Users\ezrab\Downloads\yeriah_ms` is reference-only. Do not make new edits or commits there.
-- Claude may be downloading manuscript tiles or correcting transcriptions in this clone. Before editing, building, pulling, merging, rebasing, or committing, inspect `git status`, recent file modification times, and any active download/transcription logs or processes.
+- Claude and Codex work in this clone at the same time: typically Claude transcribes, rechecks images, and reviews; Codex translates and annotates. Before editing, building, pulling, merging, rebasing, or committing, inspect `git status`, recent file modification times, and any active download/transcription logs or processes.
+- Stage files by explicit path. Never use `git add -A`, `git add .`, or `git commit -a`: they sweep in the other agent's uncommitted work.
+- A folio whose files show uncommitted changes belongs to the agent that made them. Do not edit or rebuild its translation page until those changes are committed; if a fix is needed there, report it instead.
 - Preserve all concurrent uncommitted work. Do not clean generated folders, remove logs, restart downloads, or modify a transcription folio another process is actively writing.
 - Before publishing, fetch the remote and reconcile any divergent commits only after the active downloader or transcription job has finished. Never rewrite another agent’s commit.
 - Commit a translation draft (`translations/Nx.md`, its generated page, and the `draft` manifest entry) as soon as a reviewable checkpoint exists. Uncommitted drafts block other agents from building or reviewing, and they can be lost.
@@ -59,6 +61,8 @@ These points come from the review of the 80b draft (27 September 2026). Check ea
 
 - **Carry every uncertainty.** Each `[?]` in the Hebrew needs a matching `??…[?]??` in the English. Do not render an uncertain word as secure English.
 - **Add no unlabelled words.** Bracketed supplements must be syntax, e.g. `[is]`, or labelled conjecture. Do not invent a clause to smooth an opening fragment.
+- **Keep lemmata recognizable.** Translate a biblical lemma in its biblical sense. When the exposition rereads the same words (a pun, a revocalization, a gematria), keep the lemma recognizable and show the second sense with a transliteration, e.g. 80b:20 “for whom it is thus” (*she-kakhah*) reread as *shakhakhah*, “subsided” (Esther 7:10).
+- **Keep abbreviations as written in the Hebrew column.** The page Hebrew must match the transcription exactly (`לישמעאלי'`, not an expanded `לישמעאלים`); expansions belong in the English or a note.
 - **Keep JTS syntax.** Subject, object, and preposition follow JTS even where Oxford or the Bible differ; e.g. `והולידו את בני האלהים` makes "the sons of God" the object. Record the difference in a note.
 - **Translate prepositions exactly.** `למעלה מ-` is "above", not "to".
 - **Keep compounds apart when the commentary splits them.** If the exposition parses `שבעה עשר` into "seven" and "ten", do not translate both places as "the seventeenth".
@@ -106,6 +110,7 @@ These points come from the review of the 80b draft (27 September 2026). Check ea
 - Translation navigation is generated from `translation_manifest.json`. Register new work as `draft`; `build_translation.py --publish` changes it to `published`, refreshes generator-managed neighboring pages, and regenerates `index.html`.
 - Preserve the prominent translation heading and the links to the GitHub-rendered research survey and project README.
 - Keep `README.md` accessible to nontechnical readers; place implementation commands after the project overview.
+- When a folio is published, add it to the README's “Read the project” list and to the Translations column of the contents table, and update the “Current status” section. When a transcription recheck changes a reading that matters for the argument, record it in the folio's transcription notes (dated), not in the README.
 
 ## Validation before committing
 
@@ -114,7 +119,9 @@ These points come from the review of the 80b draft (27 September 2026). Check ea
 - Confirm that each Oxford block contains exactly one standalone `.oxford-hebrew` paragraph and that it has `lang="he" dir="rtl"`.
 - Run `git diff --check`.
 - After changing any `transcription/NNNx.md`, run `py -3.13 combine_transcriptions.py` and `py -3.13 build_site.py`, and rebuild every translation page that uses that folio.
-- Before `--publish`, go through the translation fidelity checklist above, and confirm that `[?]` counts in the Hebrew and English columns correspond.
+- Before `--publish`, go through the translation fidelity checklist above.
+- Run `py -3.13 audit_translations.py` (all manifest folios) or `py -3.13 audit_translations.py 81a` (one folio). It must report `clean` before a publish. It compares each page's Hebrew column with the current transcription and flags uncertain Hebrew readings that are unmarked in the English.
+- Folios 76b–79a are hand-written HTML pages, not generator-managed. When their transcription changes, edit the Hebrew and English columns of the page by hand; the audit shows where.
 - Rebuild `index.html` after changing `build_site.py`.
 - Check previous/next/home links and verify that all linked local files exist.
 - When publishing, wait for the GitHub Pages deployment and verify the live URLs return HTTP 200.
