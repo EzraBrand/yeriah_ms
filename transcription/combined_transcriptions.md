@@ -1145,20 +1145,20 @@ Base: kraken Italian_01 (`htr/082b_italian_logical.txt`), corrected against desk
 Kraken numbering offset: the kraken file starts at 02, so kraken N = Main_(N-1) for the whole page (kraken 02 = Main_01,
 kraken 46 = Main_45). Kraken numbers are given in brackets after each crop number.
 `[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word; usually only the first and the last word of a
-lemma carry a bar). Previous folio 82a has no transcription yet, so the join of line 1 could not be checked.
+lemma carry a bar). The join of line 1 to the completed 82a:44 was checked on 27-Sep-2026.
 3 margin lines detected (`Margin_*`); not read.
 
 ## Lines 1–4
 1. [k02] הדברים כי אין כל חדש תחת השמש · כי לא יתרבו ההויות בהתרבות הגופים
 2. [k03] כי אין שם לא ריבוי ולא שינוי והכל כשלהבת בגחלת · והריבוי והשינוי מצד
-3. [k04] המקבלים המ' והיה **בעשור לחדש על העשרה** ר'ל כי היא עטירה[?] מלמעלה
+3. [k04] המקבלים המ' והיה **בעשור לחדש על העשרה** ר'ל כי היא עשירית[?] מלמעלה
 4. [k05] למטה והוא אחד · כדא' אחת היא יונתי · **ובגדי הבד** ר'ל הקו' נקרא בד שהוא
 
 ## Lines 5–8
-5. [k06] רמוז בו' **והיה מנית[?] שם** · כי יד יי שמה ר'ל כי הקו' כלולה במזבח · **וכסה**
+5. [k06] רמוז בו' **והיה מניח שם** · כי יד יי שמה ר'ל כי הקו' כלולה במזבח · **וכסה**
 6. [k07] **ענן הקטורת את הכפורת ולא ימות** וכו' כי הקטורת ש'[?] רמז למה' והכפורת
 7. [k08] רמז למד'[?] ולא יושג האור הגנוז אלא באמצעות מה' הנרמזת[?] במלא קטורת
-8. [k09] ועל זה אומ' **ולא ימות כי לא יראני האדם וחי** · ומילה[?] למטה מן העשרון[?] פי' כי
+8. [k09] ועל זה אומ' **ולא ימות כי לא יראני האדם וחי** · **ומילה למטה מן העשירי** פי' כי
 
 ## Lines 9–12
 9. [k10] מזבח הזהב הוא רמז לש' וכוונת גילוי העטרה רמז למה' שנתנה לראש
@@ -1180,7 +1180,7 @@ lemma carry a bar). Previous folio 82a has no transcription yet, so the join of 
 
 ## Lines 21–24
 21. [k22] אל הקודש שהוא רמז לש' הנרמזת במזבח הזהב · **ובמילה נא' זאת**
-22. [k23] **בריתי אשר תשמרו** ר'ל כי שניהם רמז אחד **ודע[?] לך שכל המקריב**
+22. [k23] **בריתי אשר תשמרו** ר'ל כי שניהם רמז אחד **ולומר לך שכל המקריב**
 23. [k24] **את בניו למילה כאילו הקריב שני השעירים אחד לש' : ואחד לעזאזל**
 24. [k25] פי' כי המילה רמז לש' כמו המזבח כמו שבמזבח היה עושה הכהן נעשה[?]
 
@@ -1197,20 +1197,20 @@ lemma carry a bar). Previous folio 82a has no transcription yet, so the join of 
 32. [k33] **זאת בן אדם יחזיק בה** אילו הגרים · וזהו[?] הערלה שהיא על
 
 ## Lines 33–36
-33. [k34] הקצה[?] המילה תלויין בו כל הערלות עד תרין סרסורי **דחטאה הוו** אין
+33. [k34] <del>הקצה[?]</del> המילה תלויין בו כל הערלות עד תרין סרסורי **דחטאה הוו** אין
 34. [k35] צריך ביאור כי המחבר מבאר לך היטב · ואין ראוי לכפול דבר אחד
-35. [k36] פעמים · **ונשרלה[?] האילן עד בואה לנה[?] השלואנו[?]** · פי' כי אין אדם יכול ל
+35. [k36] פעמים · **וערלת האילן עד בואה לנה[?] השלואנו[?]** · פי' כי אין אדם יכול ל
 36. [k37] להשיג באילן העליון שהוא הט' עד שיעשה גבעה גדולה מהם
 
 ## Lines 37–40
-37. [k38] וישליך אותם אחר גויו[?] · **ובשנה הרביעית** שהוא רמז לנט'[?] **קודש** והערלות
+37. [k38] וישליך אותם אחר גויו[?] · **ובשנה הרביעית** שהוא רמז לנצ' **קודש** והערלות
 38. [k39] הם ג' חתוך פריעה מציצה והם כנגד ג' חכמות לימודיות טבעיי'
 39. [k40] אלהיות · **הא בהא תלייא** כי אין אדם · יבוא אל השלימות אלא[?] באמצעות
 40. [k41] הכח המדמה והכח המתעורר והמרגיש והם כוחות חמריות הנמשכים
 
 ## Lines 41–44
 41. [k42] מאותם ג' ערלות כי אינם עושים אלא דין ומשפט ומין עול כפעולם[?]
-42. [k43] מן המקבל נמשך העול והחמס · **וכל מותר חסרון** ר"ל[?] על מי שיבוא
+42. [k43] מן המקבל נמשך העול והחמס · **וכל מותר חסרון** ר"ל על מי שיבוא
 43. [k44] לחקור יותר חכמה מדאי[?] לו חסרון כד"א דבש מצאת אכול דייך פן
 44. [k45] תשבענו והקאתו ושאר הענין מבואר · כי **בסיבת המילה נבוא לפני**
 
@@ -1226,6 +1226,18 @@ lemma carry a bar). Previous folio 82a has no transcription yet, so the join of 
 - 42: `וכל מותר חסרון` — lemma; cf. Prov. 21:5 (`ואך כל אץ למחסור`) and the rabbinic `כל המוסיף גורע` idea.
 - 43–44: Prov. 25:16.
 - 44 + 83a:1: lemma `בסיבת המילה נבוא לפני ולפנים` (bar over its first word here, over `ולפנים` on 83a:1); `לפני ולפנים` = the Holy of Holies entered on Yom Kippur. Line 45 is a catchword.
+
+## Pre-translation review (27-Sep-2026)
+- Compared all lemmata with Oxford Zone 2.6 and htr/082b_italian_logical.txt; rechecked differing passages in the existing JTS line crops. Busi was unavailable. Main-line numbering and abbreviations remain unchanged. The three marginal crops are not part of this translation.
+- Image-supported correction: `עטירה[?]` → `עשירית[?]`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `**והיה מנית[?] שם**` → `**והיה מניח שם**`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `ומילה[?] למטה מן העשרון[?]` → `**ומילה למטה מן העשירי**`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `**ודע[?] לך שכל המקריב**` → `**ולומר לך שכל המקריב**`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `הקצה[?] המילה` → `<del>הקצה[?]</del> המילה`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `**ונשרלה[?] האילן עד בואה לנה[?] השלואנו[?]**` → `**וערלת האילן עד בואה לנה[?] השלואנו[?]**`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `רמז לנט'[?]` → `רמז לנצ'`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Image-supported correction: `ר"ל[?] על מי` → `ר"ל על מי`. Uncertain letters remain marked; the deletion at Main_33_R is retained as a deletion.
+- Main_35 reads וערלת, agreeing with Oxford, but the words following עד remain unresolved. JTS abbreviates the intervening base text with עד; do not replace its difficult endpoint with Oxford’s wording. Main_17 retains הכיפור against the portal’s הספור. Main_23 retains בניו against Oxford בנו. Main_39 retains the abbreviation תלייא as transcribed; Main_42 confirms the lemma וכל מותר חסרון.
 
 ---
 
@@ -3706,3 +3718,82 @@ Kraken numbering offset: kraken N = Main_(N−11) (kraken rows 1–11 are margin
 - 33: `נשלם הספור ארבע עשר` — the fourteenth narrative closes. 34: `נבוא לבאר ספור ט"ו והוא וכהן נאצל עליו הוד` — the fifteenth (last) narrative opens = Oxford Zone 2.20 `וכהן נאצל עליו הוד`.
 - 35–39: the priest atones for the evil from the limping one (the thigh); Mal. 2:7 `כי מלאך ה' צבאות הוא` (Oxford `כי שפתי כהן ישמרו דעת`); the priest as `שושבינא דמטרוניתא` (Zohar idiom); must be learned; `כהן עם הארץ` (B. Yoma 18a?); Lev. 1:9 `אשה ריח ניחוח לה'`; continues on 96a.
 - Line 38 is hard to parse (`כאילו ז"ל · בכל מתכוין ... כי ע"ה ה' קרבנ'`); recheck. Margin regions (11) not read.
+
+---
+
+# JTS 2367 fol. 96a — פרוש היריעה הגדולה — draft
+
+Image: `hires_096a.jpg`. Line numbers = crop numbers (`al_096a/Main_NN`, 40 main crops).
+Base: kraken Italian_01 (`htr/096a_italian_logical.txt`), corrected against deskewed line crops; lemmata compared with Oxford
+Zone 2.20 (`oxford/oxford_zones.md`) during the first pass.
+Kraken numbering offset: none (kraken N = Main_NN).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word). Join: 95b:39 ends `ונם ד' מדריגות למעלה`;
+line 1 here continues `במרכבה`.
+
+## Lines 1–4
+1. במרכבה לכן **אמ' כי שפתי כהן וכו'** · **כי השפה מורה על הגדר**
+2. **השכל שיהיה גדור מעולה** · **ובשומו גדר על ענייניו יקרא כהן ומדת**
+3. **היו מושחין אותו בשמן הטוב** · הוא הזוהר הנמשך מן העולם ועל זה
+4. אמר המחבר **ויקחו אליך** המשוגע[?] ל' הכהן כי פרה אדומה · ר"ל פרי האדם
+
+## Lines 5–8
+5. בצירופו והוא השכל האנושי · כי ע"ה[?] הוא השלמות האחרון שיצא שכלו
+6. שלאדם שהוא הפרי לפועל · **אשר לא עלה עליו עול** · ר"ל אדם שלא
+7. קבל עול תורה ואין יודע מאומה אין לו השארות כלל לכן יוציאו
+8. אותו אל מחוץ למחנה · כי מחנה קודש שהוא שכל האנושי · ועל
+
+## Lines 9–12
+9. זכן[?] יקבלו **פני האדם** והשלמים לכן אמ' תמימה · כי התמימות משך
+10. ממום · **אשר אין בה מום** · **לא** כדאי מום אין בו · **אשר לא עלה עול** ·
+11. כלומ' כי העול מורה כפיפת תחת אחר · וזה בא להורות אל סילוק
+12. הצולע ממנה והיה מחנה קודש · והיו מוציאין אותו מחוץ למחנה ·
+
+## Lines 13–16
+13. לרמוז שנעשה לראש פינה · והם כפופים תחתיה כל אותם שהם
+14. חוץ למרכבה · והיא מחשבה טובה לטהר · וחוק לטהרתה · וכן בא לרמוז
+15. שהיא אש אוכלה אש ונשרף הכרך[?] מאותו יתבטל מציאותה
+16. (crop `Main_16_F`, left end of row 15, under a lemma bar) **לדעת אחר**
+
+## Lines 17–21
+17. עצרי[?] · ועל זה נמשך דברי המחבר באומרו זה הדעת
+18. **טוב ממנו שלא יהיה בעלה מושל בו** והוא דם והוא דלי והוא ת"ל ·
+19. (crop `Main_19_F`, under the lemma bar at the left end of row 18) **טוב**
+20. והוא מבטלת · **תמימה ר"ל כליה והפסד** · כלומ' שהתמימות מורה
+21. האדם שהוא השכל האנושי כלו ונפסדו הכחות החמריות ועל
+
+## Lines 22–25
+22. כבר הקבלה ביארתיו · **ומלאך ה' וכו'** · **עם אשת השור** · **מלאך השם**
+23. **שושבינא דמטרוניתא** · **היה צריך לשוחטה על עיקר האדמימות**
+24. **במזרח** · שושבינא דמטרוניתא הנמשך מחסד היה שוחט אותה
+25. **על עיקר האדמימות** שהיתה מתגברת בכחה וממשלתה · וכל שחשה
+
+## Lines 26–29
+26. נמשך אליה · ואז נסתלק הדם שסודו דלי ת"ל נחשך ונהיה אחר
+27. הכהן **במזרח ופניו כפני מערב** · כי הצולע עומד בין מזרח למערב
+28. והיות החוט נמשך ממזרח למערב יסתלק הצולע · ועל זה נמשך
+29. דברי המחבר באומרו **והיה להסיר אשת השור** שהוא שעטנז ··
+
+## Lines 30–33
+30. ונפש אדם שהוא בחירת להסיר ממנה · **אחר[?] עליה הדרך**
+31. על דרך המקרה כאשר כוונת המחבר במפורסם ומלאך השם
+32. הוא השכל האנושי המושפע מן השכל הפועל הנק' מטטרון שר
+33. הפנים והאדמימות מורה התגברות הכחות החמריים הנדבק
+
+## Lines 34–37
+34. קשר אל הצורה שהיא הפרי הנרמז · והשחיטה מורה שהשכל
+35. מתגבר ונסתלק הדם שהוא מושך בשפן נפשך והוא ת"ל והיה
+36. שוחט אותה בין מזרח למערב כי השכל שהוא הכהן הוא מכריע
+37. בין החומר והצורה והשתלשלות הצורה מחוברת שנים פני אדם
+
+## Lines 38–40
+38. והשתלשלות החומר ממערב ששם פני השור וכל זה כדי להסיר
+39. ש' התגברות השכל האנושי אשר השור שהיא שעטנז ונה[?]
+40. הכחות החומריות ולקח מדמה כדי להסיר נפש הבהמית ·
+
+## Notes
+- Lemmata compared with Oxford Zone 2.20 during the first pass; the whole page follows it in order.
+- 1–3: Mal. 2:7 `כי שפתי כהן ישמרו דעת`; `שפה` = fence (`גדר`); Oxford `ושפה יאמר על הגדר ... ובשומו גדר על ענייניו יהיה כהן`; anointing with the good oil (Ps. 133:2, Eccl. 9:8 `ושמן על ראשך אל יחסר`).
+- 4–21: Num. 19:2 `ויקחו אליך פרה אדומה תמימה אשר אין בה מום אשר לא עלה עליה על`: `פרה אדומה` read (`צירופו`) as `פרי האדם` = the human intellect's fruit (Oxford `פרי האדם אשר לא עלה עליו עול התורה ואינו יודע מאומה`); taken outside the camp; Ps. 118:22 `לראש פנה`; `תמימה` = `כליה והפסד` (Oxford); 15–18 `זה הדעת לדעת אחר טוב ממנו שלא יהיה בעלה מושל בו` (Oxford). 18, 26, 35: `ת"ל` as a sign for the blood (`דם`/`דלי`), not resolved.
+- 22–29: Oxford `ומלאך לא יהיה צריך לשחטה על עיקר האדמימות במזרח ... ופניו פני מערב ... ושכינה במערב. והיה להסיר אשת השור`; JTS adds the Zoharic `שושבינא דמטרוניתא` (22–24); the priest slaughters between east and west, removing "the limping one"; `אשת השור` = `שעטנז` (29).
+- 30–40: the angel of the Lord = the human intellect emanated from the Active Intellect, Metatron, Prince of the Face; redness = dominance of the material powers; the priest-intellect mediates between matter (west, face of the ox) and form (face of man); the blood = the animal soul (Oxford `ולוקח מדמה זה סוד הנפש הבהמית`). Continues on 96b.
+- Line 4 `המשוגע[?]` and 15 `הכרך[?]` are doubtful; recheck.
