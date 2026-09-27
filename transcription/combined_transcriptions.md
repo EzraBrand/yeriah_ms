@@ -125,7 +125,7 @@ gutter is out of focus in the photograph; not readable from this image.
 31. ואחר שנלחם עם שרו של עשו וירא כי לא יכול לו ונתעלה
 32. במדתו שהוא קו הישר אז אמ' המלאך לא יקרא עוד יעקב
 33. כי אם ישראל · ומיכאל שהוא אל צד החס' והוא התיר המלאך שהוא
-34. גבריאל[?] הממונה שרו של עשו שהוא סמאל : **ועץ הדעת בת יעקב**
+34. גבריאל הממונה שרו של עשו שהוא סמאל : **ועץ הדעת בת יעקב**
 
 ## Lemma 8: ועץ הדעת בת יעקב הנלחם עם סמאל עד עלות השחר (34–42)
 34b. **ועץ הדעת בת יעקב**
@@ -145,6 +145,7 @@ gutter is out of focus in the photograph; not readable from this image.
 - 26–34: Tree of Life = middle line (Tiferet) = ישראל; Gen 32:25–29; Jacob "at the heel of the chariot" before the fight; Michael = Chesed side, releases the angel = Samael. Cf. Bereshit Rabbah 78:1.
 - 35–42: Tree of Knowledge = בת יעקב = Malkhut; Prov 30:21–23; the Shekhinah fights Samael until "dawn" = the hidden light (אור הגנוז). Lemma 8b: הנאשם ונעלם דרך הנחש עלי צור ← Prov 30:19.
 - Lemma recheck against Oxford Zone 2.2, 27-Sep-2026: 41 reads `והוא הנחש ונעלם`, not `הנאשם`.
+- Image recheck, 27-Sep-2026: 34 `גבריאל` is clear (final `אל` as ligature); `של` is written above `שרו`. The red bar under the line marks the lemma on 35.
 
 ---
 
