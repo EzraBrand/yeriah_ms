@@ -3973,3 +3973,86 @@ Kraken numbering offset: kraken N = Main_(N−1) (kraken row 1 absent).
 - 22–33: Num. 19:17 `ולקחו לטמא מעפר שרפת החטאת ונתן עליו מים חיים` (JTS `מעפר שריפת אשת השור` with `החטאת` interlinear — the heifer read as "the ox's wife", *sha'atnez*); living water = the vegetative, sensitive and rational souls; water good at all times for all living things = *Chesed* (Ps. 89:3 `עולם חסד יבנה`); other liquids = external powers; the Jordan's waters not fit (B. Parah 8:10 / B. Bava Batra 74b?); 2 Kgs 5:10 Naaman sent to the Jordan — Oxford `והיה גבור חיל ולא מימיו כי אם הערה קטנה`.
 - 34: `נשלם הסיפור ט"ו` — the fifteenth narrative closes. 35: `נבוא לבאר הסיפור י"ו` — **a sixteenth narrative** opens, the showbread = Oxford Zone 2.21 `ולחם פנים על השלחן להעיר האדם כי זה לא היה אלא להבין אל אור המנורה ... אשר היא נכח השלחן. ולתת טעם שכמו שהלחם הפנים לא היה לצורך השי"ת`. The 2019 outline counts fifteen sections; the manuscript has sixteen narratives.
 - 38–41: the commentator's own summary ("I will give you briefly the author's intention in this narrative"): one who wishes to enter the Chariot must know the limbs of man, which allude to the grades; the showbread = the human intellect that explains wisdom "in many faces" (`פנים`). Continues on 97b.
+
+---
+
+# JTS 2367 fol. 97b — פרוש היריעה הגדולה — draft
+
+Image: `hires_097b.jpg`. Line numbers = crop numbers (`al_097b/Main_NN`, 43 main crops; the last five are short fragments at the
+foot of the page).
+Base: kraken Italian_01 (`htr/097b_italian_logical.txt`), corrected against deskewed line crops; lemmata compared with Oxford
+Zones 2.21–2.22 (`oxford/oxford_zones.md`) during the first pass.
+Kraken numbering offset: kraken N = Main_(N−12) (kraken rows 1–12 are margin notes, not read).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word). Join: 97a:41 ends `וכמו ידעו שלחם הפנים`;
+line 1 here continues `רמז לנוס`[?].
+
+## Lines 1–4
+1. רמז לנוס[?] והשלחן מורה הכח החמרי · וכבר ידעת שרומז לע' · אם כן נמצא שלחם
+2. הפנים והשולחן מורים חומר וצורה · עם המנורה הוא הכתר והוא מורה לשכל
+3. האנושי והוא נוכח השולחן שהוא מורה החומר · ובאו להורות כי השם י"ת ·
+4. אין צריך לטובה ולרעה שעושה האדם · כי הוא עושה טוב ימשך אליו השפע
+
+## Lines 5–8
+5. ואם לרבות[?] לירכך[?] כדא' אם ארעב לא אומר לך · והשתים עשרה חלות שהיו שם
+6. באים לעוררות כי י"ב מנהיגי הגוף שהם ב' ידים ב' רגלים ב' כליות הראש
+7. קורקבן כבד טחול (interlinear above: `קיבה`) מרה וכלם מבוארים בספר יצירה ועל ידי אילו ישיג האדם
+8. החומר האלהי והשכל אין צריך להם ונשאר היה צריך להשתתף בי"ב צורות ובאמצעות
+
+## Lines 9–12
+9. אילו יעלה אל הסולם · ולכן תמצא שנעשה החומר לחם הפנים חומר וצורה ולחם
+10. הפנים · וי"ב חלות הכח השכלי והגשמי · וכשהיו ישראל שהוא השכל תוך
+11. הים שהוא הצורה ומציל ישראל וטובע המצריים בסיבת הנהר הטוב שעשה
+12. ישראל והמים להם חומה מימינם ומשמאלם היו מראים זה לזה זה אלי ואנוהו ·
+
+## Lines 13–16
+13. **זה שתים עשרה חלות** · **כי באמצעות י"ב מנהיגי הגוף שהדריכם לדרך טובה שהוא**
+14. השכל השיגו דוגמתם למעלה והם י"ב גבולי אלכסונים ואחר נעמד[?] שהדריכו החומר
+15. אל צד הצורה השיגו מקום מציאות החומר · וזהו **יותר ראתה שפחה על הים ממה**
+16. **שראו נביאים** · **ומשה אמ' להם מקום אחר מראה להם מקום שתשיגו יותר השגה** ·
+
+## Lines 17–20
+17. **אמיתית מזאת** · **וילכו אל מדבר שור** · מדבר היא אשר השור והוא מקום מציאות
+18. הכחות החומריות · **ואמ' ישראל אנה המקום שאמר לנו משה** · שנשיג השגה
+19. **אמיתית** · **וילכו שלשת ימים וכו'** · אילו ג' ימים רמז ג' תאוות גופניות
+20. והם רדיפת השררה ורדיפת המאכל ורדיפת המשגל · וכאשר נתרחקו מן ···
+
+## Lines 21–24
+21. החומר שהוא המדבר והוא אשר השור · השור שהוא הצורה אז יהיו כפופים ג'
+22. מדרגות השלמות לפניהם ועדיין לא השיגו ההשגה שהיה להם משה · **ויבאו**
+23. **מרתה** · כי עדיין היה להם זכרון מן הכחות החומריות · **ולא היו משיגים אור**
+24. **המנורה** שהוא הכח השכלי והוא **נכח השולחן** שהוא החומר · **אז ויורהו ה'**
+
+## Lines 25–28
+25. **עץ** והוא עץ החיים · ואמ' ויורהו כי ההשגה האמיתית היא ממטה למעלה ואז
+26. יכנס בשלום ויצא בשלום · **ושם נסהו למדהו** מצות השכליות והוא **שבת ודינין**
+27. **ממנם** בחירה בחומר וצורה · ותבין כי כשבת היה **מסדר לחם הפנים על השולחן** כי
+28. בהיות הצורה בשלימות שהוא השבת אז היה משפיע השכל שהוא לחם הפנים
+
+## Lines 29–32
+29. על השולחן שהוא החומר וגם דינין מורה **על הצורה על הדין העולם עומד**
+30. ותבין **מאמר ז"ל באתר דלית דין תמן אית דין באתר דאית דין תמן לית דין** ·
+31. וכשעלו ממטה למעלה והם שלימים בג' דברים חומר שכל צורה אז **ויבואו**
+32. **אלימה** · **מה' הע'** והיא מד' מאחר ששם שנים עשר עינות מים שהם
+
+## Lines 33–36
+33. י"ב גבולי אלכסונים ושבעים תמרים כלולה מן השבעה והמעשר · **ושתים עשרה**
+34. **חלות** שהיא כלולה כלולה משש וכל אחד כלול משש **והם ע"ב** שהוא סוד
+35. המרכבה והשיגו כאלו צוה **אלי מה** · וזה העניין לדעת אחר יותר
+36. נפלא · **נשלם הסיפור י"ו** · **והוא לחם הפנים** ·
+
+## Lines 37–43 (closing paragraph and colophon)
+37. הטעם שצייר המחבר עשר שמות סביב הקו' האמצעי לרמוז שהוא כלול
+38. מעשר עם כל צייר אותם עצמם כי היא כלולה כי אין בחר[?] אלא רמז שבזה
+39. (crop `Main_39_F`, centred) **והכל יחוד אחד** · וזה שכתוב ביריעה ·
+40. (crop `Main_40_F`, centred) מצאו רחל ביאור מספיק
+41. (crop `Main_41_F`, centred) **לנבון** ·
+42. (crop `Main_42_F`, centred, with dots over the letters) **תם ונשלם** (`תם` `ונשלם`[?])
+43. (crop `Main_43_F`, centred, with dots over the letters) **שבח לאל[?] בורא[?]** — colophon formula
+
+## Notes
+- Lemmata compared with Oxford Zones 2.21 (end) and 2.22 during the first pass; the sixteenth narrative follows them in order to the end.
+- 1–16: showbread and table = form and matter; the lampstand = *Keter*/intellect facing the table (Exod. 26:35 `והמנורה נכח השלחן`); God needs neither good nor evil deeds (Job 35:6–7 `אם צדקת מה תתן לו`); Ps. 50:12 `אם ארעב לא אמר לך`. 5–10: the twelve loaves = the twelve "leaders of the body" (two hands, two feet, two kidneys, head, gizzard, liver, spleen, stomach[?], gall) "explained in *Sefer Yetzirah*" (SY 5:4); Exod. 14:22, 15:2 `זה אלי ואנוהו`; Mekhilta Beshallah 3 `ראתה שפחה על הים מה שלא ראו ישעיה ויחזקאל` (Oxford `יותר ראתה שפחה על הים ממה שראו כמה נביאים`).
+- 17–36: Exod. 15:22–27 read as an ascent (Oxford Zone 2.22 follows phrase by phrase): the wilderness of Shur = matter (the ox); three days = three bodily desires (power, food, sex); Marah = memory of the material powers, not yet seeing the lampstand's light facing the table; `ויורהו ה' עץ` = the Tree of Life, true apprehension is from below upward (Oxford `כי באילן לא אעלה אדם כי אם מלמטה למעלה`); `שם שם לו חק ומשפט ושם נסהו` — Sabbath and laws (B. Sanhedrin 56b); the Sabbath arrangement of the showbread (Lev. 24:8); `באתר דלית דין תמן אית דין ...` (Zohar idiom, = Oxford); Elim with twelve springs and seventy palms = twelve diagonal boundaries and the seven × ten; twelve loaves × six = 72 (`ע"ב`), the secret of the Chariot; `אלימה` read `אלי מה` (Oxford `ור"ל אלי מה`).
+- 36: `נשלם הסיפור י"ו והוא לחם הפנים` — **the sixteenth and last narrative closes**.
+- 37–41: the commentator's last remark: why the author drew ten names around the middle line (a reference to the diagram, `צייר`) — it includes ten, "and all is one unity; and what is written on the *Yeri'ah* ... sufficient explanation for the discerning". Oxford's final phrase `בא"י למדני חקיך` (Ps. 119:12) is not in JTS here.
+- 42–43: `תם ונשלם שבח לאל בורא[?]` — the scribe's closing formula for the commentary. The dotted letters over these words may encode a date or a name (chronogram); not resolved; recheck against the codex's other colophons (the MS is dated 1392).
