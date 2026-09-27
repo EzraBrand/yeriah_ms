@@ -3797,3 +3797,82 @@ line 1 here continues `במרכבה`.
 - 22–29: Oxford `ומלאך לא יהיה צריך לשחטה על עיקר האדמימות במזרח ... ופניו פני מערב ... ושכינה במערב. והיה להסיר אשת השור`; JTS adds the Zoharic `שושבינא דמטרוניתא` (22–24); the priest slaughters between east and west, removing "the limping one"; `אשת השור` = `שעטנז` (29).
 - 30–40: the angel of the Lord = the human intellect emanated from the Active Intellect, Metatron, Prince of the Face; redness = dominance of the material powers; the priest-intellect mediates between matter (west, face of the ox) and form (face of man); the blood = the animal soul (Oxford `ולוקח מדמה זה סוד הנפש הבהמית`). Continues on 96b.
 - Line 4 `המשוגע[?]` and 15 `הכרך[?]` are doubtful; recheck.
+
+---
+
+# JTS 2367 fol. 96b — פרוש היריעה הגדולה — draft
+
+Image: `hires_096b.jpg`. Line numbers = crop numbers (`al_096b/Main_NN`, 40 main crops).
+Base: kraken Italian_01 (`htr/096b_italian_logical.txt`), corrected against deskewed line crops; lemmata compared with Oxford
+Zone 2.20 (`oxford/oxford_zones.md`) during the first pass.
+Kraken numbering offset: kraken N = Main_(N−2) (kraken rows 1–2 absent).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word). Join: 96a:40 ends `ולקח מדמה כדי להסיר נפש
+הבהמית`; line 1 here continues `ר"ל המכשף`.
+
+## Lines 1–4
+1. ר"ל המכשף הנרמז בדם והוא חול והוא קודש ~~גבוה מאד~~ והוא דרך ·
+2. ועל דרך הקבלה · כדי להחליש ולסלק הצולע · **והזה אל נכח פני אהל**
+3. **מועד** ר"ל הכוונה מן השתיה ומעל מה שכתבתי למעלה אינו לא ··
+4. להמשיך החומר שהוא הנפש החיונית והוא המכשף כדי ·
+
+## Lines 5–8
+5. להחליש כחו ויהיה נכחי[?] לקבל שפע מאהל התורה · ועל דרך הקבלה
+6. הוא כי הדם הוא רמז לכחות הטומאה שאהל מועד כנגדם לכן היה
+7. משים הדם נוכח האהל לרמוז כי משם עקר קבלתם ונמשך הדם ···
+8. לגבול לעזאזל ומשלתו · קצתו · **פירה** · **ויקטיר ששה סגור** · **ובאצבעו**
+
+## Lines 9–12
+9. **כל כחו יזה שבע פעמים** · **כי כן ימי המצה להשגיח** · כי **החמץ הוא מבוער**
+10. **בה המקירה** כי החוטא שהוא הדם פועל בשבעה שערי הנפש
+11. והם הרגשות החיצוניות הגופניות ולכן היה מזה אותו באצבע לרמוז
+12. שאילו שהיו אוחזים בצע טומאי בצע הם נחזרו לאחור כמו האצבע
+
+## Lines 13–16
+13. וכלם הסכימו עם השכל האנושי כי אילו השבע כלולים בה' וכלם
+14. חזרו לאחור והפעמי[?] כמעט נשם מחצבם ושם משכן השכל כי כן
+15. **היו ימי המצה** · כלומ' כי המצה · רמז השכל האנושי כדא' כי אתה
+16. שומע תפלת כל פה · ר"ל פה · בגי' מצה לכן היו רואים שבע
+
+## Lines 17–20
+17. ימי המצה להורות ששבעת שערי הנפש הסכימו עם השכל שהוא
+18. המצה ונתרחק החמץ שהוא הכח החמרי לרמוז שאותם הנסים
+19. והנפלאות לא השיגום בחמריות אלא בשכליות · וחמץ מלשון מעוול
+20. וחומץ · **הה"ד תן חלק לשבעה לשבעה וגם לשמונה** · כלומ' תן חלק
+
+## Lines 21–24
+21. לשבעה שערי הנפש והם ההרגשות החיצונות והם בשבעה
+22. התאוה כי לא תהיו כראה[?] לשבר יצרה וגם לשמונה שהוא השכל
+23. האנושי תן לו חלקו כ"ל · וכן הוא על סדר המערכה[?] · תן חלק לשבעה
+24. כוכבי לכת כי בכחם ובכח תנועתם מתהוות ההויה החמרית
+
+## Lines 25–28
+25. וגם לשמונה · שהוא גלגל שמיני ומשם נמשכות הויות אמיתיות כי שם
+26. חקוק י"ב צורות הידועות **וחוזר חלילה** · כלומ' פעמי' תן חלק לזה
+27. בהתחלת הידוע ופעמי' לזה · ועל דרך הקבלה השכינה ואחור הם רמז
+28. לעולם עליון והטעם שהיה מזה הדם הוא כי הדם הוא הנפש החיונית
+
+## Lines 29–32
+29. ובא לרמוז שכל זמן שישראל יהיו טהורים יתעלה הנפש לעולם הבא
+30. שהם השבע · **וישרוף אותה לעיניו** וכו' כי אילו ג' דברים שהם שורה
+31. בשרה פרשה הם כנגד ג' חומריות המונעים השכל האנושי מלבוא
+32. אל שער הגבורים[?] שהיא החכמה האלהית שהם מלבוש בשרה רדיפת
+
+## Lines 33–36
+33. המאכל פרשה תאוות המשגל וכל כל הכחות החומריות תלויין
+34. על פרשה לכן אמ' על פרשה ישרוף · ועל דרך הקבלה כי ראש
+35. הפרה הרומזת למלכות היתה כמלכות והיא אדומה תמימה אשר אין
+36. בה מום אשר לא עלה עליה עול אז נתבטלו כל בעלי דינין והם
+
+## Lines 37–40
+37. ג' מדריגות שלשה קליפות יש כנגד שלשה שהם שרה בשרה פרשה והיא אש
+38. אוכלת כל האשים · דוק ותשכח על השרפה ג' עולות ומצות
+39. **מצויר חיתוך פריעה מציצה** · **ולקח הכהן עץ ארז ואזוב ותולעת**
+40. **שני** וכו' ועץ ארז הוא החומר המתאוה בתאוות חומריות ··
+
+## Notes
+- Lemmata compared with Oxford Zone 2.20 during the first pass; the page follows it in order.
+- 1–8: Num. 19:4 `והזה אל נכח פני אהל מועד מדמה`: the blood = the vital soul, "the sorcerer" (`המכשף`), weakened so as to receive from the Tent of the Torah; by Kabbalah the blood = the powers of impurity, sprinkled toward the Tent because there they receive; `לעזאזל`. Line 1 has a struck-through phrase (`~~גבוה מאד~~`[?]).
+- 8–24: Num. 19:4 `באצבעו ... שבע פעמים` = the seven days of *matzah* (Oxford `כן היו ימי המצה להשגיח כי החמץ הוא מבוער`); the seven gates of the soul (external senses) turn back like the finger and agree with the intellect; `מצה` = `פה` (gematria 135 vs 85: does not calculate as read; the text says `ר"ל פה בגי' מצה`, flagged) — B. Berakhot `כי אתה שומע תפלת כל פה`; `חמץ` from `חומץ`/`מעוול`. 20: Eccl. 11:2 `תן חלק לשבעה וגם לשמונה` (Oxford `וחזור חלילה`): seven planets and the eighth (zodiacal) sphere with its twelve forms.
+- 29–37: Num. 19:5 `ושרף את הפרה לעיניו את ערה ואת בשרה ואת דמה על פרשה ישרף`: skin, flesh and dung = three material hindrances (food, sexual desire — Oxford `ואת בשרה רדיפת המאכל ... ואת דמה כח המשגל ואת כל פרשה`); by Kabbalah the heifer's head = *Malkhut*; the three shells.
+- 38–39: `ג' עולות` and circumcision `מילה פריעה מציצה` (B. Shabbat 133a)[?]. 39–40: Num. 19:6 `ולקח הכהן עץ ארז ואזוב ושני תולעת` (Oxford `ולקח הכהן עץ ארז שאינו עושה פרי`); cedar = matter craving material desires. Continues on 97a.
+- Line 32 `שער הגבורים[?]` and 22–23 uncertain words need recheck.
