@@ -4,7 +4,7 @@
 
 Image: `hires_076b.jpg` (IIIF FL27544706, 3943x5143). Line numbers follow `hl_076b/bands.json` (52 bands).
 `[?]` uncertain · `<..>` illegible · **bold** = lemma (red underline in MS) · `(k)` marks were from the first BiblIA_01 pass; the text below is now merged with the Italian_01 hi-res pass.
-Status: lines 1–50 drafted (manual reading merged with kraken Italian_01 + SoferMahir layout on the hi-res image, `htr/076b_italian_hires_logical.txt`). Margins and lines 51–52 open. Second pass needed on `[?]`.
+Status: lines 1–50 drafted (manual reading merged with kraken Italian_01 + SoferMahir layout on the hi-res image, `htr/076b_italian_hires_logical.txt`). Margins open. The main block ends at line 50 (checked on the ALTO crops 27-Sep-2026; the old projection count of 52 bands included non-text rows); 76b:50 `הולך` runs into 77a:1 `הולך תמים`. Second pass needed on `[?]`.
 
 ## Preface (1–5)
 1. דע לך כי כוונת המחבר האיגרת[?] הזאת בקצת המקומות · יש בו שני עניינים אחד
@@ -65,7 +65,6 @@ Status: lines 1–50 drafted (manual reading merged with kraken Italian_01 + Sof
 48. הבינה וקרא לחסד[?] אשור כי הוא ראש לו' קצוות · ולכך אמ' אשרי
 49. תמימי דרך כי התמימות נמשך מחסד שהוא ראש לעולם העליון · מצורף
 50. אל מאמרם ז"ל כל פינות שאתה פונה לא יהו אלא לימין · ובאומרו הולך
-51. –52. [not yet read]
 
 ## Notes
 - 6–7: Ps 61:4 + Ps 119:80; initials מ + י = מ"י = 50 = fifty gates of Binah. 9: מגדל עוז = שם יי (Prov 18:10). 10–11: Prov 18:10 "בו ירוץ צדיק" + Ps 91:14 "אשגבהו כי ידע שמי". 14–15: Gen 2:25 ולא יתבוששו.
@@ -124,7 +123,7 @@ gutter is out of focus in the photograph; not readable from this image.
 31. ואחר שנלחם עם שרו של עשו וירא כי לא יכול לו ונתעלה
 32. במדתו שהוא קו הישר אז אמ' המלאך לא יקרא עוד יעקב
 33. כי אם ישראל · ומיכאל שהוא אל צד החס' והוא התיר המלאך שהוא
-34. גבריאל[?] הממונה שרו של עשו שהוא סמאל :
+34. גבריאל[?] הממונה שרו של עשו שהוא סמאל : **ועץ הדעת בת יעקב**
 
 ## Lemma 8: ועץ הדעת בת יעקב הנלחם עם סמאל עד עלות השחר (34–42)
 34b. **ועץ הדעת בת יעקב**
@@ -274,7 +273,7 @@ detected (kraken 42–51 are margin fragments); not read in this pass.
 27. התמימות נמשך מן החס' ועל זה כיון המחבר באומרו
 
 ## Lemma: והנחש האריך זנבו עד שנגע בראובן (28–33)
-28. ופס'[?] למעלה ממנו : **והנחש האריך זנבו עד שנגע בראובן** :
+28. ותם[?] למעלה ממנו : **והנחש האריך זנבו עד שנגע בראובן** :
 29. פי' הנחש הקדמוני אחר העדר [הדור] (interlinear) ההוא תשש כחו עד שנולד
 30. חם אבי כנען ואז הנחש הטיל זוהמה [כאשר] (interlinear) הטיל כימי דור המבול
 31. ובאומרו על שנגע בראובן רמז הוא למה' כי הראייה מיוחדת
@@ -360,7 +359,7 @@ often one line early. Status: main block 1–46 corrected.
 26. זה שלש פעמים והיא אם החמור בני אתונו · מדרגות הם מכוחות החיצונה[?]
 27. והם מחלק הנחש הקדמוני · וטעם שבלעם הכה אותה ג' פעמ' ההכאה
 28. מורה שהיה חפץ לעדר[?] אליו ממקום יניקתו שהוא הנחש הקדמוני כח כדי
-29. לקלל את ישרﭏ כי משם נמשכת המיתה · וטעם ג' פעמ' רע לך כי הכח
+29. לקלל את ישרﭏ כי משם נמשכת המיתה · וטעם ג' פעמ' דע לך כי הכח
 30. ההוא ג' הם ג' מדרגות והם שלשה קליפה נז'[?] ומזה הטעם אנו עושים
 31. ג' מנות במצות המלה והם חתוך פריעה מציצה והם כנגד אילו ג' קליפות
 32. להתרחק הכח ההוא מגופינו כי אנו חלק השם · **ותלחץ אל הקיר** · פי' לקבל
