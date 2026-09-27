@@ -11,6 +11,8 @@ This repository is an experimental scholarly transcription, translation, and pre
 - Claude may be downloading manuscript tiles or correcting transcriptions in this clone. Before editing, building, pulling, merging, rebasing, or committing, inspect `git status`, recent file modification times, and any active download/transcription logs or processes.
 - Preserve all concurrent uncommitted work. Do not clean generated folders, remove logs, restart downloads, or modify a transcription folio another process is actively writing.
 - Before publishing, fetch the remote and reconcile any divergent commits only after the active downloader or transcription job has finished. Never rewrite another agent’s commit.
+- Commit a translation draft (`translations/Nx.md`, its generated page, and the `draft` manifest entry) as soon as a reviewable checkpoint exists. Uncommitted drafts block other agents from building or reviewing, and they can be lost.
+- End a work session with a short handoff: folios done, commits, open `[?]` points, and rechecks still needed.
 
 ## Source hierarchy and witness discipline
 
@@ -40,6 +42,30 @@ This repository is an experimental scholarly transcription, translation, and pre
 - Do not inflate the notes with generic introductions to Kabbalah. Explain only what materially helps the reader understand this passage.
 - Flag internal contradictions rather than harmonizing them. A contradiction may reflect textual corruption, recensional difference, diagrammatic logic, or the present transcription.
 - Use the comparative apparatus for variants that affect meaning; minor orthographic differences need not be tabulated unless they bear on interpretation.
+
+## Pre-translation check of the transcription
+
+The transcription is a draft. A translation built on a misreading hides the error behind fluent English. Before translating a folio:
+
+- Read the folio's transcription notes and count its `[?]` marks. Folios with many uncertain readings (at present 91a–92a) need a second transcription pass before translation.
+- Compare every lemma with the Oxford Great Parchment and with Busi. **Where Oxford diverges from a JTS lemma, recheck the JTS image before translating.** In 80b the draft transcription had `נהר עשירי יכלבו לבד` and `ואפלה לאברהם`; the image reads `ודור עשירי ישובו לנח` and `ומפלגא לאברהם`, as in Oxford. The same recheck turned an apparent first-person disclaimer (`לא קבלתי`) into `נתנו לנו קבלה`.
+- Also compare against the kraken text (`htr/NNNx_italian_logical.txt`). When kraken agrees with Oxford against the transcription, the transcription is probably wrong.
+- The hi-res images and line crops are not kept. To recheck: `py -3.13 download_from.py 080b` (it continues to later folios; stop or ignore them; on HTTP 429 rerun with `--workers 2`), then `py -3.13 alto_lines.py hires_080b.jpg htr\080b_seg.xml al_080b --scale 2`, and read only the needed `al_080b/Main_NN_R/L.png` crops, at most 8 images per call.
+- Correct the transcription first (in `transcription/NNNx.md`, with a dated note of the old and new reading), then rebuild the translation. Never correct the Hebrew only in the English.
+
+## Translation fidelity checklist
+
+These points come from the review of the 80b draft (27 September 2026). Check each before `--final`:
+
+- **Carry every uncertainty.** Each `[?]` in the Hebrew needs a matching `??…[?]??` in the English. Do not render an uncertain word as secure English.
+- **Add no unlabelled words.** Bracketed supplements must be syntax, e.g. `[is]`, or labelled conjecture. Do not invent a clause to smooth an opening fragment.
+- **Keep JTS syntax.** Subject, object, and preposition follow JTS even where Oxford or the Bible differ; e.g. `והולידו את בני האלהים` makes "the sons of God" the object. Record the difference in a note.
+- **Translate prepositions exactly.** `למעלה מ-` is "above", not "to".
+- **Keep compounds apart when the commentary splits them.** If the exposition parses `שבעה עשר` into "seven" and "ten", do not translate both places as "the seventeenth".
+- **One word, one rendering.** When the same Hebrew word appears in a lemma and a gloss, render it the same way, or give both senses and explain the wordplay (e.g. `כלה` "all" / "bride").
+- **Name the speakers correctly.** `המחבר` is the author of the Great Parchment text; the commentator is Tzarfati. Never call either of them "the translator".
+- **Verify every gematria.** Compute it in the note (e.g. `שככה` = `בשגם` = `משה` = 345). If it does not calculate as read, say so; do not assert it.
+- **Anchor notes where the topic starts.** Put the reference at the first line that the note discusses. Split a note that covers two separate passages. Number notes in order of first appearance.
 
 ## Oxford Great Parchment presentation
 
@@ -87,6 +113,8 @@ This repository is an experimental scholarly transcription, translation, and pre
 - Run `py -3.13 build_translation.py --check` for generator-managed pages and `py -3.13 -m unittest discover -s tests -v` after changing the generator.
 - Confirm that each Oxford block contains exactly one standalone `.oxford-hebrew` paragraph and that it has `lang="he" dir="rtl"`.
 - Run `git diff --check`.
+- After changing any `transcription/NNNx.md`, run `py -3.13 combine_transcriptions.py` and `py -3.13 build_site.py`, and rebuild every translation page that uses that folio.
+- Before `--publish`, go through the translation fidelity checklist above, and confirm that `[?]` counts in the Hebrew and English columns correspond.
 - Rebuild `index.html` after changing `build_site.py`.
 - Check previous/next/home links and verify that all linked local files exist.
 - When publishing, wait for the GitHub Pages deployment and verify the live URLs return HTTP 200.
