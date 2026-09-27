@@ -742,7 +742,7 @@ Base: kraken Italian_01 (`htr/080b_italian_logical.txt`), corrected against desk
 Kraken numbering offset: kraken line N = Main_NN for 1–3, Main_(N+1) for 4–19, Main_(N+5) for 20–39, Main_(N+6) for 40–41;
 kraken 42–57 are the cramped bottom row, the catchword and the right-margin glosses (see Notes).
 `[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar in the interline space above the lemma, usually over its
-first and last word only). `transcription/080a.md` does not exist yet, so the join of line 1 to the previous page is not checked.
+first and last word only). The opening continues 080a:42; the syntax remains fragmentary.
 
 ## Text
 1. וכבוד ואפי' השכל האנושי היה אדוק בכחות ההם ולדבקם[?] וזהו **ויראו בני**
@@ -764,7 +764,7 @@ first and last word only). `transcription/080a.md` does not exist yet, so the jo
 17. עשו כן ואברהם שהוא איש החסד בא לבקש רחמים עליהם · **ויאמר** השם
 18. מדת רחמ' לבד **האף** שהיא מדת הדין **תספה צדיק עם רשע** ואמר
 19. ה' **לא ידון רוחי** שהיא מ"ה בעבור אברהם איש החסד על זה אמר
-20. אשרי העם **שככה** לו **בשגם** פי' כמו ויתמר[?] המלך שככה בזכות
+20. אשרי העם **שככה** לו **בשגם** פי' כמו וחמת המלך שככה בזכות
 21. הצדיק ומהיכן משכן[?] מן השר שהוא מש"ה הרמוז בגימטטור[?]
 22. שככה בשגם שניהם כמ'[?] ז"ל שמדמים הצורה ליוצרה · **ונפלו[?]**
 23. **בארץ בימים ההם והולידו את בני האלהים מהבנות ומעולם אנשי השם**
@@ -776,15 +776,15 @@ first and last word only). `transcription/080a.md` does not exist yet, so the jo
 29. ז"ל במקום שבעלי תשובה עומדים צדיקים גמורים אינם יכולים לעמוד
 30. ועל זה אמ' **וגם אחרי כן אשר יבאו בני האלהים אל** וכו' וקודם שחטא
 31. אין לו רשות לבוא אל בנות האדם כי במה שאדם חוטא באותו דבר
-32. עצמו חוזר בתשובה · **ונח[?] בתיבה לבד בחודש השני האיר דלת[?]**
-33. **נ' שער · בינה ואי[?] יונור[?] וישת ים כביתאו[?]** · פי' כבר ביארנו כי התיבה
+32. עצמו חוזר בתשובה · **ובחר בתיבה לבד בחודש השני האיר דלתות[?]**
+33. **נ' שער · בינה וארובות[?] השמים[?] נפתחו[?]** · פי' כבר ביארנו כי התיבה
 34. רומז[?] לעולם העליון ובו[?] נמנה תשלום ההקף נבחר[?] בה בחודש השני כי א
 35. מן[?] הש"ה[?] אנו מתחילין למנות · כי במופלא ממך אל תדרוש שהיא
 36. הכלה[?] והש"ה[?] נקראת ראש · ואשת נח נקראת שנייה · ובחודש השני שהוא
 37. רמז אל הבינה בחר[?] בתיבה שהוא רמז לשבע[?] ועל זה אמ' בשבעה
 38. ומה שאמ' עשר כי הם מן העשר · ועל זה כיון המחבר האיר דלת[?] נ'
 39. שערי בינה הנרמז במלת שני · וארובות השמים שהוא רמז אל
-40. הבינה נפתחו · ועל זה אמ' **ויהי[?] הקרב ומר[?]** כל דור המבול לא
+40. הבינה נפתחו · ועל זה אמ' **והזר הקרב יומת** כל דור המבול לא
 41. היו ראויין להשתמש באותו הצוהר[?] · **ויכסו ההרים ט'[?] כלה מישור**
 42. פי' הכת'[?] אומ'[?] חמש עשרה אמה מלמעלה גברו המים כי חמש עשרה
 43. רמז למחשבה הנרמז' בשם י"ה לכן אמ' מלמעלה גברו כי משם
@@ -802,6 +802,7 @@ first and last word only). `transcription/080a.md` does not exist yet, so the jo
 55. (catchword below the last line, `Main_55_F`, kraken 52–53[?]) <..> (2–3 letters, כל[?] with a flourish) — continues on 81a.
 
 ## Notes
+- Image review, 27-Sep-2026: Main_09_L still supports `אדם[?]`; retain the uncertainty and do not substitute Noah from the genealogy. Main_20_L reads `וחמת המלך שככה` (Esther 7:10), replacing `ויתמר[?] המלך שככה`. Main_32_R reads `ובחר`, replacing `ונח[?]`; Main_32_L supports plural `דלתות[?]`, replacing `דלת[?]`. Main_33_R/L supports `וארובות[?] השמים[?] נפתחו[?]`, replacing `ואי[?] יונור[?] וישת ים כביתאו[?]`; the compressed letter groups remain uncertain. Main_40_R/L reads `והזר הקרב יומת`, replacing `ויהי[?] הקרב ומר[?]`. Oxford Zone 2.5 agrees with the three Flood lemmata but is a separate witness. Earlier descriptions below record the first pass where they differ.
 - Numbering: transcription numbers = crop numbers `Main_NN` (55 crops). Kraken skipped the right-margin lines and read the
   bottom rows in a different order: kraken 1–3 = Main_01–03; kraken 4–19 = Main_05–23 (Main_04/06/08/10 are margin lines,
   offset +4 after them); kraken 20–39 = Main_25–44 (Main_24 skipped, offset +5); kraken 40–41 = Main_46, 48 (offset +6);
@@ -811,7 +812,7 @@ first and last word only). `transcription/080a.md` does not exist yet, so the jo
   and beside lines 44–54 (Main_45/47/49/53). The first block completes the Eruvin 18b quotation (Adam begot שדין ולילין ורוחין
   during the 130 years he was נזוף), the second glosses כלה מישור (the bride = מלכות rising along the קו המישור). Main_24 is a
   2–3 letter margin word beside line 25, not read. Line 50–52 is one cramped row split into three crops. Main_55 is a catchword
-  below the text block. `transcription/080a.md` is not yet written, so the join of line 1 was not checked.
+  below the text block. The opening joins the now available 080a:42; no missing syntax has been supplied.
 - Lemmas (red bar above first/last word): 1–2 ויראו בני האלהים את בנות האדם ← Gen 6:2. 9 ודור עשירי ישובו לנח (the Yeri'ah's own
   words; = Oxford; rechecked against the image 27-Sep-2026, earlier draft `נהר עשירי יכלבו לבד`). 12 ומפלגא לאברהם (two bars;
   = Oxford; rechecked 27-Sep-2026, earlier draft `ואפלה`; the preceding `נתנו לנו קבלה` replaces an earlier misreading `לא קבלתי`). 13–14 ונבנה לנו עיר ומגדל וראשו בשמים ← Gen 11:4
