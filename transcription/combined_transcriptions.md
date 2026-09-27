@@ -1260,13 +1260,13 @@ lemma carry a bar). Join: 82b:44–45 ends `בסיבת המילה נבוא לפ�
 5. [k08] יוכל להשיג האדם השארות המוחלט אלא באמצעות הג' חכמות הנח'[?]
 6. [k09] הנזכרות ואח"כ לגן ואח"כ לעדן ועל זה כיון המחבר באומרו **ואחריו**
 7. [k10] **מזבח הזהב** הרמוז לגן והיא החכמה הפנימית שהיא הש'[?] שהוא הזהב
-8. [k11] **הטוב הנמשך לגן** כי הלא כלולה מל"ב נתיבות חכמה · ועל זה אנו
+8. [k11] **הטוב הנמשך לגן** כי היא כלולה מל"ב נתיבות חכמה · ועל זה אנו
 
 ## Lines 9–12
 9. [k12] מכוונים באומרינו כי אתה שומע תפלת כ"ל פ"ה · **ער[?] לא יאכל בו** פי'
 10. [k13] כמו שביארנו כי הנימול הוא חוץ מכל דבר נברא והשגחת אלהים עליו
-11. [k14] כאשר שומר[?] מצות המילה · פי' בגיד מילה וגם נקראת מצ"ה[?] כ"ל פ"ה
-12. [k15] כג' מצ"ה[?] ואמרה תורה כל ערל לא יאכל בו · **והמילה האמיתית להיות**
+11. [k14] כאשר עושה מצות המילה · פ"ה בגי' מילה וגם נקראת מצ"ה כ"ל פ"ה
+12. [k15] בג' מצ"ה ואמרה תורה כל ערל לא יאכל בו · **והמילה האמיתית להיות**
 
 ## Lines 13–16
 13. [k16] **מעשרה הרוגי מלכות** · פי' כי על ידי גילגול הנפש יסתלק הערלה ההיא
@@ -1287,22 +1287,22 @@ lemma carry a bar). Join: 82b:44–45 ends `בסיבת המילה נבוא לפ�
 24. [k27] **שלם הספור השלישי המתחיל ומזבח הזהב** :
 
 ## Lines 25–28
-25. [k28] **נבוא לבאר הספור הרביעי חס"ד** : **יאר[?]** על ענין שהוא לפנים
-26. [k29] משורת הדין שר **גבור בארץ** · פי' כי חס' אינו מבחין בין טוב לרע
+25. [k28] **נבוא לבאר הספור הרביעי חס"ד** : **יא'[?]** על ענין שהוא לפנים
+26. [k29] משורת הדין עד **גבור בארץ** · פי' כי חס' אינו מבחין בין טוב לרע
 27. [k30] כי כל כך עושה חסד למי שאינו ראוי כמו למי שהוא ראוי ולכך
 28. [k31] ניתנה המדה[?] הזאת לאברהם על שהיה עושה חס"ד עם כל עובר
 
 ## Lines 29–32
 29. [k32] ושב אע"פ שלא היה ראוי וכל זה להמשיך את לבם לעבודת קונם
-30. [k33] והחזירם בתשובה · ועל זה כיון המחבר באומרו **והאיר[?] כל העולם** כד"א
-31. [k34] ואת הנפש אשר עשו בחרן · מה שקרא המחבר אברהם גיבור ציד[?]
-32. [k35] אותו לצד שמאל רע[?] כי יש לזה ולזה ראיות חזקות אם אברהם לצד
+30. [k33] והחזירם בתשובה · ועל זה כיון המחבר באומרו **והאיר כל העולם** כד"א
+31. [k34] ואת הנפש אשר עשו בחרן · מה שקרא המחבר אברהם גיבור צייר[?]
+32. [k35] אותו לצד שמאל דע[?] כי יש לזה ולזה ראיות חזקות אם אברהם לצד
 
 ## Lines 33–36
 33. [k36] ימין או לצד שמאל וכן ליצחק צייר אותו לצד ימין ועשו גם כן נמשך
 34. [k37] לצד ימין למטה מאברהם וזה המחלוקת מן המקובלים הקדמונים
-35. [k38] מיוסד[?] על מאמרם ז"ל במחלוקת א'[?] הא' וה' ברך את אברהם בכל
-36. [k39] למ"ד[?] בת היתה לאברהם ובכל שמה הוא אינו סותר ששכינה במשכב
+35. [k38] מיוסד[?] על מאמרם ז"ל במחלוקת א'[?] ההוא וה' ברך את אברהם בכל
+36. [k39] למ"ד[?] בת היתה לאברהם ובכל שמה הוא אינו סותר ששכינה במערב
 
 ## Lines 37–40
 37. [k40] אבל כוונתו שאברהם הוא אל צד שמאל ושכינה יונקת משם · ולמ"ד
@@ -1312,7 +1312,7 @@ lemma carry a bar). Join: 82b:44–45 ends `בסיבת המילה נבוא לפ�
 
 ## Lines 41–42
 41. [k44] כל עובר ושב דבר ידוע הוא מצד השכל כי השולחן היה בצפון
-42. [k45] ומשם העושר ~~נמשך[?]~~ נמשך והתאוות החמריות · ואמ' שהתורה
+42. [k45] ומשם העושר <del>נמשך[?]</del> נמשך והתאוות החמריות · ואמ' שהתורה
 
 ## Notes
 - Kraken lines 46–48 (`כיהם`, `מת הנם`, `שמל'`) are stray marks / margin material below the text block; not transcribed.
@@ -1321,20 +1321,36 @@ lemma carry a bar). Join: 82b:44–45 ends `בסיבת המילה נבוא לפ�
 - 3–4: `מי יעלה לנו השמימה` — Deut. 30:12. The notarikon is the classic one: the initial letters spell `מילה`, the final letters spell the Tetragrammaton. The commentary reads the order: circumcision, then the Name, then "heaven" = the hidden light.
 - 6–8: lemma `ואחריו מזבח הזהב ... הטוב הנמשך לגן`. The golden altar = inner Wisdom, "the gold" that is "good" (cf. Gen. 2:12 `וזהב הארץ ההיא טוב`), drawn down to the Garden; Wisdom comprises the 32 paths (`ל"ב נתיבות חכמה`, Sefer Yetzirah 1:1).
 - 9: prayer `כי אתה שומע תפלת כל פה` (Amidah). `כ"ל פ"ה` is dotted as a number word here and at line 11: `פ"ה` = 85 = `מילה`. The lemma word `ער[?]` probably stands for `ערל` (Ex. 12:48 `וכל ערל לא יאכל בו`, quoted in full at line 12). Recheck.
-- 11–12: `מצ"ה[?]` — reading uncertain in both places; possibly a numerical equivalent. Recheck.
+- 11–12: image rechecked 27-Sep-2026: `פ"ה בגי' מילה`; `מצ"ה` clear in both occurrences; `כ"ל פ"ה` = `מצה` = 135, while `פה` = `מילה` = 85.
 - 12–13: lemma `והמילה האמיתית להיות מעשרה הרוגי מלכות` — the Ten Martyrs; the commentary links it to transmigration (`גילגול הנפש`).
 - 14: Job 33:29 (`הן כל אלה יפעל אל פעמים שלש עם גבר`), the standard proof-text for three transmigrations; completed at 20–21.
 - 15: lemma (bars over `ומי` … `תקצר הנפש`); exact extent uncertain.
-- 16: `לא מת ... אלא דקץ תאינה בלא עיתה` — cf. Kohelet Rabbah 5:11 (the early death of R. Bun: a fig picked in its season). The name read `חנינא` needs recheck.
+- 16: source identification corrected 27-Sep-2026: B. Bava Kamma 91b (parallel Bava Batra 26a), where R. Hanina says his son Shikhhat died for cutting down a fig tree prematurely. JTS reads `חנינא בני`; retain that difference. The earlier Kohelet Rabbah attribution was mistaken.
 - 17–19: Ezek. 16:6 `ואומר לך בדמייך חיי`, doubled = the two bloods of circumcision (`כפלים`).
 - 21–22: lemma `יטול המרגלית ... ויזרוק` (the pearl = the soul). Judg. 5:31 `ואוהביו כצאת השמש`; the commentary concludes there is no transmigration for the wicked.
 - 24: section end: "The third narrative, which begins `ומזבח הזהב`, is complete."
-- 25: start of the fourth narrative, on `חסד` (Abraham). The first lemma word `יאר[?]` is uncertain.
-- 26: `גבור בארץ` — Gen. 10:8 (Nimrod); 31 `גיבור ציד[?]` — Gen. 10:9. The Yeri'ah applies Nimrod's epithets to Abraham; recheck against Busi.
-- 30–31: Gen. 12:5 `ואת הנפש אשר עשו בחרן`. Lemma `והאיר[?] כל העולם` uncertain.
+- 25: start of the fourth narrative, on `חסד` (Abraham). Read provisionally the abbreviation `יא'[?]`, compared with Oxford `יאמר`.
+- 26: `גבור בארץ` recalls Gen. 10:8 and Ps. 112:2; Oxford applies the epithet to Abraham. The image supports `עד`, introducing the endpoint of an abbreviated lemma. At 31 read provisionally `צייר[?]` (depicted), not `ציד[?]`; the earlier claim that this quotes Gen. 10:9 is withdrawn. Busi unavailable.
+- 30–31: Gen. 12:5 `ואת הנפש אשר עשו בחרן`. Lemma `והאיר כל העולם` confirmed from the image, 27-Sep-2026.
 - 32–39: the dispute whether Abraham is placed on the right or the left, set on B. Bava Batra 16b (`וה' ברך את אברהם בכל` — `בת היתה לו` / `בכל שמה`). Line 35 reading of the dispute formula is uncertain.
 - 40–42: Abraham's table in the north: wealth and material appetites come from the north (cf. B. Bava Batra 25b `הרוצה להעשיר יצפין`).
 - 42: the first `נמשך` looks smudged or struck through; recheck.
+
+### Translation image recheck — 27-Sep-2026
+- `כי הלא כלולה` → `כי היא כלולה`; Main line crops reviewed. Uncertainty remains where marked.
+- `שומר[?] מצות המילה · פי' בגיד מילה` → `עושה מצות המילה · פ"ה בגי' מילה`; Main line crops reviewed. Uncertainty remains where marked.
+- `מצ"ה[?]` → `מצ"ה`; Main line crops reviewed. Uncertainty remains where marked.
+- `כג' מצ` → `בג' מצ`; Main line crops reviewed. Uncertainty remains where marked.
+- `**יאר[?]**` → `**יא'[?]**`; Main line crops reviewed. Uncertainty remains where marked.
+- `משורת הדין שר **גבור בארץ**` → `משורת הדין עד **גבור בארץ**`; Main line crops reviewed. Uncertainty remains where marked.
+- `**והאיר[?] כל העולם**` → `**והאיר כל העולם**`; Main line crops reviewed. Uncertainty remains where marked.
+- `ציד[?]` → `צייר[?]`; Main line crops reviewed. Uncertainty remains where marked.
+- `רע[?] כי יש` → `דע[?] כי יש`; Main line crops reviewed. Uncertainty remains where marked.
+- `א'[?] הא'` → `א'[?] ההוא`; Main line crops reviewed. Uncertainty remains where marked.
+- `במשכב` → `במערב`; Main line crops reviewed. Uncertainty remains where marked.
+- `~~נמשך[?]~~` → `<del>נמשך[?]</del>`; Main line crops reviewed. Uncertainty remains where marked.
+- 36: `במערב` (in the west), not `במשכב` (in the bed). Both daughter statements at 36 and 38 are affirmative as transcribed; their contrast is unresolved and no negation has been supplied.
+- 42: struck-through first occurrence retained, with its uncertain reading; markup normalized to `<del>` for the edition.
 
 ---
 
