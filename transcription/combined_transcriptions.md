@@ -946,36 +946,41 @@ lemma carry a bar). The opening continues 80b:54, “they apprehended only,” w
 
 # JTS 2367 fol. 81b — פרוש היריעה הגדולה — draft
 
-Image: `hires_081b.jpg` (4288x5470). Line numbers = crop numbers (`al_081b/Main_NN`, 52 main crops).
+Image: `hires_081b.jpg` (4040x5143). Line numbers = crop numbers (`al_081b/Main_NN`, 52 main crops).
 Base: kraken Italian_01 (`htr/081b_italian_logical.txt`), corrected against deskewed line crops.
 Kraken numbering offset: kraken 01 (`י`) is a stray fragment; kraken 02 = Main_01. The second physical row was cut into
 three crops: Main_04 (right half) + Main_03 (one word, `לחדש`) + Main_02 (left half) = kraken 04 + 05 + 03. From there the
 offset varies; see the per-line notes. Kraken numbers are given in brackets after each crop number.
 `[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word; usually only the first and the last word of a
-lemma carry a bar). Previous folio 81a is corrected only to line 30 of 46, so the join of line 1 could not be checked.
+lemma carry a bar). The opening completes 81a:46: the princes of the nations receive abundance from the river.
 
 ## Lines 1–5 (rows 1–3)
 1. [k02] שפע מן היאור נבאש כי היא אש אוכלה אש ונתבטל מציאותם · אבל בעת
-2–4. [k04+05+03, one row: Main_04 right, Main_03 middle, Main_02 left] הזעם **שוב מול את בני ישרﭏ באחד לחדש**[?] פי' אין ראוי לאדם לבטל מנהגו
+2. [k04+05+03; joined physical row, crop reading order 04→03→02] הזעם **שוב מול את בני ישרﭏ באחד לחדש** פי' אין ראוי לאדם לבטל מנהגו
+3. (fragment of the physical row transcribed at 2; no additional text)
+4. (fragment of the physical row transcribed at 2; no additional text)
 5. [k06] שלעולם לגמרי ולא להיות נמשך אחרי הכוחות ההם אבל בעת הזעם
 
 ## Lines 6–10 (rows 4–7)
 6. [k07] שוב מול את בני ישרﭏ שהיא סוד הערלה והכוחות החמריות · ובאמרו באחד
 7. [k08] לחדש ר'ל כי הסתלקות הערלה וגלוי העטרה היא רמז שהש' תנתן לראש
-8–9. [k11+09, one row: Main_09 right, Main_08 left] פינה · והנה אחד בכלל ואחד בפרט[?] · **ותקח צפרה צר ואת הצפור לא**
+8. [k11+09; joined physical row, crop reading order 09→08] פינה · והנה אחד בכלל ואחד בפרט[?] · **ותקח צפרה צר ואת הצפור לא**
+9. (fragment of the physical row transcribed at 8; no additional text)
 10. [k10] **בתר** ר'ל כשישרﭏ נקיים מן הערלה אזי הש' הנק' צפורה שהיא אשת משה הצר[?]
 
 ## Lines 11–16 (rows 8–10 + one interlinear insertion)
 11. [k12] הצורר כפוף תחת ממשלתה · ואת הציפור ל'[?] שהיא רמז לצפירת תפארה
 12. [k13] לא בתר כי שוב האיש בביתו ותא'[?] אדם[?] לשבת בית · **ומקץ מ' יום** ר'ל הע'[?]
 13. [k14, interlinear insertion between rows 11 and 12, smaller script, left half] ⟨עולה[?] מבולבל[?] כעול[?] שבר הצורר⟩
-15–16–14. [k16+17+15, one row: Main_15 right, Main_16 middle, Main_14 left] שהיא קץ ד' רגלי המרכבה וכל[?] מ<..> בתר[?] **האור נעלם** ר'ל אור החיים ·
+14. [k16+17+15; joined physical row, crop reading order 15→16→14] שהיא קץ ד' רגלי המרכבה וכל[?] מ<..> בתר[?] **האור עולם** ר'ל אור החיים ·
+15. (fragment of the physical row transcribed at 14; no additional text)
+16. (fragment of the physical row transcribed at 14; no additional text)
 
 ## Lines 17–21 (rows 11–15; row 12 is a short line, right part only)
 17. [k18] **מתנת[?] ידו[?] ואת הצפור לא בתר** · ר'ל שלא ישלוט למי שירחיק נפשו במרכב'
-18. [k20, short row, right side only; Main_18 = same text as the upper line of Main_19_R] **ערק[?] לא תאכל ומים לחץ[?] תשתה[?]** ·
+18. [k20, short row, right side only; Main_18 = same text as the upper line of Main_19_R] **לחם לא תאכל ומים לא תשתה** ·
 19. [k19] העליונה שום[?] כח חמרי הנמשך מכחות חמריות הנמשלים ללחם צר
-20. [k21] ומים לחץ[?] · וכן נח הצדיק הדביק נפשו במרכבה העליונה ולא היה
+20. [k21] ומים מרים · וכן נח הצדיק הדביק נפשו במרכבה העליונה ולא היה
 21. [k22] למקטרג רשות לשלוט עליו ובכלות[?] הדין[?] הלך וחסור בעשירי · ונראו ראשי[?]
 
 ## Lines 22–25 (rows 16–19)
@@ -985,9 +990,9 @@ lemma carry a bar). Previous folio 81a is corrected only to line 30 of 46, so th
 25. [k26] **את חלון התבה** ר'ל כי העליונים יתעוררו בהתעוררות התחתונים לחלון
 
 ## Lines 26–29 (rows 20–23)
-26. [k27] רמז[?] לעל' והתיבה רמז לשבע' ואז[?] **שלח[?] את העורב** ר'ל בהסתכל בנתיבותיה
+26. [k27] רמז[?] לעל' והתיבה רמז לשבע' **ולא שלח העורב** ר'ל בהסתכל בנתיבותיה
 27. [k28] לא[?] תשלוט[?] העורב שהוא רמז לכח הדין שהוא הנחש ר'ל שלא תשלוט
-28. [k29] מה' כי זהו קצוץ[?] נטע[?] : **כי לא תאיר החושך בחושך** ר'ל כי מה' היא אש
+28. [k29] מה' כי זהו קצוץ נטיעות : **כי לא תאיר החושך בחושך** ר'ל כי מה' היא אש
 29. [k30] אוכלת אש ואין להם ממשלה רק מכחה ר'ל שרו שלעשו · **לבני עורב**
 
 ## Lines 30–33 (rows 24–27)
@@ -995,6 +1000,36 @@ lemma carry a bar). Previous folio 81a is corrected only to line 30 of 46, so th
 31. [k32] דין קשה כמו העורב עצמו שהוא שרו שלעשו · אשר יקראו כי הוא מקבל
 32. [k33] כח ושפע מן המים העליונים שהוא חס' וכל זה יצוא[?] ושוב · **עד יבשת**
 33. [k34] **המים המתוקים מעל הארץ** ר'ל עד הקלו[?] הזוהר ההוא הנמשך מן המחשב'
+
+## Lines 34–44 (completed 27-Sep-2026)
+34. [k35] שהוא על הארץ · **ישמעאל לא רצה לקבל נדוניית נעמי** ר'ל ישמעאל לא
+35. [k36] רצה לקבל הנשמה החדשה והזוהר ההוא הנשפע מאת הבינה הנקראת
+36. [k37] נעמי כד'א ויהי נועם יי' אלהינו עלינו לכן יצוא ושוב ובתיבה[?] הרמז' לעולם
+37. [k38] העליון היונק מן הבינה · **ושלח את היונה** עד **ויצא בשלום** ר'ל שלח היונה
+38. [k39] שהיא רמז לע' כד'א יונתי בחגוי הסלע ל[?] בסתרי לראות אם עבר אלף
+39. [k40] השביעי שהם המים המתוקים כדי **להשיג למעלה בכתר** כי אין אדם
+40. [k41] משיג בתחלת המחשבה לא[?] באמצעות סוף המעשה **ולא מצאה היונה**
+41. [k42] **מנוח שכר בעולם הבא** · ר'ל לא עבר אלף השביעי ולא היה מקביל ומ'[?]
+42. [k43] ומקבל ולא מצא היונה מנוח לעולם הבא שהוא אלף השביעי כי בחשוכה
+43. [k44] באנה[?] שרגא בטיהרא בטיהרא מאי בעי · **ותשב התיבה** ר'ל שני המלכים
+44. [k45] משתמשים בכתר אחד · **נכנס בשלום ויצא בשלום** ר'ל כי משם אצילותה ·
+
+## Lines 45–52 (completed 27-Sep-2026)
+45. [k46] **ויחל שבעת ימים** התחיל למנות ממטה למעלה מ' י' ה' נ' ת' ג' גד' כדי
+46. [k47] ליחדם כולם בחסד כי עולם בחסד יבנה · **ותבוא השכר לעת ערב** ר'ל אע'פ'
+47. [k48] שעולם בחסד יבנה באמצעות מלכות הנרמזת במלת ערב יצא הכל לפועל ·
+48. [k49] **ריחוק[?] משגב על כל הנביאים** ר'ל אע'פ' שכל הענינים מתגלים על ידה
+49. [k50] רחוק[?] שהוא קו' האמצעי המתעלה והמשגבה על כל הנביאים משם
+50. [k51] אצילות הש' · **והנה עלה זית טרף בפיה** ר'ל שהש' מתעלת למעלה מן הקו'
+51. [k52] הנק' תורה שבכתב ואז נק' גם[?] היא נעמי בשם שכינה שלמעלה והיא
+52. [k53] כחת'[?] מנורה וציון הרומזים למחשבה ולבינה כי ירושלם למטה מציון ·
+
+## Notes
+- Pre-translation check, 27-Sep-2026: compared every lemma, including the newly completed lines, with Oxford Zone 2.5 and kraken. Busi was unavailable. The earlier file ended at 33, not 52; lines 34–52 are now transcribed directly from Main_34–52_R/L with kraken support. The join to 82a is “and Chokhmah opposite Zion.” The dimensions in the former header were wrong; the cached image reconstructs to 4040×5143.
+- Segmentation normalization, 27-Sep-2026: compound labels 2–4, 8–9, and 15–16–14 were not readable by the generator. Their already-joined text is retained once at the lowest numbered slot (2, 8, 14); 3, 4, 9, 15, 16 explicitly identify the overlapping fragments and contain no added manuscript text. The image fragment order remains documented above. This preserves all 52 crop identifiers without printing the same words more than once.
+- Image corrections, 27-Sep-2026: Main_02/03/04 confirm the full circumcision lemma; its old whole-lemma uncertainty is removed. Main_14_F `האור נעלם` → `האור עולם`, agreeing in sense with Oxford’s אור עולם but retaining JTS’s article. Main_18_F together with the upper row of Main_19_R `ערק[?] לא תאכל ומים לחץ[?] תשתה[?]` → `לחם לא תאכל ומים לא תשתה`; Main_20_R `ומים לחץ[?]` → `ומים מרים`. Main_26_R/L `ואז[?] שלח[?] את העורב` → `ולא שלח העורב`; Main_28_R `קצוץ[?] נטע[?]` → `קצוץ נטיעות`. The negative concerning the raven agrees with Oxford, but JTS has past שלח whereas Oxford has תשלח.
+- Witness differences retained after image checks: Main_17_R/L has the repeated bird lemma and difficult opening `מתנת[?] ידו[?]`, absent from Oxford’s sequence; do not replace it with the bread lemma. Main_28_L reads בחושך against Oxford תחשך. Main_34–52 confirm the Ishmael/Naomi, dove, ascent through seven days, reward at evening, and olive-leaf sequence. Oxford’s full sefirotic names support the abbreviations in 45. Uncertain ריחוק/רחוק and כחת׳ are not silently repaired from Oxford. Line 40’s לא[?] is not changed to אלא solely for syntax. Line 43’s lamp proverb is internally awkward and repeats בטיהרא; retain it.
+- Marginal material checked 27-Sep-2026: Margin_01 `מרים`; Margin_02 is blurred and unreadable, `<..>`; Margin_03–05 have `על התורה ונעמי / ומנורה וציון ועומד / תחת חכמה בינה`. These supplement the lemma at 50–52 and correspond to Oxford `על התורה ונעמי ומנורה וציון ועומד תחת חכמה ובינה`, with Oxford’s conjunction before בינה absent in JTS. They are recorded here rather than assigned invented main-line numbers.
 
 ---
 
