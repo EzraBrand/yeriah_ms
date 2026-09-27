@@ -1,10 +1,28 @@
 # Reading Reuven Tzarfati’s *Commentary on the Great Parchment*
 
-This project is an experimental digital edition of a difficult and little-studied medieval Hebrew kabbalistic commentary: Reuven Tzarfati’s *Perush ha-Yeri‘ah ha-Gedolah* (Commentary on the Great Parchment), preserved here from Jewish Theological Seminary MS 2367, fols. 76b–97b.
+This project is an experimental digital edition of a difficult and little-studied medieval Hebrew kabbalistic commentary: Reuven Tzarfati’s *Perush ha-Yeri‘ah ha-Gedolah* (Commentary on the Great Parchment), preserved in Jewish Theological Seminary MS 2367, fols. 76b–97b.
 
 The manuscript is challenging in several ways. Its script is difficult, its prose assumes an esoteric vocabulary, and its explanations move among biblical verses, rabbinic traditions, sefirotic symbolism, and the spatial logic of kabbalistic diagrams. The project therefore combines manuscript transcription, academic translation, textual comparison, annotation, and experimental visualization.
 
-## Read the project
+## Introduction to the work
+
+Reuven Tzarfati’s *Commentary on the Great Parchment* belongs to the world of early fourteenth-century Italian Kabbalah. Its object is the cryptic composition known as *Iggeret Sippurim* (“Epistle of Narratives”), whose short, densely allusive units were arranged on a large diagrammatic parchment—an *ilan*, or kabbalistic tree. The Oxford Great Parchment (Bodleian Library MS Hunt. Add. E) is an early modern copy of this visual tradition. Tzarfati’s commentary circulated separately as well as in copies that attempted to reunite exposition and diagram; the present edition follows the commentary in JTS MS 2367, copied in 1392.
+
+The underlying work is not a treatise in ordinary discursive prose. It strings together biblical clauses, verbal echoes, names, images, and abbreviated sefirotic terms. Rivers, trees, animals, patriarchs, adversaries, bodily parts, commandments, and episodes from Genesis or Exodus are made to occupy positions within the divine structure. Tzarfati’s commentary supplies a reading protocol for that compressed iconotext: it identifies the sefirotic referents, explains the biblical associations, and often tells the reader how one figure or narrative event corresponds to another. Apparent jumps in the argument may therefore reflect movement across a diagram rather than simple discontinuity in the prose.
+
+In keeping with the title *Iggeret Sippurim*, Tzarfati treats the text as a sequence of numbered “narratives” (*sippurim*), announcing where one ends and the next begins. These divisions do not always coincide with the topical sections by which modern readers have described the work (see the outline below). At several points the commentary refers the reader to what is “drawn there in the *Iggeret*,” evidence that Tzarfati expounded a text that was also a visual object.
+
+The opening folios illustrate his method. The upper pool and the four rivers of Eden are coordinated with the upper sefirot; the Trees of Life and Knowledge are interpreted through Israel, Jacob, Esau, Michael, and Samael; Adam and Eve, Jacob’s thigh, the serpent, the Golden Calf, and the positive and negative commandments become parts of a single relational map. The commentary repeatedly organizes this material through paired structures: right and left, mercy and judgment, masculine and feminine, upper and lower, holy power and its opposing counterpart. Later narratives apply the same method to the Flood and the Binding of Isaac, to levirate marriage and the book of Ruth, and to the lampstand and the vessels of the Temple.
+
+The manuscript’s vocabulary uses older kabbalistic nomenclature. *Pachad* (“Fear”), often abbreviated in the manuscript as `הפח׳`, is a name for the sefirah more commonly called *Gevurah* (“Power” or “Severity”); *Gedulah* (“Greatness”) similarly names *Chesed* (“Mercy” or “Lovingkindness”). Other sefirotic names appear in abbreviated or punctuated forms, including `חכמ״ה`, `בינ״ה`, `גבור״ה`, `תפאר״ת`, `נצ״ח`, `הו״ד`, and `יסו״ד`. The word `הויה` denotes a hypostasis or emanated divine grade, not “being” in the abstract.
+
+The copyist writes in a compressed scholarly style. Punctuation is sparse, biblical phrases run directly into their explanations, and abbreviations carry much of the argument. Red rubrication marks the lemmata quoted from the *Iggeret*, often only over their first and last words, while the text itself continues without a break. Interlinear additions, deletions, and marginal notes add further layers to the page; damage and blurred areas in the photographs sometimes leave the reading uncertain.
+
+## The edition
+
+Each translated folio places the Hebrew transcription and an English translation side by side, following the JTS lineation. Corresponding passages from the Oxford Great Parchment, as presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm), appear before the major lemmata. The notes identify biblical and rabbinic sources, explain technical language, record significant differences between the JTS commentary and the Oxford parchment, and distinguish textual restoration from interpretation; tables or diagrams are used where a cluster of correspondences is easier to grasp spatially than sequentially. A dotted underline marks every reading that is uncertain in the manuscript or in the translation. The JTS commentary and the Oxford parchment are treated as distinct witnesses, and no reading is silently corrected from another witness.
+
+The result should be read as an academic translation in progress, one that treats the manuscript’s opacity, scribal habits, and visual setting as evidence for interpretation. At present, folios 76b–81a are translated and annotated; a draft transcription of later folios can be read in the combined Hebrew text.
 
 - [Combined Hebrew transcription](https://ezrabrand.github.io/yeriah_ms/)
 - [Folio 76b: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_76b.html)
@@ -19,21 +37,9 @@ The manuscript is challenging in several ways. Its script is difficult, its pros
 - [Folio 81a: translation and annotations](https://ezrabrand.github.io/yeriah_ms/translation_81a.html)
 - [State-of-research and bibliography](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md)
 
-Each translated folio places the Hebrew transcription and English translation side by side. Comparative excerpts from Oxford, Bodleian Library MS Hunt. Add. E—the Great Parchment presented by the [Ilanot Portal](https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm)—are inserted beside the corresponding lemmata. Notes distinguish secure readings, conjectures, source identifications, and differences between witnesses. A dotted underline marks every reading that is uncertain in the manuscript or in the translation.
-
-## Current status
-
-**Translation.** Folios 76b–81a are translated, annotated, and published (section 1 and most of section 2). Translation continues with 81b.
-
-**Transcription.** Corrected draft transcriptions are complete for 76b–92a. The remaining work begins at 92b:1 and continues through 97b. Folios 91a–92a carry a higher share of `[?]` readings than earlier folios and need a second pass against the images before translation. Before translation, 89b:26–47 should also be checked closely because of its dense use of kashrut terminology, and the faint readings at 90a:1–4 and 15–27 should be rechecked.
-
-**Why the transcriptions are still drafts.** Every transcription line was read by an AI model from line crops, starting from a machine (kraken) reading. Rechecks against the images on 27 September 2026 found errors that a fluent translation had carried forward: at 80b:9 the lemma is `ודור עשירי ישובו לנח` (the draft had `נהר עשירי יכלבו לבד`); at 80b:12 the commentator says `נתנו לנו קבלה`, “they gave us a tradition” (the draft had `לא קבלתי`, “I received no tradition”); at 80b:32–40 three Flood lemmata were restored; at 77a:34 a lemma had been dropped; at 78a:28 the quoted words `ותם למעלה ממנו` had been misread. In most of these cases the Oxford Great Parchment or the machine reading already had the correct text. The project therefore rechecks the image wherever Oxford or kraken disagrees with a lemma before a folio is translated. Readings not yet rechecked should be treated as provisional.
-
-**Structure found so far.** Tzarfati divides his commentary into numbered “narratives” (`סיפור`), matching the title *Iggeret Sippurim*. The seventh narrative ends at 87b:22; the eighth begins at 87b:23; the embedded Covenant between the Pieces runs from 88b:39 through 89a:5; the ninth narrative begins at 89a:6 and ends at 90a:28; the tenth begins at 90a:29 and ends at 91b:11 (`נשלם הסיפור העשירי`); and the eleventh begins at 91b:12 (`נבוא לבאר הסיפור האחד עשרה`, the lampstand). The extended discussion of transmigration and levirate marriage begins at 89b:11 and continues, through Ruth and Boaz, to 91b:8. Folios 88a:32–33 and 88b:39 say that material is “drawn there in the *Iggeret*,” evidence for the commentary’s relationship to the Great Parchment.
-
 ## Outline of the work
 
-The following contents table follows the “Breakdown by Section of Interpretation of Biblical Texts or Topics” in my [2019 Seforim Blog essay](https://seforimblog.com/2019/07/ha-yeriah-ha-gedolah/). Its topical descriptions and the page references to Busi’s 2004 edition derive from that table; the project does not at present have access to Busi’s edition itself. The topical sections do not always coincide with Tzarfati’s own numbered narratives: the ninth narrative, for example, runs from 89a:6 to 90a:28, while topical section 9 ends at 89b:10. The JTS folio and line ranges identify the corresponding portions of the commentary; links are supplied for transcriptions and translations currently available in this repository. Oxford links use the Ilanot Portal’s own zone labels; a zone may recur where the commentary crosses a section boundary.
+The following contents table follows the “Breakdown by Section of Interpretation of Biblical Texts or Topics” in my [2019 Seforim Blog essay](https://seforimblog.com/2019/07/ha-yeriah-ha-gedolah/). Its topical descriptions and page references to Busi’s 2004 edition derive from that table. The JTS folio and line ranges identify the corresponding portions of the commentary; links are supplied for the transcriptions and translations currently available. Oxford links use the Ilanot Portal’s own zone labels and point to the section as a whole; the local parallel for each lemma is quoted on the translation pages.
 
 | Section | Biblical texts or topics | Busi pages | JTS MS 2367 | Oxford Great Parchment | Transcriptions | Translations |
 |---:|---|---:|---|---|---|---|
@@ -53,7 +59,11 @@ The following contents table follows the “Breakdown by Section of Interpretati
 | 14 | Sotah (Numbers 5) | 177–181 | 95b–96a, exact lines pending | Not yet mapped | Forthcoming | Forthcoming |
 | 15 | Red Heifer (Numbers 19) | 182–188 | 96b–97b, exact lines pending | Not yet mapped | Forthcoming | Forthcoming |
 
-Oxford zones are section-level links. The local parallel for each lemma is quoted and linked on the translation page; for example, 80b:1–55 follows Zone 2.5 throughout, from the daughters of humanity through the Flood and the fifteen cubits (checked 27 September 2026).
+## What the project may contribute
+
+The working translations already suggest that the commentary reads its “parchment” spatially: rivers, trees, limbs, directions, and biblical figures become coordinates in a sefirotic diagram. Comparison with the Oxford Great Parchment can clarify corrupt or abbreviated lemmata, while also revealing differences among witnesses. The repeated verbal correspondences in the translated folios, together with J. H. Chajes’s reconstruction of the manuscript tradition, support identifying *Iggeret Sippurim* as the Great Parchment expounded by Tzarfati. The base text, its visual witnesses, and Tzarfati’s commentary remain distinct documentary layers, but they belong to the same textual complex.
+
+See the [state-of-research report](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md) for the bibliography, RAMBI search results, manuscript map, and current research questions.
 
 ## Manuscript credit and use
 
@@ -65,27 +75,7 @@ This is explicitly an experiment in using generative AI for manuscript research.
 
 Claude Fable performed the initial technical work: assembling the image and OCR pipeline, segmenting manuscript pages, and establishing the first transcription workflow. Claude Opus 5.5 continued the transcription and reviewed the translations against the manuscript images. Codex (GPT-5.6-Sol, later Astra 6) developed the academic translations, annotations, comparative apparatus, visualizations, HTML reading editions, research survey, and public site.
 
-The two systems check each other. Each translated folio is reviewed line by line against the Hebrew, and doubtful lemmata are reread in the images. The most instructive result so far is that errors enter at the transcription stage and are then hidden by fluent English. Those errors are best caught by comparing the witnesses (Oxford, the machine reading) and returning to the image, not by rereading the translation. Human judgment remains the final check: every reading marked uncertain is left visible for the reader.
-
-## What the project may contribute
-
-The working translations already suggest that the commentary reads its “parchment” spatially: rivers, trees, limbs, directions, and biblical figures become coordinates in a sefirotic diagram. Comparison with the Oxford Great Parchment can clarify corrupt or abbreviated lemmata, while also revealing differences among witnesses. The repeated verbal correspondences in the translated folios, together with J. H. Chajes’s reconstruction of the manuscript tradition, support identifying *Iggeret Sippurim* as the Great Parchment expounded by Tzarfati. The base text, its visual witnesses, and Tzarfati’s commentary remain distinct documentary layers, but they belong to the same textual complex.
-
-See the [state-of-research report](https://github.com/EzraBrand/yeriah_ms/blob/master/research_state_of_the_field.md) for the bibliography, RAMBI search results, manuscript map, and current research questions.
-
-## Introduction to the work
-
-Reuven Tzarfati’s *Commentary on the Great Parchment* belongs to the world of early fourteenth-century Italian Kabbalah. Its object is the cryptic composition known as *Iggeret Sippurim* (“Epistle of Narratives”), whose short, densely allusive units were arranged on a large diagrammatic parchment—an *ilan*, or kabbalistic tree. The Oxford Great Parchment is an early modern copy of this visual tradition. Tzarfati’s commentary circulated separately as well as in copies that attempted to reunite exposition and diagram; the present edition follows the commentary in JTS MS 2367, copied in 1392.
-
-The underlying work is not a treatise in ordinary discursive prose. It strings together biblical clauses, verbal echoes, names, images, and abbreviated sefirotic terms. Rivers, trees, animals, patriarchs, adversaries, bodily parts, commandments, and episodes from Genesis or Exodus are made to occupy positions within the divine structure. Tzarfati counts these units as numbered “narratives” (*sippurim*), in keeping with the title, and marks where a narrative ends and the next begins (for example at 91b:11–12). His commentary supplies a reading protocol for that compressed iconotext: it identifies the sefirotic referents, explains the biblical associations, and often tells the reader how one figure or narrative event corresponds to another. Apparent jumps in the argument may therefore reflect movement across a diagram rather than simple discontinuity in the prose.
-
-The opening folios illustrate this method. The upper pool and the four rivers of Eden are coordinated with the upper sefirot; the Trees of Life and Knowledge are interpreted through Israel, Jacob, Esau, Michael, and Samael; Adam and Eve, Jacob’s thigh, the serpent, the Golden Calf, and the positive and negative commandments become parts of a single relational map. The commentary repeatedly organizes this material through paired structures: right and left, mercy and judgment, masculine and feminine, upper and lower, holy power and its opposing counterpart.
-
-The manuscript’s vocabulary uses older kabbalistic nomenclature. *Pachad* (“Fear”), often abbreviated in the manuscript as `הפח׳`, is a name for the sefirah more commonly called *Gevurah* (“Power” or “Severity”); *Gedulah* (“Greatness”) similarly names *Chesed* (“Mercy” or “Lovingkindness”). Other sefirotic names appear in abbreviated or punctuated forms, including `חכמ״ה`, `בינ״ה`, `גבור״ה`, `תפאר״ת`, `נצ״ח`, `הו״ד`, and `יסו״ד`. The word `הויה` denotes a hypostasis or emanated divine grade, not “being” in the abstract.
-
-The copyist writes in a compressed scholarly style. Punctuation is sparse, biblical phrases run directly into their explanations, and abbreviations carry much of the argument. Rubrication or an overline may mark the beginning of a lemma where the text itself continues without a break. Interlinear additions, deletions, and marginal notes add further layers to the page; damage and blurred areas in the photographs sometimes leave the reading uncertain. The edition follows the JTS lineation and presents the Hebrew beside the English translation. Corresponding passages from Oxford appear before the major lemmata, while the notes record significant differences between the JTS manuscript and the Oxford parchment. Busi’s edition will be added to the comparison when a copy is available.
-
-The annotations are intended to make the work usable both as a translation and as a developing scholarly edition. They identify biblical and rabbinic sources, explain technical language, distinguish textual restoration from interpretation, and use tables or diagrams when a cluster of correspondences is easier to grasp spatially than sequentially. The result should be read as an academic translation in progress: one that treats the manuscript’s opacity, scribal habits, and visual setting as evidence for interpretation.
+The two systems check each other: each translated folio is reviewed line by line against the Hebrew, and doubtful readings are compared with the Oxford witness and reread in the manuscript images. Experience so far suggests that errors enter chiefly at the transcription stage, where fluent translation can conceal them; comparison of witnesses and a return to the image are the most reliable checks. Human judgment remains the final check, and every uncertain reading is left visible to the reader.
 
 ## Technical workflow
 
@@ -107,6 +97,7 @@ The remainder of this README documents the reproducible transcription and site-b
   `BiblIAlong02_se3_2_tl` (main block only) and `SoferMahirCleanFL06Eb_83_tl` (main/margin/paratext).
 - `htr/` — kraken outputs. Lines are stored visually reversed; `*_logical.txt` has them flipped back.
 - `transcription/NNNx.md` — human/LLM transcription, one file per folio; corrections from image rechecks are dated in its notes.
+- `fetch_oxford.py` — downloads the Oxford Great Parchment text from the Ilanot Portal into `oxford/oxford_zones.md` (one section per zone) and `oxford/shapes.json`; used to compare lemmata before translation.
 - `al_NNNx/` — deskewed line crops from `alto_lines.py` (not kept in git).
 - `AGENTS.md` — working rules for the AI agents: witness discipline, the pre-translation recheck, and the translation fidelity checklist.
 

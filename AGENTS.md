@@ -50,7 +50,7 @@ This repository is an experimental scholarly transcription, translation, and pre
 The transcription is a draft. A translation built on a misreading hides the error behind fluent English. Before translating a folio:
 
 - Read the folio's transcription notes and count its `[?]` marks. Folios with many uncertain readings (at present 91a–92a) need a second transcription pass before translation.
-- Compare every lemma with the Oxford Great Parchment (Ilanot Portal) and with the kraken text. Busi’s 2004 edition is not available to the project (no local or online copy; see `research_state_of_the_field.md`); do not claim a Busi comparison unless a copy is supplied. **Where Oxford diverges from a JTS lemma, recheck the JTS image before translating.** In 80b the draft transcription had `נהר עשירי יכלבו לבד` and `ואפלה לאברהם`; the image reads `ודור עשירי ישובו לנח` and `ומפלגא לאברהם`, as in Oxford. The same recheck turned an apparent first-person disclaimer (`לא קבלתי`) into `נתנו לנו קבלה`.
+- Compare every lemma with the Oxford Great Parchment (`oxford/oxford_zones.md`; see “Oxford text for lemma comparison”) and with the kraken text. Busi’s 2004 edition is not available to the project (no local or online copy; see `research_state_of_the_field.md`); do not claim a Busi comparison unless a copy is supplied. **Where Oxford diverges from a JTS lemma, recheck the JTS image before translating.** In 80b the draft transcription had `נהר עשירי יכלבו לבד` and `ואפלה לאברהם`; the image reads `ודור עשירי ישובו לנח` and `ומפלגא לאברהם`, as in Oxford. The same recheck turned an apparent first-person disclaimer (`לא קבלתי`) into `נתנו לנו קבלה`.
 - Also compare against the kraken text (`htr/NNNx_italian_logical.txt`). When kraken agrees with Oxford against the transcription, the transcription is probably wrong.
 - The hi-res images and line crops are not kept. To recheck: `py -3.13 download_from.py 080b` (it continues to later folios; stop or ignore them; on HTTP 429 rerun with `--workers 2`), then `py -3.13 alto_lines.py hires_080b.jpg htr\080b_seg.xml al_080b --scale 2`, and read only the needed `al_080b/Main_NN_R/L.png` crops, at most 8 images per call.
 - Correct the transcription first (in `transcription/NNNx.md`, with a dated note of the old and new reading), then rebuild the translation. Never correct the Hebrew only in the English.
@@ -70,6 +70,15 @@ These points come from the review of the 80b draft (27 September 2026). Check ea
 - **Name the speakers correctly.** `המחבר` is the author of the Great Parchment text; the commentator is Tzarfati. Never call either of them "the translator".
 - **Verify every gematria.** Compute it in the note (e.g. `שככה` = `בשגם` = `משה` = 345). If it does not calculate as read, say so; do not assert it.
 - **Anchor notes where the topic starts.** Put the reference at the first line that the note discusses. Split a note that covers two separate passages. Number notes in order of first appearance.
+
+## Oxford text for lemma comparison
+
+The full Oxford transcription is available locally; do not click through the portal zone by zone.
+
+- `oxford/oxford_zones.md` has one section per zone: `## Zone <label> | <shape id>`, then the plain Hebrew. Zones 2.1–2.22 hold the running text of the narratives Tzarfati expounds (for example 2.5 = the Flood through the Sacrifice of Isaac, 80a–82a; 2.15 = levirate marriage and Ruth, 90a–91b; 2.16 = the lampstand, 91b–92b). `oxford/shapes.json` is the raw response.
+- Refresh both with `py -3.13 fetch_oxford.py`. The Ilanot Portal viewer loads every zone in one request: `https://www.ilanot.org/shapesjson?id=https://ilanot.org/resource/item/manuscript40rgm`. The response is a list with one surface; `[0]["text"][<shape id>]` has `zoneName` and `text` (XHTML). If a shell fetch is blocked, open that URL in a browser, or run `fetch('/shapesjson?id=…')` in a page on ilanot.org.
+- A zone link for the translation pages is `https://www.ilanot.org/detail?id=https://ilanot.org/resource/item/manuscript40rgm&shape=<shape id>`.
+- Method that works: list every bold lemma of the folio, find its Oxford wording with `grep` in `oxford_zones.md`, and reread in the image each lemma where the two differ. On 27 September 2026 this found about 50 misread lemmata in 76b–92a (e.g. `שדה כובס` read as `כוכב`, `כרובים` as `כוכבים`). Oxford points to the place to recheck; the JTS image decides the reading.
 
 ## Oxford Great Parchment presentation
 
