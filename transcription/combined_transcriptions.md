@@ -3141,3 +3141,105 @@ lemma carry a bar). Join: 92a:49 ends with the lemma `ויתן רוחב הבני
 - 41–51: the four camps (`ד' אלפים`) by direction, as in Oxford: east = *Tiferet*, `קול דממה דקה`, face of man, Gabriel; west = *Chokhmah* and *Binah*, face of ox, Michael, with `שכינה במערב` (B. Bava Batra 25a) and Raphael; north (`ורוב תבואות בכח שור`, Prov. 14:4) = *Gedulah*, *Gevurah*, *Netzach*, *Hod*, eagle, Uriel, over grace, righteousness and strength; south = *Chesed*[?], lion, Raphael, over majesty, splendour and glory. The JTS assignment of Raphael to both west (46) and south (51) repeats Oxford's text; left as written.
 - 45–48 are hard to read (faint, cramped); recheck `לרוח[?] מערב`, `על ההולה[?] תפארת`, `שנתבר[?]`. 41–42 `כתר מלכות[?]` matches Oxford's list `שיר חדש כתר מלכות`.
 - Continues on 93a; narrative 11 (the lampstand) is still running.
+
+---
+
+# JTS 2367 fol. 93a — פרוש היריעה הגדולה — draft
+
+Image: `hires_093a.jpg`. Line numbers = crop numbers (`al_093a/Main_NN`, 57 main crops, several of them margin fragments).
+Base: kraken Italian_01 (`htr/093a_italian_logical.txt`), corrected against deskewed line crops; lemmata compared
+with Oxford Zones 2.16–2.17 (`oxford/oxford_zones.md`) during the first pass.
+Kraken numbering offset: kraken N = Main_NN for 1–15; later rows diverge where margin fragments intervene (see notes).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word; usually only the first and the last word of a
+lemma carry a bar). Join: 92b:51 ends `והממונים על ההוד וההדר והפאר`; line 1 here continues `והענוה והגאון`.
+2 margin lines and 1 `default` region detected; not read.
+
+## Lines 1–4
+1. **והענוה והגאון** · **ושעיר המשתלח הפך המנורה** · כי המנורה מקשה רמז
+2. לאחדות המאיר עליונים ותחתונים והשעיר שהוא הנחש מחשיך העולם · ומי ··
+3. שרודף אחרי התאוות החמריות הנמשכים מהנחש **שמים חושך לאור ואור לחושך**
+4. **הה"ד בפיו ובשפתיו וכו'** · **ושעיר המשתלח היה מעיד[?] סמאל** כלומ' כי סמאל הוא ··
+
+## Lines 5–8
+5. שרו שלעשו ובעבורו נכבה המאור הוא שעיר והוא חלק מאותה המקטרג לכן ··
+6. **המשלח את השעיר יכבס בגדיו והנוגע** יטמא · פי' המשלח והמגרש מתוכו ··
+7. התאוות והכחות הגשמיות יכבס בגדיו שהם כלי הגוף ובאמצעותם פועלת
+8. הנשמה כל מראה פעולתה · אבל הנוגע שהוא חקוק עניין בהבלי העולם ומדבק
+
+## Lines 9–12
+9. בעושר כמשובה[?] יטמא · **וביום ההוא יהיו נקיים** · פי' כי יום הכפורים מורה
+10. הצורה השכלית ובהיות הצורה לבדה שולטת[?] המשכיל כבר יכפר עליהם כל יתרון[?]
+11. הגשמיות ובזה תבין יותר נכבד · נשלם הסיפור אחד עשר והוא מנורה :
+12. נבוא לבאר הסיפור שנים עשר : **והכרובים פורשי כנפים למעלה**
+
+## Lines 13–16
+13. **וגבורה נאצלת עליהם** וכו' · פי' הכרובים הם כמו לגדולה והיא הזרוע הימין ונראה
+14. יצא ממים לכן קראם בלשון רבים וזהו **גבורה נאצלת עליהם** · **וכל המרכבה כלולה** (the last words run into the left margin)
+15. **בהם** כל כי הם מקבלים מלמעלה ומשפיעים למטה · **עם כל האצילות** ··· **שמשתלשל בהם** · כל (wide crop reaching into the left margin)
+16. (margin fragment `Main_16_F`, left of line 17) ··ר המשתלשל
+
+## Lines 17–25
+17. משתלשל בהם · ועוד כי הכרובים היא הצורה השכלית עם כחותיה שום הכח כל
+18. (margin fragment `Main_18_F`) <..>ם[?]
+19. המתעורר והמרתה[?] והכח השכלי נשפע מן הגבורה נאצלה עליהם בעבור שנתרחק[?] (margin: `הויות`[?])
+20. (margin fragment `Main_20_F`) <..> כלם[?]
+21. מן הכחות והחומריות הנמשכים מכחות הטבעי והוא יקרא גבור וגבור שכבש
+22. את גבורתו זכה לזה · וכל המרכבה הם ארבעה סודות אי'[?] להם מציאות
+23. (fragment `Main_23_F`, the end of line 22 running into the left margin) ··ם[?] מציאות
+24. בלתי הצורה והצורה מקבלת שפע מהשכל הפועל בלי אמצעי · **ועל זה וכו'**
+25. כי צנצנת המן היה משים למטה מן הכרוב · והטעם שהכרוב היא הצורה הש־
+
+## Lines 26–29
+26. השכלית הנאצל מגדולה ומגבורה והמן רמז לחכמה אלהים הנק' תורה קדומה
+27. והיא נתון למטה מן הכרוב אע"פ שהיא מעלה למעלה · **לאות לבני מרי** · שהוא
+28. שהוא רמז להשארות הנצחיי והו' הדבר הגנוז שהוא קודש **ודינין** שהן המצוות
+29. המעשיות שבאר צוואתם[?] יבוא המצוות האלהיות כולם **במרה** · איפקוד וכבר ידעת
+
+## Lines 30–33
+30. כי יש' נקרא מן וזה בא להורות שהמצוות המעשיות נעשות באמצעות החמר
+31. ותבין כי מציאות הצורה מן הצורה ומן הת"ת · ומציאות החמר מן הע' · **ולא**
+32. **נתנה שבת** · כלומ' לא נתנה השבת שהוא עולם הבא לאותם שקיימו התורה
+33. כבר ידעת כי הזוהר הנמשך מן החכמה נתגשם באויר והוא המן ומזה[?] ··
+
+## Lines 34–37
+34. התורה ונהם[?] האותיות הרוחניות ונתגשמו באויר כי רוחניות היו והיו פורחות
+35. באויר : **שהיה המן נבלע בתוכם** · פי' התורה שהוא המן היה כמו את המן[?] :
+36. **לא על הלחם לבדו יחיה האדם** · כלומ' לא על הנשמה לבדה הנאצלת מן
+37. הבינה יחיה האדם כי **על כל מוצא פי ה'** שהיא חכמת אלהים היא התורה
+
+## Lines 38–42
+38. יחיה האדם וכל איבריו שלאדם ניזונין ממנו · **ולא היו צריכין לצאת**
+39. כי כל מי שמתעסק בתורה ניזון ממנו כתורה[?] הקודריות[?] שהם קיא צואה ·
+40. ונזדכך הגוף האפניים[?] מרוב זכות הזוהר ההוא שהוא המן והתורה · וראיה
+41. **ועינו כעין הבדולח** · כי הבדולח הוא מן הדברים המיוחדים (crop `Main_41_F`, right part of the row)
+42. **לזה** · באו ויובן[?] ואיש[?] **וכו'** (crop `Main_42_F`, left end of the same row)
+
+## Lines 43–46
+43. **בנהר פישון** רמז לחכמת אלהים **אשר שם הזהב הטוב והוא נעים זמירות**
+44. כלומ' זו' · **והמן נהפך לכל מיני מטעמים** · כלומ' התורה נדרשת לשבעים
+45. פנים · **והיא מן למי שאינו יודע מה היא** · כלומ' מי שאינו יודע תורה יחשב ··
+46. שהיא נסתרת[?] מקומות[?] מקומיר[?] ונצורה[?] מן כצירופו עם תוספת אותיות
+
+## Lines 47–51
+47. ומספר ושלה מקום · **והטל היה יורד למטה ולמעלה** · כלומ' הטל רמז לכתר כי
+48. הוא נרמז בשם כוזו העולה טל · והמן רמז לחכמה והוא למעלה ולמטה **להחזירו**
+49. **אל מחצבו** (crop `Main_49_F`, right end of the next row) **למקום שחוצב** ·
+50. ותחילת המחשבה הוא סוף המעשה · **ומה שהזהיר** · (crop `Main_50_F`) **שלא יותירו** ···
+51. כי בוקר רמז לעולם הבא אם לא תלמוד עתה בזה העולם אימתי תלמוד · הה"ד
+
+## Lines 52–57
+52. **אל תתהלל ביום מחר וכו'** · **ואותם שהותירו ממנו וכו'** · כלומ' אותם שהתרשלו
+53. (small crop `Main_53_F`, lemma bar; `לא`[?])
+54. מללמוד אותה בזה העולם עליהם **כתי' וירם תולעים כי תולעתם לא תמות** והם
+55. הכחות החומריות המקוקים[?] בהם · **וחם השמש ונמס** · כלומ' שנתגברו
+56. הכחות החמריות על השכליות הנמשכים מן החכמה הרמוז במלת שמש
+57. ונמס · רוצה[?] ניטול הכחות השכליות · **ואשם** שהם הכחות החומריות **לא**
+
+## Notes
+- Lemmata compared with Oxford Zones 2.16 (end) and 2.17 during the first pass; the whole folio follows them in order.
+- 1–11: end of the eleventh narrative (the lampstand). The scapegoat as the opposite of the lampstand (Oxford `ושעיר המשתלח הפך המנורה`); Isa. 5:20 `שמים חשך לאור ואור לחשך`; Isa. 29:13 `בפיו ובשפתיו כבדוני`; the scapegoat and Samael, prince of Esau (4–5); Lev. 16:26 `והמשלח את השעיר ... יכבס בגדיו`, read of the bodily powers (the garments = the body's instruments); Lev. 16:30 `כי ביום הזה יכפר עליכם` (Oxford), JTS lemma 9 `וביום ההוא יהיו נקיים`. 11: `נשלם הסיפור אחד עשר והוא מנורה` — the eleventh narrative closes.
+- 12: `נבוא לבאר הסיפור שנים עשר` — the twelfth narrative opens with the cherubim (Exod. 25:20 `והכרובים פרשי כנפים למעלה`), = Oxford Zone 2.17. The cherubim = *Gedulah* (right arm) with *Gevurah* emanating on them; the whole Chariot included in them; = the intellectual form.
+- 25–35: the jar of manna set below the cherub (Exod. 16:33–34; Num. 17:25 `למשמרת לאות לבני מרי`); `כי שם שם לו חק ומשפט` read through Exod. 15:25 (`במרה`), with B. Sanhedrin 56b / Shabbat 87b (Sabbath and civil laws given at Marah); the manna = divine wisdom, the pre-existent Torah; B. Yoma 75b `לחם שנבלע באיברים`. 36–37: Deut. 8:3 `לא על הלחם לבדו יחיה האדם כי על כל מוצא פי ה'`.
+- 41: Num. 11:7 `ועינו כעין הבדלח`; 43: Gen. 2:11–12 (Pishon, `הזהב הטוב`, `הבדלח`); `נעים זמירות` (2 Sam. 23:1). 44–45: the manna turned to every taste (B. Yoma 75a) = the seventy faces of Torah; `מן` = `מה` (Exod. 16:15). 47–48: the dew = *Keter*, `טל` = 39 = `כוזו` (the substitution-cipher name of YHWH: כ20+ו6+ז7+ו6 = 39) — calculates; the manna = *Chokhmah*. 49: `להחזירו אל מחצבו` (Oxford `להזירו למעלה למקום שחוצב ממנו`). 50: `סוף מעשה במחשבה תחילה` (Lekha Dodi / Sefer Yetzirah tradition), reversed.
+- 51–57: Exod. 16:19–21 (`איש אל יותר ממנו עד בקר ... וירם תולעים ויבאש ... וחם השמש ונמס`); M. Avot 1:14 `אם לא עכשיו אימתי` (here `אם לא תלמוד עתה בזה העולם אימתי תלמוד`); Prov. 27:1 `אל תתהלל ביום מחר`; Isa. 66:24 `כי תולעתם לא תמות ואשם לא תכבה` (continues on 93b).
+- Margin fragments `Main_16/18/20/23_F` belong to the ends of lines 15, 17, 19, 22 running into the left margin; read only partly. Lines 39–40 and 46 are hard; recheck `כתורה הקודריות`, `האפניים`, `נסתרת ... ונצורה`.
