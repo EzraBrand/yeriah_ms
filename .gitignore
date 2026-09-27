@@ -11,3 +11,7 @@ __pycache__/
 al_*/
 tmp_zoom/
 early_work/
+
+# witness images, tiles and crops are re-downloadable
+witnesses/*/tiles/
+witnesses/*/htr/*.xml
