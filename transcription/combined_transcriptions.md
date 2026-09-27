@@ -3548,3 +3548,84 @@ continues `ארציי`.
 - 24–39: the commentator's own framing: "if you are a man of intellect and have some entry into natural science ... otherwise this explanation will not suffice ... but I will give you a little awakening in this wonderful secret" (24–27). Matter derives from the external power `שעטנז`, form from *Malkhut*, intellect from *Keter*; `צמר` (wool) recombined (`צירופו`) with `ראש לשועלים` (M. Avot 4:15 `הוי זנב לאריות ואל תהי ראש לשועלים`)[?]; restoring each "corner" to its quarry (`מחצב`) = the four legs of the Chariot, the four external beasts gathered; hence no fear of *kil'ayim*. 39 `כי תעלה נקום להתעשר`[?] unclear.
 - 40: `נשלם הסיפור שלשה עשר` — the thirteenth narrative (Zion, prayer, *sha'atnez*) closes at the foot of 94b. Oxford Zone 2.18 ends with the same *tzitzit* material, so the zone and the narrative coincide.
 - Several words in 4, 7–8, 26, 33–34 and 37 are uncertain; recheck `מסבב מבחוץ`, `ממשכה בגבול`, `כלי נעמי`, `הבלכה`, `אמש`, `יכון ... לט"ו`.
+
+---
+
+# JTS 2367 fol. 95a — פרוש היריעה הגדולה — draft
+
+Image: `hires_095a.jpg`. Line numbers = crop numbers (`al_095a/Main_NN`, 43 main crops).
+Base: kraken Italian_01 (`htr/095a_italian_logical.txt`), corrected against deskewed line crops; lemmata compared with Oxford
+Zone 2.19 (`oxford/oxford_zones.md`) during the first pass.
+Kraken numbering offset: none (kraken N = Main_NN).
+`[?]` uncertain · `<..>` illegible · **bold** = lemma (red bar ABOVE the word). 94b:40 closed the thirteenth narrative; this page
+opens the fourteenth.
+
+## Lines 1–4
+1. **נבוא לבאר סיפור ארבע עשרה והוא אורים ותומים** ·
+2. המחבר אמ' כי אורים ותומים רמז לנצח והוד כבר ביארנו טעם אמנם
+3. השנים הם שוים בשמותם ושניהם נקראים אורים ותומים והיו נתונים
+4. **על לב הכהן** שמאירין אלו בין מצות עשה ומצות לא תעשה והיו על
+
+## Lines 5–8
+5. **כתפיו** המע' **יצר טוב** ויצר רע וכבר ידעת כי השנים אחד דין ואחד
+6. רחמים **והיו בחשן המשפט** הרומז לנו' כי משם עקר קבלתם : **ומשמתו**
+7. **הנביאים בטלו אורים ותומים** : כי הנביאים הם לימודי ה' כי הם העולם
+8. היורדים דרך השלם ולכן נקראים אלהים צבאות על ידם יתגלה לפעמ'
+
+## Lines 9–12
+9. **האותות** שהם בכח צבא מעלה · **וכן אמ' חכמי' ז"ל משמת רבי הקדוש בטלה**
+10. **ענוה ויראת חטא** : כי בזמן החכמים נקראים תלמידי חכמים · **ומסילות**
+11. **מי סוטה דומה לזה** · כי סוטה הוא החומר ובעלה היא הצורה וסוטה
+12. למטה מאורים ותומים הרומזים לנצח והוד שהם כוללים כל התורה שהם
+
+## Lines 13–16
+13. עשה ולא תעשה · אם כן האשה שהוא החומר זינתה אחרי הצורה
+14. השכלית שהוא בעלה ולא קיימה התורה היא למרה ולכן מי מרה למטה
+15. מלחם הפנים הרומזים ליסוד שהוא עולם הבא · ואם דרש וחקר אחרי ע'
+16. פנים שיש לתורה יזכה ללחם הפנים ואם זנתה אחרי תורה שהיא עשה
+
+## Lines 17–20
+17. ולא תעשה יזכה ללחם הפנים (interlinear above `יזכה`: `לא`) אלא למרה · **והיא מקום בה' לבדה** : **בעבור**
+18. **כי לא שמרה כבוד אצילות התורה** · **מן המקום הטוב** ומשם
+19. **חוצבה** · **והיא נטמאה שהיתה נמשכת לדברים הארציים השפלים** ·
+20. **ובאו האותיות הקדושות מרים כי מתוקים** · כלומ' מקום מחצב ··
+
+## Lines 21–24
+21. האותיות הוא מן החכמה העליונה שהוא הזהב הטוב ומתוק לחיכך
+22. ונתהפכו מרים כלומ' הסתלקות היכולת ההוא שהם האותיות : **נמשך**
+23. **למה שאמרו ז"ל גדול כחה שלתורה שהיא מקרבת את הרחוקים**
+24. **ומרחקת את הקרובים** · כלומ' הרחוקים הן אותם החומריים שאין
+
+## Lines 25–28
+25. להם הכנה שכלית להשיג הזוהר והשפע שהיא התורה · ואם ירחיק
+26. עצמו מן התאוות החומריות אז יהיה קרוב לקבל הזוהר ההוא ·
+27. **הקרובים לרחק** · **ועל זה אמ' והיתה לאלה בקרב עמה** · ר"ל שאותו
+28. החומר שזינה לא יהיה לו חלק במקום שיהיה להם חלק והוא ההשארות
+
+## Lines 29–32
+29. הנצחיי · **ואם לא נטמאה** · כלומ' אם חטא וטהורה היא שעשתה תשובה ·
+30. **ונזרעה זרע** · שלמד[?] תורה : **תקבל גמול טוב הה"ד והיה כעץ שתול וכו'** ·
+31. **ובעבור שהשגה העליונה היא הנבואה ונמשכת מאורים ותומים** ·
+32. שהם הנצחים הכוללים עשה ולא תעשה ומהם באה ההשפעה לסוטה
+
+## Lines 33–36
+33. שהוא החומר כי הם לימודי ה' ; **כי היו צריכים היות על לב** · כלומ' ··
+34. הכהן הוא השכל והלב הצורה החומר הוא על לב הכהן היו צריכים
+35. האורים והתומים שהיא השפע הנמשך אל החומר כשהוא עסק בתורה ·
+36. **על לב אהרן הכהן** · **אחרי לבבכם זו מינות** · ר"ל מי שלא מאמין החומר
+
+## Lines 37–40
+37. שהוא המכשף והוא אחרי הלב שהוא הצורה יקרא מין וזונה מתרחק
+38. מאלהיו וכא לזהר שלא תתורו · כלומ' לא תטמא תחת בעלה שהיא הצורה
+39. השכלית והשורה[?] השורה[?] אלהית : **ולא תבא מנחתו שעורים מאכל**
+40. (crop `Main_40_F`, the left end of row 39, under the lemma bar: `מאכל`)
+41. **בהמה** · כלומ' שלא תלך אחרי הכחות השעירים והם מכשפים והם כחות
+42. (crop `Main_42_F`, a fragment at the right end of row 41; not separate text)
+43. הטומאה וכלם הם כחות הבהמיות · **ועוד טעם מפורסם שאורים**
+
+## Notes
+- Lemmata compared with Oxford Zone 2.19 during the first pass; the page follows it closely.
+- 1: `נבוא לבאר סיפור ארבע עשרה והוא אורים ותומים` — the fourteenth narrative opens (94b:40 closed the thirteenth). = Oxford Zone 2.19 `ואורים ותומים היו על לב הכהן ... על שתי כתיפיו על יצר טוב`. Urim and Tummim = *Netzach* and *Hod* (positive and negative commandments); on the breastplate of judgment (Exod. 28:30).
+- 6–10: M. Sotah 9:12 `משמתו נביאים הראשונים בטלו אורים ותומים`; `משמת רבי בטלה ענוה ויראת חטא` (M. Sotah 9:15); the prophets as those who learn from God (Isa. 54:13 `לימודי ה'`).
+- 10–30: `ומסילות מי סוטה דומה לזה` (Oxford): the Sotah = matter, her husband = the intellectual form; bitter water below the showbread (*Yesod*, the world to come); the seventy faces of Torah; Oxford `בעבור כי לא שמרה כבוד אצילות השפע מן המקום הטוב אשר חוצבה ממנה ... ובאו המרים מתוקים היו`; B. Yoma 72b / Sifre? `גדול כחה של תורה שהיא מקרבת את הרחוקים ומרחקת את הקרובים` (Oxford); Num. 5:21, 27 `והיתה האשה לאלה בקרב עמה`; Num. 5:28 `ואם לא נטמאה ... ונזרעה זרע`; Ps. 1:3 `והיה כעץ שתול`.
+- 31–43: prophecy flows from Urim and Tummim to the Sotah; Exod. 28:30 `על לב אהרן`; Num. 15:39 `אחרי לבבכם` = heresy (B. Berakhot 12b `זו מינות`); Num. 5:15 `ולא יצק עליו שמן ... קמח שעורים` — barley, food of beasts (B. Sotah 15b `מעשיה מעשה בהמה`), JTS lemma `ולא תבא מנחתו שעורים מאכל בהמה` = Oxford `ולא תבא מנחתא שעור[] מאכל בהמות`. 43: `ועוד טעם מפורסם שאורים` — Oxford `ולפי המפורסם בעבור כי האורים ... שהאותיות היו מדלגות` (continues on 95b).
