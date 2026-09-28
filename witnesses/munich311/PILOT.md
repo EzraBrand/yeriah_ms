@@ -49,3 +49,20 @@ Seven readings in about half an hour of image reading; two uncertain JTS words r
 - Next steps if continued: (1) extend the targeted reading to all `[?]` points of narrative 13; (2) record Munich readings
   in the JTS transcription notes as `Munich 311 fol:line reads …` (never replacing JTS silently); (3) add a Munich line to
   the translation pages' apparatus where it changes the sense.
+
+## Extension: JTS 90a–92a (28 September 2026)
+
+- Munich ↔ JTS: 89b:45 = 19v:1; 90a = 19v:3–20r:3; 90b = 20r:4–20v:34; 91a = 20v:34–21v:12; 91b = 21v:13–22v:14;
+  92a = 22v:14–23v:6. Munich has no red, but the scribe writes lemma words in a larger hand.
+- Method: the kraken line split failed on several of these pages (fragments), so the pages were read from
+  overlapping 2× bands (`witnesses/bands.py`) and close-ups (`witnesses/zoom.py`). About 20–30 min per JTS folio.
+- Results are in the dated "Munich 311 collation" notes of `transcription/089b.md` and `090a.md`–`092a.md`. Roughly
+  50 JTS `[?]` words are resolved, about 40 confirmed, and a set of JTS readings is flagged for recheck. Main points:
+  - 89b:45 `שמ"ו`[?] = `נעמי`; 90a:16 `תחו"ר`[?] = `חמו"ר`; 90a:23 `ובינים שמאת`[?] = `וביום שמחת` (Song 3:11).
+  - 90b:4 lemma is `יש אם למקרא ויש אם למסורת` (B. Sanhedrin 4a); 90b:41 `עמדו ירות`[?] = `נעמי ורות`;
+    90b:47 lemma = `וגן נעול אחותי`.
+  - 91a:15 `והדר נכחים`[?] = `והררי נמרים`; 91a:22 = `ותשכב מרגלותיו`; 91a:24 `שכנתיך`[?] = `שפתותיך`; 91a:47 `כנגד`[?] = `גבריאל`.
+  - 91b:7 `מעובר`[?] = `מעובד` (Obed); 91b:39 `הנוטה`[?] = `הנחש`; 91b:43 `הבית הנר`[?] = `הכתר הנקרא`; 91b:50 `הכהן`[?] = `ה'`.
+  - 92a:5 `עם כן העפרים`[?] = `ועם בין העומדים` (Zech. 3:7); 92a:17 `לגיה`[?] = `בגי' אך`; **92a:18–20 Munich has `משה`
+    where the JTS draft has `מנורה` three times** (as Oxford in the lemma `חונן הדעת משה`); 92a:37 `לצורה`[?] = `לבית`.
+- Munich has two eye-skips in this stretch (90b:21–23, 92a:10–12), so it is an independent copy, not a source for JTS.
