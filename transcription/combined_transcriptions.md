@@ -2657,6 +2657,7 @@ lemma carry a bar). Join: 89a:44 ends `והוא בגי' דל"י שהיא`; line 
 - 23–26: Deut. 22:8 `כי יפול הנופל ממנו` (B. Shabbat 32a: the one who falls was destined to fall); lemma `קדם כי יפול הנופל ממנו`. 25–26: 2 Sam. 14:14 `וחשב מחשבות לבלתי ידח ממנו נדח ולא ישא אלהים נפש`.
 - 26–47: lemma `ולא יבשל בקדירה שבישל בה חבירך` — halakhic terms of kashrut (`בת יומא`, `נותן טעם לפגם`, `בטל בשישים`; B. Avodah Zarah 75b–76a) applied to transmigration and levirate marriage (`ייבום`). The victim who once killed is now killed; `לא תשים דמים בביתך` (Deut. 22:8; 31 a struck letter `ד'`). 40: `ושמא` / 41: `ר"ל מזה הפעם` — the argument is dense; a full recheck with the image is advisable before translation.
 - 45: `שמ"ו` and `והשיבהו` unclear; perhaps a reference to Ruth 4:15 (`ותשימהו בחיקה`, Naomi taking Obed). 46: `שיקראו` struck (dittography); `שיקראו לה שם` — Ruth 4:17 `ותקראנה לו השכנות שם`. Text continues on 90a.
+- Munich 311 collation, 28-Sep-2026 (fol. 19v:1–2, read in the image): 45 `אינה בכלל נעמי · שנאמר ותשיתהו[?] בחיקה` — JTS `שמ"ו`[?] = **`נעמי`**, and the verse is Ruth 4:16 (`ותשתהו בחיקה`), Naomi and Obed. 47 Munich also ends `...שיקראו לה שם כי לא עשה` and continues `תשובה` (= 90a:1).
 
 ---
 
@@ -2756,6 +2757,20 @@ Margin lines detected; not read.
 - 37–38: lemma `גם אברהם קיים המצות הקטנות הכנויים ד' צורות`; B. Yoma 28b (Abraham kept the whole Torah). `ואין עוד` at the end of 38 (barred) unclear.
 - 39–46: lemma `ותפילין שלראש ותחיית המתים וכו'`: Garden of Eden = spiritual, eternal survival; head *tefillin* = four intellectual forms = four inner rivers; resurrection above all. In man: body and soul = matter and form; head *tefillin* = the forms of head, spirit, soul, intellect (interlinear `המתים` above 43).
 - 47–49: lemma `ובא לרמוז כי אברהם אבינו ע"ה היה פועל בחומר ובצורה · והוא מזכר ...`; Deut. 27:5–6 `לא תניף עליהם ברזל ... אבנים שלמות`; the iron = Satan the limping one. Lemma `ויהיה המשיח` continues on 90b.
+- Munich 311 collation, 28-Sep-2026 (Munich fol. 19v:3 to 20r:3; line numbers counted by eye, ±1). Readings taken from the Munich image; the JTS text above is not changed. JTS lines still need a recheck against the JTS image where marked.
+  - 1–2 (M 19v:3–4): `מאחר שלא י[struck] יתגלגל[?] במשפחתו אין רחמי האל על הבן כי לא ירצה[?] הוא כי הוא נותן טעם לפגם ואסור` — JTS `והתוי`[?] = **`רחמי`** ("there is no divine mercy for the son"); JTS `ידחו`[?] `ה'` = Munich `ירצה`[?] `הוא`; the JTS lemma bar over `האלה` needs a recheck.
+  - 5–6 (M 19v:7): `יהיה טוב כגבו'[?] ... וארך אפים מאריך חמתו ומגבור` — Munich has `מאריך חמתו` for JTS `מאין חמתו` (Prov. 16:32 gloss); JTS `ע"כ`[?] not settled (Munich `אורך עד`[?]).
+  - 10 (M 19v:11): `נקרא הכל פתח עם הרב[?] שהוא סוד דלי` — JTS `שם הכם`[?] not settled.
+  - 12 (M 19v:14): `הרמוז לנצחים שהם עש'[?] למעלה והוא הרוכב` — JTS `י"ה`[?] doubtful; not settled.
+  - 16 (M 19v:17): `יש לו שכר כשכר חמור ~~…~~ שהוא כמספר עשה` — JTS `תחו"ר`[?] = **`חמו"ר`** (Issachar's `חמור`, Gen. 49:14).
+  - 17 (M 19v:18): `והוא סובל גרם שהוא הצולע` — JTS `גם השאור`[?] = **`גרם שהוא`** (the "bony" ass = the limping one).
+  - 19 (M 19v:20–21): `והגלגול והגלות יסתלקו ויהיה העולם אחד ואז יהיה חמור[?] מלא רחום ויעקב והוד כלם מלאים והשבח עולה` — JTS `ונוח`[?] = **`ואז`**; Munich `ויעקב` for JTS `יעקב`.
+  - 21 (M 19v:22): `ד' נהרות הנמשכין מן העדן ובמה שזכה` — JTS `מן הגן עדנה`[?] = Munich `מן העדן ובמה`[?].
+  - 22 (M 19v:23): `עטרה לו אמו נצח` — confirms JTS `אמו`[?].
+  - 23 (M 19v:23–24): `לא תעשה וביום שמחת לבו הוד שהוא עשה` — JTS `ובינים שמאת`[?] = **`וביום שמחת`** (Song 3:11 `וביום שמחת לבו`), continuing the verse after `עטרה לו אמו`.
+  - 24 (M 19v:24–25): `יששכר חמור גר' אברהם והוא קיים כו"ם[?]` — Munich has `גר'` (confirms JTS `גרם`[?]); `כו"כ`[?] not settled.
+  - 26–28 (M 19v:26–28): Munich `...ולא תעשה למעלה מחסד[?] ... נשלם סיפור התשיעי`; no `ת"ת ת"ת ת"ת` fragment is visible in Munich (cf. 27).
+  - 43–44 (M 20r:1–2): Munich `והם צורת האש צורת המים וצורת העפר ותחיית המתים הוא הנה השכלי המחייה הכחות החמריים שהם מתים`. JTS 43 reads `צורת הראש צורת הרוח וצורת הנפש`; the Munich list is the four elements. **Recheck JTS 43** (`הראש`/`האש`). JTS 44 `הדבקות`[?] `הרוחני` = Munich `המחייה הכחות`; `החמריים`[?] confirmed.
 
 ---
 

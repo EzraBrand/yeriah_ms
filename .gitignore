@@ -15,3 +15,5 @@ early_work/
 # witness images, tiles and crops are re-downloadable
 witnesses/*/tiles/
 witnesses/*/htr/*.xml
+witnesses/*/bd_*/
+witnesses/*/zoom_*.png
